@@ -84,10 +84,6 @@ module AtlanticaOnlineCraftCalculator
 
         return list
       end
-
-      def ordered_craft_list
-        craft_list.reverse
-      end
     end
 
     class ItemArray < Array

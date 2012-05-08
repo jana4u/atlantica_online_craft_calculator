@@ -124,7 +124,7 @@ module AtlanticaOnlineCraftCalculator
     end
 
     def raw_craft_list
-      item_with_raw_craft_tree.ordered_craft_list
+      CraftList::ItemArray.new(item_with_raw_craft_tree.craft_list.reverse)
     end
 
     def raw_shopping_list

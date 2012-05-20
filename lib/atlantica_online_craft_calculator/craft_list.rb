@@ -17,7 +17,7 @@ module AtlanticaOnlineCraftCalculator
       end
 
       def total_craft_xp_gained
-        total_workload / CRAFT_XP_TO_WORKLOAD_RATIO
+        CraftXp.from_workload(total_workload)
       end
     end
 
@@ -26,7 +26,7 @@ module AtlanticaOnlineCraftCalculator
         result = SkillList::ItemArray.new
 
         self.each do |i|
-          if skill = result.find(i.skill)
+          if skill = result.find_by_name(i.skill)
             skill.workload += i.total_workload
             if i.skill_lvl > skill.lvl
               skill.lvl = i.skill_lvl
@@ -50,7 +50,7 @@ module AtlanticaOnlineCraftCalculator
       end
 
       def total_craft_xp_gained
-        total_workload / CRAFT_XP_TO_WORKLOAD_RATIO
+        CraftExperience.from_workload(total_workload)
       end
     end
   end

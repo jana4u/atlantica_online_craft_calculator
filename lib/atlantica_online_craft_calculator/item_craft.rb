@@ -75,7 +75,7 @@ module AtlanticaOnlineCraftCalculator
     end
 
     def craft_xp_gained
-      @craft_xp_gained ||= workload / CRAFT_XP_TO_WORKLOAD_RATIO
+      @craft_xp_gained ||= CraftExperience.from_workload(workload)
     end
 
     def ingredient_list

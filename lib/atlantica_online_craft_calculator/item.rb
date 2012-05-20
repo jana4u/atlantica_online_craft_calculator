@@ -15,15 +15,15 @@ module AtlanticaOnlineCraftCalculator
     end
 
     def self.all=(hash)
-      @@all = {}
+      @all = {}
 
       hash.each do |item_name, item_data|
-        @@all[item_name] = new(item_data.merge({ "name" => item_name}))
+        @all[item_name] = new(item_data.merge({ "name" => item_name}))
       end
     end
 
     def self.all
-      @@all || {}
+      @all || {}
     end
 
     def self.find(item_name)
@@ -199,7 +199,7 @@ module AtlanticaOnlineCraftCalculator
     end
 
     def craft_xp_gained_per_batch
-      workload / CRAFT_XP_TO_WORKLOAD_RATIO
+      CraftExperience.from_workload(workload)
     end
 
     def craft_xp_gained_per_item

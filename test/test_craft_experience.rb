@@ -21,13 +21,16 @@ class TestCraftExperience < Test::Unit::TestCase
   def test_csv_loading_file
     AtlanticaOnlineCraftCalculator::CraftExperience.load_levels_from_csv(File.join(File.dirname(__FILE__), 'data', 'craft_xp_lvls.csv'))
 
-    assert_equal 2, AtlanticaOnlineCraftCalculator::CraftExperience.levels.size
+    assert_equal 3, AtlanticaOnlineCraftCalculator::CraftExperience.levels.size
 
     assert_equal 1, AtlanticaOnlineCraftCalculator::CraftExperience.levels[0].lvl
     assert_equal 0, AtlanticaOnlineCraftCalculator::CraftExperience.levels[0].xp
 
     assert_equal 2, AtlanticaOnlineCraftCalculator::CraftExperience.levels[1].lvl
     assert_equal 42, AtlanticaOnlineCraftCalculator::CraftExperience.levels[1].xp
+
+    assert_equal 3, AtlanticaOnlineCraftCalculator::CraftExperience.levels[2].lvl
+    assert_equal 104, AtlanticaOnlineCraftCalculator::CraftExperience.levels[2].xp
   end
 
   def test_setting_levels_from_empty_array
@@ -126,6 +129,22 @@ class TestCraftExperience < Test::Unit::TestCase
 
     (100..199).each do |workload|
       assert_equal 1, AtlanticaOnlineCraftCalculator::CraftExperience.from_workload(workload)
+    end
+  end
+
+  def test_calculation_level_from_experience
+    AtlanticaOnlineCraftCalculator::CraftExperience.load_levels_from_csv(File.join(File.dirname(__FILE__), 'data', 'craft_xp_lvls.csv'))
+
+    (0..41).each do |experience|
+      assert_equal 1, AtlanticaOnlineCraftCalculator::CraftExperience.level_from_experience(experience)
+    end
+
+    (42..103).each do |experience|
+      assert_equal 2, AtlanticaOnlineCraftCalculator::CraftExperience.level_from_experience(experience)
+    end
+
+    [104, 105, 100000].each do |experience|
+      assert_equal 3, AtlanticaOnlineCraftCalculator::CraftExperience.level_from_experience(experience)
     end
   end
 end

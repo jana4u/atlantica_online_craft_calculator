@@ -43,5 +43,9 @@ module AtlanticaOnlineCraftCalculator
     def self.from_workload(workload)
       (workload.to_i.abs * multiplier / 50).floor
     end
+
+    def self.level_from_experience(experience)
+      levels.select { |l| l.xp <= experience }.map { |l| l.lvl }.max
+    end
   end
 end

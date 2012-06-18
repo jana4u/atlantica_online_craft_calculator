@@ -12880,6 +12880,125 @@
 "Pegasus Tear":
   market_price: 0
 
+"Wooden Music Sheet":
+  ingredients:
+    "Maple": 5
+    "Weak Gunpowder": 3
+    "Earth Element Shard": 5
+  batch_size: 30
+  workload: 150
+  skill: "Music Sheet"
+  skill_lvl: 1
+
+"Bronze Music Sheet":
+  ingredients:
+    "Coral": 20
+    "Iron Sand": 20
+    "Weak Gunpowder": 10
+    "Embroidery Thread": 10
+    "Earth Element Shard": 10
+  batch_size: 100
+  workload: 1000
+  skill: "Music Sheet"
+  skill_lvl: 5
+
+"Flaming Music Sheet":
+  ingredients:
+    "Pearl": 20
+    "Gold Ingot": 3
+    "Weak Gunpowder": 10
+    "Sea Element Shard": 5
+  batch_size: 100
+  workload: 2700
+  skill: "Music Sheet"
+  skill_lvl: 10
+
+"Mithril Music Sheet":
+  ingredients:
+    "Opal": 5
+    "Silver Ingot": 5
+    "Gold Ingot": 5
+    "Weak Gunpowder": 100
+    "Silver Thread": 5
+    "Flame Element Shard": 5
+  batch_size: 200
+  workload: 12500
+  skill: "Music Sheet"
+  skill_lvl: 15
+
+"Adamantium Music Sheet":
+  ingredients:
+    "Ruby": 2
+    "Platinum Ingot": 20
+    "Weak Gunpowder": 200
+    "Silver Ingot": 100
+    "Mysterious Vial: Valor": 1
+    "Flame Element Shard": 10
+  batch_size: 300
+  workload: 45000
+  skill: "Music Sheet"
+  skill_lvl: 25
+
+"Enriched Adamantium Music Sheet":
+  ingredients:
+    "Adamantium": 5
+    "Platinum Ingot": 50
+    "Common Gunpowder": 50
+    "Colorful Thread": 5
+    "Mysterious Vial: Death": 1
+    "Storm Element Shard": 10
+    "Revival Plant": 20
+  batch_size: 400
+  workload: 169000
+  skill: "Music Sheet"
+  skill_lvl: 30
+
+"Poisoned Music Sheet":
+  ingredients:
+    "Enriched Adamantium Music Sheet": 500
+    "Hydra's Poisonous Gland": 1
+  batch_size: 500
+  workload: 2000000
+  skill: "Music Sheet"
+  skill_lvl: 35
+
+"Wailing Music Sheet":
+  ingredients:
+    "Enriched Adamantium Music Sheet": 300
+    "Crystal of Temptation": 1
+  batch_size: 300
+  workload: 2500000
+  skill: "Music Sheet"
+  skill_lvl: 40
+
+"Titanium Music Sheet":
+  ingredients:
+    "Titanium Ore": 20
+    "Platinum Ingot": 100
+    "Common Gunpowder": 300
+    "Colorful Thread": 20
+    "Mysterious Vial: Death": 2
+    "Sea Element": 50
+    "Revival Plant": 10
+  batch_size: 400
+  workload: 1200000
+  skill: "Music Sheet"
+  skill_lvl: 45
+
+"Enhanced Titanium Music Sheet":
+  ingredients:
+    "Titanium Ingot": 10
+    "Refined Mithril Ingot": 1
+    "Mystic Gem": 1
+    "Gorgeous Colorful Fabric": 5
+    "Sorcerer's Mask": 2
+    "Flame Element": 30
+    "Root of Life": 10
+  batch_size: 400
+  workload: 3000000
+  skill: "Music Sheet"
+  skill_lvl: 50
+
 "Shimmering Opal Necklace":
   ingredients:
     "Necklace Mold": 150

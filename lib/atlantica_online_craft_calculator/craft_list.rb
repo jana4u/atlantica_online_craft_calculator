@@ -17,7 +17,7 @@ module AtlanticaOnlineCraftCalculator
       end
 
       def total_craft_xp_gained
-        CraftXp.from_workload(total_workload)
+        CraftExperience.from_workload(total_workload)
       end
     end
 

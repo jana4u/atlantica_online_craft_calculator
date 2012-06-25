@@ -44,8 +44,84 @@ module AtlanticaOnlineCraftCalculator
       (workload.to_i.abs * multiplier / 50).floor
     end
 
-    def self.level_from_experience(experience)
-      levels.select { |l| l.xp <= experience }.map { |l| l.lvl }.max
+    attr_reader :experience, :skill
+
+    def initialize(experience, skill = nil)
+      @experience = experience
+      @skill = skill
+    end
+
+    def craftable_items_for_skill
+      @craftable_items_for_skill ||= Item.craftable_items_for_skill_ordered_by_skill_lvl(skill)
+    end
+
+    def skill_maxed?
+      craftable_items_for_skill.last.skill_lvl <= current_level
+    end
+
+    def current_craft_experience_level
+      @current_craft_experience_level ||= self.class.levels.reverse.detect { |l| experience >= l.xp }
+    end
+
+    def current_level_experience
+      current_craft_experience_level.xp
+    end
+
+    def current_level
+      current_craft_experience_level.lvl
+    end
+
+    def current_best_craftable_items
+      item_lvl = craftable_items_for_skill.map { |i| i.skill_lvl }.select { |i| current_level >= i }.max
+      craftable_items_for_skill.select { |i| item_lvl == i.skill_lvl }
+    end
+
+    def next_craft_experience_level
+      @next_craft_experience_level ||= self.class.levels.detect { |l| experience < l.xp }
+    end
+
+    def next_level_experience
+      next_craft_experience_level.xp
+    end
+
+    def next_level
+      next_craft_experience_level.lvl
+    end
+
+    def next_item_level
+      craftable_items_for_skill.map { |i| i.skill_lvl }.select { |i| current_level < i }.min
+    end
+
+    def next_craftable_items
+      craftable_items_for_skill.select { |i| next_item_level == i.skill_lvl }
+    end
+
+    def next_item_craft_experience_level
+      @next_item_craft_experience_level ||= self.class.levels.detect { |l| next_item_level == l.lvl }
+    end
+
+    def next_item_level_experience
+      next_item_craft_experience_level.xp
+    end
+
+    def maximum_experience_reached?
+      experience >= self.class.levels.last.xp
+    end
+
+    def experience_needed_for_next_level
+      next_level_experience - experience
+    end
+
+    def experience_needed_for_next_item_level
+      next_item_level_experience - experience
+    end
+
+    def percentage_of_next_level
+      experience * 100 / next_level_experience
+    end
+
+    def percentage_of_next_item_level
+      experience * 100 / next_item_level_experience
     end
   end
 end

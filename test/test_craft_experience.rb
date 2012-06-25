@@ -136,15 +136,15 @@ class TestCraftExperience < Test::Unit::TestCase
     AtlanticaOnlineCraftCalculator::CraftExperience.load_levels_from_csv(File.join(File.dirname(__FILE__), 'data', 'craft_xp_lvls.csv'))
 
     (0..41).each do |experience|
-      assert_equal 1, AtlanticaOnlineCraftCalculator::CraftExperience.level_from_experience(experience)
+      assert_equal 1, AtlanticaOnlineCraftCalculator::CraftExperience.new(experience).current_level
     end
 
     (42..103).each do |experience|
-      assert_equal 2, AtlanticaOnlineCraftCalculator::CraftExperience.level_from_experience(experience)
+      assert_equal 2, AtlanticaOnlineCraftCalculator::CraftExperience.new(experience).current_level
     end
 
     [104, 105, 100000].each do |experience|
-      assert_equal 3, AtlanticaOnlineCraftCalculator::CraftExperience.level_from_experience(experience)
+      assert_equal 3, AtlanticaOnlineCraftCalculator::CraftExperience.new(experience).current_level
     end
   end
 end

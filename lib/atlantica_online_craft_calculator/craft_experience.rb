@@ -117,11 +117,11 @@ module AtlanticaOnlineCraftCalculator
     end
 
     def percentage_of_next_level
-      experience * 100 / next_level_experience
+      (experience - current_level_experience) * 100 / (next_level_experience - current_level_experience)
     end
 
     def percentage_of_next_item_level
-      experience * 100 / next_item_level_experience
+      (experience - current_level_experience) * 100 / (next_item_level_experience - current_level_experience)
     end
   end
 end

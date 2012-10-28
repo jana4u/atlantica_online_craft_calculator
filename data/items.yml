@@ -2590,6 +2590,45 @@
   skill: "Book"
   skill_lvl: 68
 
+"Book: Valhalla's Sword [I]":
+  market_price: 0
+
+"Book: Valhalla's Sword [II]":
+  ingredients:
+    "Book: Valhalla's Sword [I]": 20
+    "Heavenly Crystal": 3
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 10000000
+  skill: "Book"
+  skill_lvl: 71
+
+"Book: Valhalla's Sword [III]":
+  ingredients:
+    "Book: Valhalla's Sword [II]": 20
+    "Heavenly Crystal": 4
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 20000000
+  skill: "Book"
+  skill_lvl: 72
+
+"Book: Valhalla's Sword [IV]":
+  ingredients:
+    "Book: Valhalla's Sword [III]": 20
+    "Heavenly Crystal": 5
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 30000000
+  skill: "Book"
+  skill_lvl: 73
+
 "Book: Vampiric Thirst [I]":
   market_price: 0
 
@@ -2976,6 +3015,45 @@
   skill: "Book"
   skill_lvl: 63
 
+"Book: Primal Monsoon [I]":
+  market_price: 0
+
+"Book: Primal Monsoon [II]":
+  ingredients:
+    "Book: Primal Monsoon [I]": 20
+    "Heavenly Crystal": 3
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 10000000
+  skill: "Book"
+  skill_lvl: 71
+
+"Book: Primal Monsoon [III]":
+  ingredients:
+    "Book: Primal Monsoon [II]": 20
+    "Heavenly Crystal": 4
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 20000000
+  skill: "Book"
+  skill_lvl: 72
+
+"Book: Primal Monsoon [IV]":
+  ingredients:
+    "Book: Primal Monsoon [III]": 20
+    "Heavenly Crystal": 5
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 30000000
+  skill: "Book"
+  skill_lvl: 73
+
 "Book: Ice Ridge Axe [I]":
   fixed_price: 200000
 
@@ -3339,6 +3417,54 @@
   skill: "Book"
   skill_lvl: 64
 
+"Book: Sparta [I]":
+  market_price: 0
+
+"Book: Sparta [II]":
+  ingredients:
+    "Book: Sparta [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 4000000
+  skill: "Book"
+  skill_lvl: 53
+
+"Book: Sparta [III]":
+  ingredients:
+    "Book: Sparta [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 4200000
+  skill: "Book"
+  skill_lvl: 54
+
+"Book: Sparta [IV]":
+  ingredients:
+    "Book: Sparta [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 27340000
+  skill: "Book"
+  skill_lvl: 66
+
 "Book: Holy Guard [I]":
   fixed_price: 5000
 
@@ -3669,6 +3795,150 @@
   skill: "Book"
   skill_lvl: 64
 
+"Book: Aquatic Barrier [I]":
+  market_price: 0
+
+"Book: Aquatic Barrier [II]":
+  ingredients:
+    "Book: Aquatic Barrier [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 57
+
+"Book: Aquatic Barrier [III]":
+  ingredients:
+    "Book: Aquatic Barrier [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 58
+
+"Book: Aquatic Barrier [IV]":
+  ingredients:
+    "Book: Aquatic Barrier [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 67
+
+"Book: Ocean Blessing [I]":
+  market_price: 0
+
+"Book: Ocean Blessing [II]":
+  ingredients:
+    "Book: Ocean Blessing [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 57
+
+"Book: Ocean Blessing [III]":
+  ingredients:
+    "Book: Ocean Blessing [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 58
+
+"Book: Ocean Blessing [IV]":
+  ingredients:
+    "Book: Ocean Blessing [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 67
+
+"Book: Divine Will [I]":
+  market_price: 0
+
+"Book: Divine Will [II]":
+  ingredients:
+    "Book: Divine Will [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 57
+
+"Book: Divine Will [III]":
+  ingredients:
+    "Book: Divine Will [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 58
+
+"Book: Divine Will [IV]":
+  ingredients:
+    "Book: Divine Will [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 67
+
 "Book: Empress' Blessing [I]":
   market_price: 0
 
@@ -3905,6 +4175,102 @@
   workload: 3290000
   skill: "Book"
   skill_lvl: 63
+
+"Book: Empowering Control [I]":
+  market_price: 0
+
+"Book: Empowering Control [II]":
+  ingredients:
+    "Book: Empowering Control [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 57
+
+"Book: Empowering Control [III]":
+  ingredients:
+    "Book: Empowering Control [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 58
+
+"Book: Empowering Control [IV]":
+  ingredients:
+    "Book: Empowering Control [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 67
+
+"Book: Curse of Strings [I]":
+  market_price: 0
+
+"Book: Curse of Strings [II]":
+  ingredients:
+    "Book: Curse of Strings [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 57
+
+"Book: Curse of Strings [III]":
+  ingredients:
+    "Book: Curse of Strings [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 58
+
+"Book: Curse of Strings [IV]":
+  ingredients:
+    "Book: Curse of Strings [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 67
 
 "Book: Hwarang's Fury [I]":
   market_price: 0
@@ -4977,6 +5343,189 @@
   skill: "Book"
   skill_lvl: 63
 
+"Book: Unstoppable [I]":
+  market_price: 0
+
+"Book: Unstoppable [II]":
+  ingredients:
+    "Book: Unstoppable [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 57
+
+"Book: Unstoppable [III]":
+  ingredients:
+    "Book: Unstoppable [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 58
+
+"Book: Unstoppable [IV]":
+  ingredients:
+    "Book: Unstoppable [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 67
+
+"Book: Tarkan's Will [I]":
+  market_price: 0
+
+"Book: Tarkan's Will [II]":
+  ingredients:
+    "Book: Tarkan's Will [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 57
+
+"Book: Tarkan's Will [III]":
+  ingredients:
+    "Book: Tarkan's Will [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 58
+
+"Book: Tarkan's Will [IV]":
+  ingredients:
+    "Book: Tarkan's Will [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 67
+
+"Book: Cleaving Blows [I]":
+  market_price: 0
+
+"Book: Cleaving Blows [II]":
+  ingredients:
+    "Book: Cleaving Blows [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 57
+
+"Book: Cleaving Blows [III]":
+  ingredients:
+    "Book: Cleaving Blows [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 58
+
+"Book: Cleaving Blows [IV]":
+  ingredients:
+    "Book: Cleaving Blows [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 67
+
+"Book: Beating Sun [I]":
+  market_price: 0
+
+"Book: Beating Sun [II]":
+  ingredients:
+    "Book: Beating Sun [I]": 20
+    "Heavenly Crystal": 3
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 10000000
+  skill: "Book"
+  skill_lvl: 71
+
+"Book: Beating Sun [III]":
+  ingredients:
+    "Book: Beating Sun [II]": 20
+    "Heavenly Crystal": 4
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 20000000
+  skill: "Book"
+  skill_lvl: 72
+
+"Book: Beating Sun [IV]":
+  ingredients:
+    "Book: Beating Sun [III]": 20
+    "Heavenly Crystal": 5
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 30000000
+  skill: "Book"
+  skill_lvl: 73
+
 "Book: Deep Insight [I]":
   fixed_price: 5000
 
@@ -5300,6 +5849,54 @@
   workload: 11350000
   skill: "Book"
   skill_lvl: 65
+
+"Book: Bloody Strings [I]":
+  market_price: 0
+
+"Book: Bloody Strings [II]":
+  ingredients:
+    "Book: Bloody Strings [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 57
+
+"Book: Bloody Strings [III]":
+  ingredients:
+    "Book: Bloody Strings [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 58
+
+"Book: Bloody Strings [IV]":
+  ingredients:
+    "Book: Bloody Strings [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 67
 
 "Book: Crimson Blade [I]":
   market_price: 0
@@ -5919,60 +6516,12 @@
 "Book of Wisdom":
   fixed_price: 10000
 
-"Book: Sparta [I]":
+"Book: Spirit Echo [I]":
   market_price: 0
 
-"Book: Sparta [II]":
+"Book: Spirit Echo [II]":
   ingredients:
-    "Book: Sparta [I]": 20
-    "Wiseman's Golden Pen": 4
-    "Wiseman's Golden Parchment": 4
-    "Wiseman's Golden Ink Bottle": 15
-    "Colorful Thread": 150
-    "Colorful Fabric": 30
-    "Crystal of Anguish": 5
-    "Book of Anguish": 50
-  batch_size: 10
-  workload: 4000000
-  skill: "Book"
-  skill_lvl: 53
-
-"Book: Sparta [III]":
-  ingredients:
-    "Book: Sparta [II]": 20
-    "Wiseman's Golden Pen": 4
-    "Wiseman's Golden Parchment": 4
-    "Wiseman's Golden Ink Bottle": 15
-    "Colorful Thread": 150
-    "Colorful Fabric": 30
-    "Crystal of Anguish": 5
-    "Book of Anguish": 50
-  batch_size: 10
-  workload: 4200000
-  skill: "Book"
-  skill_lvl: 54
-
-"Book: Sparta [IV]":
-  ingredients:
-    "Book: Sparta [III]": 20
-    "Multi-Hued Pen": 4
-    "Multi-Hued Parchment": 4
-    "Multi-Hued Ink Bottle": 15
-    "Colorful Thread": 150
-    "Gorgeous Colorful Fabric": 50
-    "Crystal of Anguish": 50
-    "Book of Anguish": 100
-  batch_size: 10
-  workload: 27340000
-  skill: "Book"
-  skill_lvl: 66
-
-"Book: Unstoppable [I]":
-  market_price: 0
-
-"Book: Unstoppable [II]":
-  ingredients:
-    "Book: Unstoppable [I]": 20
+    "Book: Spirit Echo [I]": 20
     "Wiseman's Golden Pen": 4
     "Wiseman's Golden Parchment": 4
     "Wiseman's Golden Ink Bottle": 15
@@ -5985,9 +6534,9 @@
   skill: "Book"
   skill_lvl: 57
 
-"Book: Unstoppable  [III]":
+"Book: Spirit Echo [III]":
   ingredients:
-    "Book: Unstoppable [II]": 20
+    "Book: Spirit Echo [II]": 20
     "Wiseman's Golden Pen": 4
     "Wiseman's Golden Parchment": 4
     "Wiseman's Golden Ink Bottle": 15
@@ -6000,9 +6549,9 @@
   skill: "Book"
   skill_lvl: 58
 
-"Book: Unstoppable [IV]":
+"Book: Spirit Echo [IV]":
   ingredients:
-    "Book: Unstoppable  [III]": 20
+    "Book: Spirit Echo [III]": 20
     "Multi-Hued Pen": 4
     "Multi-Hued Parchment": 4
     "Multi-Hued Ink Bottle": 15
@@ -6015,12 +6564,12 @@
   skill: "Book"
   skill_lvl: 67
 
-"Book: Tarkan's Will [I]":
+"Book: Vital Seal [I]":
   market_price: 0
 
-"Book: Tarkan's Will [II]":
+"Book: Vital Seal [II]":
   ingredients:
-    "Book: Tarkan's Will [I]": 20
+    "Book: Vital Seal [I]": 20
     "Wiseman's Golden Pen": 4
     "Wiseman's Golden Parchment": 4
     "Wiseman's Golden Ink Bottle": 15
@@ -6033,9 +6582,9 @@
   skill: "Book"
   skill_lvl: 57
 
-"Book: Tarkan's Will [III]":
+"Book: Vital Seal [III]":
   ingredients:
-    "Book: Tarkan's Will [II]": 20
+    "Book: Vital Seal [II]": 20
     "Wiseman's Golden Pen": 4
     "Wiseman's Golden Parchment": 4
     "Wiseman's Golden Ink Bottle": 15
@@ -6048,9 +6597,9 @@
   skill: "Book"
   skill_lvl: 58
 
-"Book: Tarkan's Will [IV]":
+"Book: Vital Seal [IV]":
   ingredients:
-    "Book: Tarkan's Will [III]": 20
+    "Book: Vital Seal [III]": 20
     "Multi-Hued Pen": 4
     "Multi-Hued Parchment": 4
     "Multi-Hued Ink Bottle": 15
@@ -6063,12 +6612,12 @@
   skill: "Book"
   skill_lvl: 67
 
-"Book: Cleaving Blows [I]":
+"Book: Burning Essence [I]":
   market_price: 0
 
-"Book: Cleaving Blows [II]":
+"Book: Burning Essence [II]":
   ingredients:
-    "Book: Cleaving Blows [I]": 20
+    "Book: Burning Essence [I]": 20
     "Wiseman's Golden Pen": 4
     "Wiseman's Golden Parchment": 4
     "Wiseman's Golden Ink Bottle": 15
@@ -6081,9 +6630,9 @@
   skill: "Book"
   skill_lvl: 57
 
-"Book: Cleaving Blows [III]":
+"Book: Burning Essence [III]":
   ingredients:
-    "Book: Cleaving Blows [II]": 20
+    "Book: Burning Essence [II]": 20
     "Wiseman's Golden Pen": 4
     "Wiseman's Golden Parchment": 4
     "Wiseman's Golden Ink Bottle": 15
@@ -6096,9 +6645,9 @@
   skill: "Book"
   skill_lvl: 58
 
-"Book: Cleaving Blows [IV]":
+"Book: Burning Essence [IV]":
   ingredients:
-    "Book: Cleaving Blows [III]": 20
+    "Book: Burning Essence [III]": 20
     "Multi-Hued Pen": 4
     "Multi-Hued Parchment": 4
     "Multi-Hued Ink Bottle": 15
@@ -6111,83 +6660,122 @@
   skill: "Book"
   skill_lvl: 67
 
-"Book: Primal Monsoon [I]":
+"Book: Battlefield Courage [I]":
   market_price: 0
 
-"Book: Primal Monsoon [II]":
+"Book: Battlefield Courage [II]":
   ingredients:
-    "Book: Primal Monsoon [I]": 20
-    "Heavenly Crystal": 3
+    "Book: Battlefield Courage [I]": 20
+    "Heavenly Crystal": 10
     "Wiseman's Golden Pen": 4
     "Wiseman's Golden Parchment": 4
     "Wiseman's Golden Ink Bottle": 15
   batch_size: 10
-  workload: 10000000
+  workload: 15000000
   skill: "Book"
-  skill_lvl: 71
+  skill_lvl: 78
 
-"Book: Primal Monsoon [III]":
+"Book: Battlefield Courage [III]":
   ingredients:
-    "Book: Primal Monsoon [II]": 20
-    "Heavenly Crystal": 4
-    "Wiseman's Golden Pen": 4
-    "Wiseman's Golden Parchment": 4
-    "Wiseman's Golden Ink Bottle": 15
-  batch_size: 10
-  workload: 20000000
-  skill: "Book"
-  skill_lvl: 72
-
-"Book: Primal Monsoon [IV]":
-  ingredients:
-    "Book: Primal Monsoon [III]": 20
-    "Heavenly Crystal": 5
+    "Book: Battlefield Courage [II]": 20
+    "Heavenly Crystal": 20
     "Wiseman's Golden Pen": 4
     "Wiseman's Golden Parchment": 4
     "Wiseman's Golden Ink Bottle": 15
   batch_size: 10
   workload: 30000000
   skill: "Book"
-  skill_lvl: 73
+  skill_lvl: 79
 
-"Book: Beating Sun [I]":
+"Book: Battlefield Courage [IV]":
+  ingredients:
+    "Book: Battlefield Courage [III]": 20
+    "Heavenly Crystal": 30
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 50000000
+  skill: "Book"
+  skill_lvl: 80
+
+"Book: Camaraderie [I]":
   market_price: 0
 
-"Book: Beating Sun [II]":
+"Book: Camaraderie [II]":
   ingredients:
-    "Book: Beating Sun [I]": 20
-    "Heavenly Crystal": 3
+    "Book: Camaraderie [I]": 20
+    "Heavenly Crystal": 10
     "Wiseman's Golden Pen": 4
     "Wiseman's Golden Parchment": 4
     "Wiseman's Golden Ink Bottle": 15
   batch_size: 10
-  workload: 10000000
+  workload: 15000000
   skill: "Book"
-  skill_lvl: 71
+  skill_lvl: 78
 
-"Book: Beating Sun [III]":
+"Book: Camaraderie [III]":
   ingredients:
-    "Book: Beating Sun [II]": 20
-    "Heavenly Crystal": 4
-    "Wiseman's Golden Pen": 4
-    "Wiseman's Golden Parchment": 4
-    "Wiseman's Golden Ink Bottle": 15
-  batch_size: 10
-  workload: 20000000
-  skill: "Book"
-  skill_lvl: 72
-
-"Book: Beating Sun [IV]":
-  ingredients:
-    "Book: Beating Sun [III]": 20
-    "Heavenly Crystal": 5
+    "Book: Camaraderie [II]": 20
+    "Heavenly Crystal": 20
     "Wiseman's Golden Pen": 4
     "Wiseman's Golden Parchment": 4
     "Wiseman's Golden Ink Bottle": 15
   batch_size: 10
   workload: 30000000
   skill: "Book"
-  skill_lvl: 73
+  skill_lvl: 79
+
+"Book: Camaraderie [IV]":
+  ingredients:
+    "Book: Camaraderie [III]": 20
+    "Heavenly Crystal": 30
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 50000000
+  skill: "Book"
+  skill_lvl: 80
+
+"Book: Patriotic Resolve [I]":
+  market_price: 0
+
+"Book: Patriotic Resolve [II]":
+  ingredients:
+    "Book: Patriotic Resolve [I]": 20
+    "Heavenly Crystal": 10
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 15000000
+  skill: "Book"
+  skill_lvl: 78
+
+"Book: Patriotic Resolve [III]":
+  ingredients:
+    "Book: Patriotic Resolve [II]": 20
+    "Heavenly Crystal": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 30000000
+  skill: "Book"
+  skill_lvl: 79
+
+"Book: Patriotic Resolve [IV]":
+  ingredients:
+    "Book: Patriotic Resolve [III]": 20
+    "Heavenly Crystal": 30
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 50000000
+  skill: "Book"
+  skill_lvl: 80
 
 "Spirit Bow":
   fixed_price: 900
@@ -8166,6 +8754,9 @@
 
 "Storm Element":
   fixed_price: 750000
+
+"Earth Essence":
+  fixed_price: 1000000
 
 "Energy of Atmosphere":
   fixed_price: 10000
@@ -11690,6 +12281,17 @@
   skill: "License"
   skill_lvl: 50
 
+"Secrets of Time: Valkyrie":
+  ingredients:
+    "Storm Element": 5
+    "Flame Element": 20
+    "Mysterious Vial: Valor": 1
+    "Monster Egg": 100
+    "Evil Soul Extract": 60
+  workload: 7000000
+  skill: "License"
+  skill_lvl: 53
+
 "Secrets of Time: Theseus":
   ingredients:
     "Flame Element": 20
@@ -11711,6 +12313,36 @@
   workload: 8000000
   skill: "License"
   skill_lvl: 55
+
+"Secrets of Time: Roro Kidul":
+  ingredients:
+    "Flame Element": 30
+    "Sea Element": 25
+    "Deep Sea Pearl": 3
+    "Redemption Crystal": 10
+  workload: 6000000
+  skill: "License"
+  skill_lvl: 56
+
+"Secrets of Time: Legendary Hero":
+  ingredients:
+    "Storm Element": 10
+    "Flame Element": 15
+    "Mukti Scale": 1
+    "Multi-Hued Soul Crystal": 2
+  workload: 10000000
+  skill: "License"
+  skill_lvl: 58
+
+"Secrets of Time: Patriot":
+  ingredients:
+    "Storm Element": 10
+    "Heavenly Crystal": 10
+    "Broken Ammunition": 20
+    "Broken Cannonball": 10
+  workload: 30000000
+  skill: "License"
+  skill_lvl: 62
 
 "Machine: Search Robot VC1":
   ingredients:
@@ -12712,6 +13344,12 @@
   skill: "Tool"
   skill_lvl: 55
 
+"Shimmering Opal":
+  market_price: 0
+
+"Shimmering Sapphire":
+  market_price: 0
+
 "Weak Gunpowder":
   fixed_price: 100
 
@@ -12878,6 +13516,18 @@
   market_price: 0
 
 "Pegasus Tear":
+  market_price: 0
+
+"Mukti Scale":
+  market_price: 0
+
+"Deep Sea Pearl":
+  market_price: 0
+
+"Broken Ammunition":
+  market_price: 0
+
+"Broken Cannonball":
   market_price: 0
 
 "Wooden Music Sheet":
@@ -13055,6 +13705,36 @@
   workload: 16000000
   skill: "Accessory"
   skill_lvl: 90
+
+"Shimmering Sapphire Necklace":
+  ingredients:
+    "Necklace Mold": 500
+    "Earth Essence": 50
+    "Shimmering Opal": 120
+    "Shimmering Sapphire": 40
+  workload: 80000000
+  skill: "Accessory"
+  skill_lvl: 103
+
+"Sharp Sapphire Necklace":
+  ingredients:
+    "Necklace Mold": 500
+    "Earth Essence": 50
+    "Shimmering Opal": 120
+    "Shimmering Sapphire": 40
+  workload: 80000000
+  skill: "Accessory"
+  skill_lvl: 105
+
+"Tough Sapphire Necklace":
+  ingredients:
+    "Necklace Mold": 500
+    "Earth Essence": 50
+    "Shimmering Opal": 120
+    "Shimmering Sapphire": 40
+  workload: 80000000
+  skill: "Accessory"
+  skill_lvl: 107
 
 "Spirit Orb":
   fixed_price: 900
@@ -14533,6 +15213,58 @@
   workload: 60000000
   skill: "Accessory"
   skill_lvl: 100
+
+"Awakened Chi You's Ring":
+  ingredients:
+    "Mystic Gem": 15
+    "Crystal of Temptation": 5
+    "Hydra's Poisonous Gland": 10
+    "Shimmering Opal": 100
+    "Shimmering Sapphire": 30
+    "Storm Element": 90
+    "Earth Essence": 30
+  workload: 150000000
+  skill: "Accessory"
+  skill_lvl: 110
+
+"Awakened Nuwa's Ring":
+  ingredients:
+    "Mystic Gem": 15
+    "Crystal of Temptation": 5
+    "Hydra's Poisonous Gland": 10
+    "Shimmering Opal": 100
+    "Shimmering Sapphire": 30
+    "Storm Element": 90
+    "Earth Essence": 30
+  workload: 150000000
+  skill: "Accessory"
+  skill_lvl: 111
+
+"Awakened Fu Xi's Ring":
+  ingredients:
+    "Mystic Gem": 15
+    "Crystal of Temptation": 5
+    "Hydra's Poisonous Gland": 10
+    "Shimmering Opal": 100
+    "Shimmering Sapphire": 30
+    "Storm Element": 90
+    "Earth Essence": 30
+  workload: 150000000
+  skill: "Accessory"
+  skill_lvl: 112
+
+"Awakened Pangu's Ring":
+  ingredients:
+    "Mystic Gem": 15
+    "Crystal of Temptation": 5
+    "Hydra's Poisonous Gland": 10
+    "Shimmering Opal": 100
+    "Shimmering Sapphire": 30
+    "Storm Element": 90
+    "Earth Essence": 30
+  workload: 150000000
+  skill: "Accessory"
+  skill_lvl: 113
 
 "Scroll of Purification [III]":
   ingredients:

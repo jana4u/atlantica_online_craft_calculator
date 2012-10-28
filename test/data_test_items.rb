@@ -53,6 +53,12 @@ class DataTestItems < Test::Unit::TestCase
     end
   end
 
+  def test_craftable_items_return_ingredients
+    AtlanticaOnlineCraftCalculator::Item.ordered_craftable_items.each do |item|
+      assert item.ordered_ingredient_items.size > 0
+    end
+  end
+
   def test_item_skills
     assert_equal 39, AtlanticaOnlineCraftCalculator::Item.ordered_item_skills.size
 
@@ -156,6 +162,8 @@ class DataTestItems < Test::Unit::TestCase
         item_craft.craft_list.each do |craft_list_item|
           assert_not_nil craft_list_item.name
           assert_not_nil craft_list_item.quantity
+          assert_not_nil craft_list_item.total_craft_xp_gained
+          assert_not_nil craft_list_item.total_price
         end
 
         item_craft.leftovers.each do |leftover|

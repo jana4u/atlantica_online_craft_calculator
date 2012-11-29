@@ -7,7 +7,7 @@ class DataTestItems < Test::Unit::TestCase
   end
 
   def test_lists_of_items
-    assert_equal 2301, AtlanticaOnlineCraftCalculator::Item.all.size
+    assert_equal 2309, AtlanticaOnlineCraftCalculator::Item.all.size
     assert AtlanticaOnlineCraftCalculator::Item.all.size > 0
     assert AtlanticaOnlineCraftCalculator::Item.ordered_items.size > 0
     assert_equal AtlanticaOnlineCraftCalculator::Item.all.size,

@@ -4686,6 +4686,45 @@
   skill: "Book"
   skill_lvl: 63
 
+"Book: Purifying Path [I]":
+  market_price: 0
+
+"Book: Purifying Path [II]":
+  ingredients:
+    "Book: Purifying Path [I]": 20
+    "Heavenly Crystal": 3
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 10000000
+  skill: "Book"
+  skill_lvl: 71
+
+"Book: Purifying Path [III]":
+  ingredients:
+    "Book: Purifying Path [II]": 20
+    "Heavenly Crystal": 4
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 20000000
+  skill: "Book"
+  skill_lvl: 72
+
+"Book: Purifying Path [IV]":
+  ingredients:
+    "Book: Purifying Path [III]": 20
+    "Heavenly Crystal": 5
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 30000000
+  skill: "Book"
+  skill_lvl: 73
+
 "Book: Salvation [I]":
   market_price: 0
 
@@ -5054,6 +5093,45 @@
   workload: 6730000
   skill: "Book"
   skill_lvl: 64
+
+"Book: Retribution [I]":
+  market_price: 0
+
+"Book: Retribution [II]":
+  ingredients:
+    "Book: Retribution [I]": 20
+    "Heavenly Crystal": 3
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 10000000
+  skill: "Book"
+  skill_lvl: 71
+
+"Book: Retribution [III]":
+  ingredients:
+    "Book: Retribution [II]": 20
+    "Heavenly Crystal": 4
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 20000000
+  skill: "Book"
+  skill_lvl: 72
+
+"Book: Retribution [IV]":
+  ingredients:
+    "Book: Retribution [III]": 20
+    "Heavenly Crystal": 5
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 30000000
+  skill: "Book"
+  skill_lvl: 73
 
 "Book: Green Dragon Strike [I]":
   market_price: 0

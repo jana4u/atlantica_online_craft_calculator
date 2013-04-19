@@ -8,9 +8,9 @@ class DataTestCraftExperienceLevels < Test::Unit::TestCase
   end
 
   def test_craft_experience_table
-    assert_equal 130, AtlanticaOnlineCraftCalculator::CraftExperience.levels.size
-    assert_equal 130, AtlanticaOnlineCraftCalculator::CraftExperience.levels.map { |xp_lvl| xp_lvl.lvl }.uniq.size
-    assert_equal 130, AtlanticaOnlineCraftCalculator::CraftExperience.levels.map { |xp_lvl| xp_lvl.xp }.uniq.size
+    assert_equal 140, AtlanticaOnlineCraftCalculator::CraftExperience.levels.size
+    assert_equal 140, AtlanticaOnlineCraftCalculator::CraftExperience.levels.map { |xp_lvl| xp_lvl.lvl }.uniq.size
+    assert_equal 140, AtlanticaOnlineCraftCalculator::CraftExperience.levels.map { |xp_lvl| xp_lvl.xp }.uniq.size
 
     AtlanticaOnlineCraftCalculator::CraftExperience.levels.each do |level|
       assert level.lvl >= 1

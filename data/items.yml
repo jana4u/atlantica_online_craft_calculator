@@ -902,6 +902,48 @@
   skill: "Armor"
   skill_lvl: 123
 
+"Dark Pegasus Heavy Armor":
+  ingredients:
+    "Oriharukon": 40
+    "Corrupted Unicorn Tear": 15
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 300000000
+  skill: "Armor"
+  skill_lvl: 131
+
+"Dark Pegasus Light Armor":
+  ingredients:
+    "Oriharukon": 40
+    "Corrupted Unicorn Tear": 15
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 300000000
+  skill: "Armor"
+  skill_lvl: 130
+
+"Dark Pegasus Robe":
+  ingredients:
+    "Oriharukon": 40
+    "Corrupted Unicorn Tear": 15
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 300000000
+  skill: "Armor"
+  skill_lvl: 129
+
 "Wooden Arrow":
   ingredients:
     "Maple": 4
@@ -1301,6 +1343,20 @@
   workload: 240000000
   skill: "Axe"
   skill_lvl: 121
+
+"Dark Pegasus Axe":
+  ingredients:
+    "Oriharukon": 40
+    "Corrupted Unicorn Tear": 15
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 360000000
+  skill: "Axe"
+  skill_lvl: 127
 
 "Artisan Crafting Secrets":
   market_price: 0
@@ -6738,6 +6794,351 @@
   skill: "Book"
   skill_lvl: 67
 
+"Book: Empowered Aura [I]":
+  market_price: 0
+
+"Book: Empowered Aura [II]":
+  ingredients:
+    "Book: Empowered Aura [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 57
+
+"Book: Empowered Aura [III]":
+  ingredients:
+    "Book: Empowered Aura [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 58
+
+"Book: Empowered Aura [IV]":
+  ingredients:
+    "Book: Empowered Aura [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 67
+
+"Book: Static Shield [I]":
+  fixed_price: 5000
+
+"Book: Static Shield [II]":
+  ingredients:
+    "Book: Static Shield [I]": 20
+    "Ashen Crystal": 50
+  batch_size: 10
+  workload: 100000
+  skill: "Book"
+  skill_lvl: 1
+
+"Book: Static Shield [III]":
+  ingredients:
+    "Book: Static Shield [II]": 20
+    "Ashen Crystal": 100
+  batch_size: 10
+  workload: 500000
+  skill: "Book"
+  skill_lvl: 20
+
+"Book: Static Shield [IV]":
+  ingredients:
+    "Book: Static Shield [III]": 20
+    "Ashen Jewel": 50
+  batch_size: 10
+  workload: 1000000
+  skill: "Book"
+  skill_lvl: 40
+
+"Book: Direct Current [I]":
+  fixed_price: 5000
+
+"Book: Direct Current [II]":
+  ingredients:
+    "Book: Direct Current [I]": 20
+    "Ashen Crystal": 50
+  batch_size: 10
+  workload: 100000
+  skill: "Book"
+  skill_lvl: 5
+
+"Book: Direct Current [III]":
+  ingredients:
+    "Book: Direct Current [II]": 20
+    "Ashen Crystal": 100
+  batch_size: 10
+  workload: 500000
+  skill: "Book"
+  skill_lvl: 25
+
+"Book: Direct Current [IV]":
+  ingredients:
+    "Book: Direct Current [III]": 20
+    "Ashen Jewel": 50
+  batch_size: 10
+  workload: 1000000
+  skill: "Book"
+  skill_lvl: 45
+
+"Book: Thunder Soul [I]":
+  market_price: 0
+
+"Book: Thunder Soul [II]":
+  ingredients:
+    "Book: Thunder Soul [I]": 20
+    "Multi-Hued Crystal": 20
+  batch_size: 10
+  workload: 2000000
+  skill: "Book"
+  skill_lvl: 50
+
+"Book: Thunder Soul [III]":
+  ingredients:
+    "Book: Thunder Soul [II]": 20
+    "Multi-Hued Crystal": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 55
+
+"Book: Thunder Soul [IV]":
+  ingredients:
+    "Book: Thunder Soul [III]": 20
+    "Multi-Hued Jewel": 20
+  batch_size: 10
+  workload: 10000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Electron Field [I]":
+  fixed_price: 5000
+
+"Book: Electron Field [II]":
+  ingredients:
+    "Book: Electron Field [I]": 20
+    "Ashen Crystal": 50
+  batch_size: 10
+  workload: 100000
+  skill: "Book"
+  skill_lvl: 1
+
+"Book: Electron Field [III]":
+  ingredients:
+    "Book: Electron Field [II]": 20
+    "Ashen Crystal": 100
+  batch_size: 10
+  workload: 500000
+  skill: "Book"
+  skill_lvl: 20
+
+"Book: Electron Field [IV]":
+  ingredients:
+    "Book: Electron Field [III]": 20
+    "Ashen Jewel": 50
+  batch_size: 10
+  workload: 1000000
+  skill: "Book"
+  skill_lvl: 40
+
+"Book: Impulse [I]":
+  fixed_price: 5000
+
+"Book: Impulse [II]":
+  ingredients:
+    "Book: Impulse [I]": 20
+    "Ashen Crystal": 50
+  batch_size: 10
+  workload: 100000
+  skill: "Book"
+  skill_lvl: 5
+
+"Book: Impulse [III]":
+  ingredients:
+    "Book: Impulse [II]": 20
+    "Ashen Crystal": 100
+  batch_size: 10
+  workload: 500000
+  skill: "Book"
+  skill_lvl: 25
+
+"Book: Impulse [IV]":
+  ingredients:
+    "Book: Impulse [III]": 20
+    "Ashen Jewel": 50
+  batch_size: 10
+  workload: 1000000
+  skill: "Book"
+  skill_lvl: 45
+
+"Book: Righteous Bolt [I]":
+  market_price: 0
+
+"Book: Righteous Bolt [II]":
+  ingredients:
+    "Book: Righteous Bolt [I]": 20
+    "Multi-Hued Crystal": 20
+  batch_size: 10
+  workload: 2000000
+  skill: "Book"
+  skill_lvl: 50
+
+"Book: Righteous Bolt [III]":
+  ingredients:
+    "Book: Righteous Bolt [II]": 20
+    "Multi-Hued Crystal": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 55
+
+"Book: Righteous Bolt [IV]":
+  ingredients:
+    "Book: Righteous Bolt [III]": 20
+    "Multi-Hued Jewel": 20
+  batch_size: 10
+  workload: 10000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Healing Pulse [I]":
+  market_price: 0
+
+"Book: Healing Pulse [II]":
+  ingredients:
+    "Book: Healing Pulse [I]": 20
+    "Heavenly Crystal": 10
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 15000000
+  skill: "Book"
+  skill_lvl: 75
+
+"Book: Healing Pulse [III]":
+  ingredients:
+    "Book: Healing Pulse [II]": 20
+    "Heavenly Crystal": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 30000000
+  skill: "Book"
+  skill_lvl: 76
+
+"Book: Healing Pulse [IV]":
+  ingredients:
+    "Book: Healing Pulse [III]": 20
+    "Heavenly Crystal": 30
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 50000000
+  skill: "Book"
+  skill_lvl: 77
+
+"Book: Arms of Atlantis [I]":
+  market_price: 0
+
+"Book: Arms of Atlantis [II]":
+  ingredients:
+    "Book: Arms of Atlantis [I]": 20
+    "Heavenly Crystal": 10
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 15000000
+  skill: "Book"
+  skill_lvl: 75
+
+"Book: Arms of Atlantis [III]":
+  ingredients:
+    "Book: Arms of Atlantis [II]": 20
+    "Heavenly Crystal": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 30000000
+  skill: "Book"
+  skill_lvl: 76
+
+"Book: Arms of Atlantis [IV]":
+  ingredients:
+    "Book: Arms of Atlantis [III]": 20
+    "Heavenly Crystal": 30
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 50000000
+  skill: "Book"
+  skill_lvl: 77
+
+"Book: Oriharukon Core [I]":
+  market_price: 0
+
+"Book: Oriharukon Core [II]":
+  ingredients:
+    "Book: Oriharukon Core [I]": 20
+    "Heavenly Crystal": 10
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 15000000
+  skill: "Book"
+  skill_lvl: 75
+
+"Book: Oriharukon Core [III]":
+  ingredients:
+    "Book: Oriharukon Core [II]": 20
+    "Heavenly Crystal": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 30000000
+  skill: "Book"
+  skill_lvl: 76
+
+"Book: Oriharukon Core [IV]":
+  ingredients:
+    "Book: Oriharukon Core [III]": 20
+    "Heavenly Crystal": 30
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 50000000
+  skill: "Book"
+  skill_lvl: 77
+
 "Book: Battlefield Courage [I]":
   market_price: 0
 
@@ -7134,6 +7535,20 @@
   workload: 240000000
   skill: "Bow"
   skill_lvl: 121
+
+"Dark Pegasus Bow":
+  ingredients:
+    "Oriharukon": 40
+    "Corrupted Unicorn Tear": 15
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 360000000
+  skill: "Bow"
+  skill_lvl: 127
 
 "Ancient Book Box of Monks":
   market_price: 0
@@ -8290,6 +8705,20 @@
   workload: 240000000
   skill: "Cannon"
   skill_lvl: 121
+
+"Dark Pegasus Cannon":
+  ingredients:
+    "Oriharukon": 40
+    "Corrupted Unicorn Tear": 15
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 360000000
+  skill: "Cannon"
+  skill_lvl: 127
 
 "Steel Cannonball":
   ingredients:
@@ -10213,6 +10642,48 @@
   skill: "Gauntlet"
   skill_lvl: 118
 
+"Dark Pegasus Gauntlets":
+  ingredients:
+    "Oriharukon": 30
+    "Corrupted Unicorn Tear": 10
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 145000000
+  skill: "Gauntlet"
+  skill_lvl: 124
+
+"Dark Pegasus Chain Gloves":
+  ingredients:
+    "Oriharukon": 30
+    "Corrupted Unicorn Tear": 10
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 145000000
+  skill: "Gauntlet"
+  skill_lvl: 123
+
+"Dark Pegasus Gloves":
+  ingredients:
+    "Oriharukon": 30
+    "Corrupted Unicorn Tear": 10
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 145000000
+  skill: "Gauntlet"
+  skill_lvl: 122
+
 "Guardian Stone [I]":
   fixed_price: 1500
   ingredients:
@@ -10571,6 +11042,20 @@
   workload: 240000000
   skill: "Gun"
   skill_lvl: 121
+
+"Dark Pegasus Rifle":
+  ingredients:
+    "Oriharukon": 40
+    "Corrupted Unicorn Tear": 15
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 360000000
+  skill: "Gun"
+  skill_lvl: 127
 
 "Spirit Helmet":
   fixed_price: 600
@@ -11377,6 +11862,48 @@
   skill: "Helmet"
   skill_lvl: 118
 
+"Dark Pegasus Helmet":
+  ingredients:
+    "Oriharukon": 30
+    "Corrupted Unicorn Tear": 10
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 200000000
+  skill: "Helmet"
+  skill_lvl: 124
+
+"Dark Pegasus Chain Helmet":
+  ingredients:
+    "Oriharukon": 30
+    "Corrupted Unicorn Tear": 10
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 200000000
+  skill: "Helmet"
+  skill_lvl: 123
+
+"Dark Pegasus Hat":
+  ingredients:
+    "Oriharukon": 30
+    "Corrupted Unicorn Tear": 10
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 200000000
+  skill: "Helmet"
+  skill_lvl: 122
+
 "Spirit Instrument":
   fixed_price: 900
   ingredients:
@@ -11656,6 +12183,20 @@
   workload: 240000000
   skill: "Instrument"
   skill_lvl: 121
+
+"Dark Pegasus Instrument":
+  ingredients:
+    "Oriharukon": 40
+    "Corrupted Unicorn Tear": 15
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 360000000
+  skill: "Instrument"
+  skill_lvl: 127
 
 "Secrets of Time: Monk":
   ingredients:
@@ -12412,15 +12953,15 @@
   skill: "License"
   skill_lvl: 58
 
-"Secrets of Time: Patriot":
+"Secrets of Time: Automaton":
   ingredients:
-    "Storm Element": 10
-    "Heavenly Crystal": 10
-    "Broken Ammunition": 20
-    "Broken Cannonball": 10
-  workload: 30000000
+    "Storm Element": 5
+    "Flame Element": 20
+    "Heavenly Crystal": 5
+    "Mysterious Vial: Death": 10
+  workload: 15000000
   skill: "License"
-  skill_lvl: 62
+  skill_lvl: 60
 
 "Machine: Search Robot VC1":
   ingredients:
@@ -13494,6 +14035,9 @@
 "Atlantis Silver Coin":
   market_price: 0
 
+"Atlantis Gold Coin":
+  market_price: 0
+
 "Crystal of Temptation":
   market_price: 0
 
@@ -13602,10 +14146,10 @@
 "Deep Sea Pearl":
   market_price: 0
 
-"Broken Ammunition":
+"Corrupted Unicorn Tear":
   market_price: 0
 
-"Broken Cannonball":
+"Anarchy Stone":
   market_price: 0
 
 "Wooden Music Sheet":
@@ -13788,26 +14332,29 @@
   ingredients:
     "Necklace Mold": 500
     "Earth Essence": 50
+    "Corrupted Unicorn Tear": 3
     "Shimmering Opal": 120
     "Shimmering Sapphire": 40
   workload: 80000000
   skill: "Accessory"
   skill_lvl: 103
 
-"Sharp Sapphire Necklace":
+"Tough Sapphire Necklace":
   ingredients:
     "Necklace Mold": 500
     "Earth Essence": 50
+    "Corrupted Unicorn Tear": 3
     "Shimmering Opal": 120
     "Shimmering Sapphire": 40
   workload: 80000000
   skill: "Accessory"
   skill_lvl: 105
 
-"Tough Sapphire Necklace":
+"Sharp Sapphire Necklace":
   ingredients:
     "Necklace Mold": 500
     "Earth Essence": 50
+    "Corrupted Unicorn Tear": 3
     "Shimmering Opal": 120
     "Shimmering Sapphire": 40
   workload: 80000000
@@ -14091,6 +14638,20 @@
   workload: 50000000
   skill: "Orb"
   skill_lvl: 110
+
+"Dark Pegasus Orb":
+  ingredients:
+    "Oriharukon": 30
+    "Corrupted Unicorn Tear": 10
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 85000000
+  skill: "Orb"
+  skill_lvl: 116
 
 "Spirit Leggings":
   fixed_price: 500
@@ -14634,6 +15195,34 @@
   skill: "Pants"
   skill_lvl: 116
 
+"Dark Pegasus Greaves":
+  ingredients:
+    "Oriharukon": 30
+    "Corrupted Unicorn Tear": 10
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 200000000
+  skill: "Pants"
+  skill_lvl: 123
+
+"Dark Pegasus Pants":
+  ingredients:
+    "Oriharukon": 30
+    "Corrupted Unicorn Tear": 10
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 200000000
+  skill: "Pants"
+  skill_lvl: 121
+
 "Spirit Power Saw":
   fixed_price: 900
   ingredients:
@@ -14913,6 +15502,20 @@
   workload: 240000000
   skill: "Power Saw"
   skill_lvl: 121
+
+"Dark Pegasus Power Saw":
+  ingredients:
+    "Oriharukon": 40
+    "Corrupted Unicorn Tear": 15
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 360000000
+  skill: "Power Saw"
+  skill_lvl: 127
 
 "Ring of Dull Swords":
   ingredients:
@@ -15775,6 +16378,20 @@
   skill: "Shield"
   skill_lvl: 110
 
+"Dark Pegasus Shield":
+  ingredients:
+    "Oriharukon": 30
+    "Corrupted Unicorn Tear": 10
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 100000000
+  skill: "Shield"
+  skill_lvl: 116
+
 "Spirit Shoes":
   fixed_price: 300
   ingredients:
@@ -16577,6 +17194,48 @@
   skill: "Shoes"
   skill_lvl: 118
 
+"Dark Pegasus Boots":
+  ingredients:
+    "Oriharukon": 30
+    "Corrupted Unicorn Tear": 10
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 145000000
+  skill: "Shoes"
+  skill_lvl: 124
+
+"Dark Pegasus Chain Boots":
+  ingredients:
+    "Oriharukon": 30
+    "Corrupted Unicorn Tear": 10
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 145000000
+  skill: "Shoes"
+  skill_lvl: 123
+
+"Dark Pegasus Shoes":
+  ingredients:
+    "Oriharukon": 30
+    "Corrupted Unicorn Tear": 10
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 145000000
+  skill: "Shoes"
+  skill_lvl: 122
+
 "Spirit Spear":
   fixed_price: 900
   ingredients:
@@ -16857,6 +17516,20 @@
   skill: "Spear"
   skill_lvl: 121
 
+"Dark Pegasus Lance":
+  ingredients:
+    "Oriharukon": 40
+    "Corrupted Unicorn Tear": 15
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 360000000
+  skill: "Spear"
+  skill_lvl: 127
+
 "Spirit Staff":
   fixed_price: 900
   ingredients:
@@ -17136,6 +17809,20 @@
   workload: 240000000
   skill: "Staff"
   skill_lvl: 121
+
+"Dark Pegasus Staff":
+  ingredients:
+    "Oriharukon": 40
+    "Corrupted Unicorn Tear": 15
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 360000000
+  skill: "Staff"
+  skill_lvl: 127
 
 "Blue Quill":
   fixed_price: 3000
@@ -17699,6 +18386,20 @@
   workload: 240000000
   skill: "Sword"
   skill_lvl: 121
+
+"Dark Pegasus Sword":
+  ingredients:
+    "Oriharukon": 40
+    "Corrupted Unicorn Tear": 15
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 360000000
+  skill: "Sword"
+  skill_lvl: 127
 
 "Hammer [I]":
   fixed_price: 100

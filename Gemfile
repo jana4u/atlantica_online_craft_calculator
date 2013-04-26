@@ -6,3 +6,7 @@ gemspec
 if RUBY_VERSION < '1.9'
   gem 'fastercsv'
 end
+
+group :test do
+  gem 'coveralls', :require => false
+end

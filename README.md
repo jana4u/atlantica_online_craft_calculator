@@ -37,10 +37,12 @@ Inspired by: http://aop.muwing.com/game-tools/craft-calculator
 (Great tool but missing lots of newer items.)
 
 For more informations about auto-crafting see:
-http://www.atlantica-db.com/forum/guides-tutorials-f4/understanding-and-profit-through-auto-craft-t52.html
-http://www.atlanticaonlinewiki.com/index.php?title=Crafting
+
+* http://www.atlantica-db.com/forum/guides-tutorials-f4/understanding-and-profit-through-auto-craft-t52.html
+* http://www.atlanticaonlinewiki.com/index.php?title=Crafting
 
 All game information included is from the MMORPG Atlantica Online - http://atlantica.nexon.net/
+
 © 2011 NEXON Korea Corp. and NEXON America Inc. & NDOORS Corp. All Rights Reserved.
 
 Source code: https://github.com/jana4u/atlantica_online_craft_calculator

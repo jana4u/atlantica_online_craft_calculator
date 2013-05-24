@@ -7256,6 +7256,123 @@
   skill: "Book"
   skill_lvl: 80
 
+"Book: Chione's Fury [I]":
+  market_price: 0
+
+"Book: Chione's Fury [II]":
+  ingredients:
+    "Book: Chione's Fury [I]": 20
+    "Heavenly Crystal": 10
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 20000000
+  skill: "Book"
+  skill_lvl: 78
+
+"Book: Chione's Fury [III]":
+  ingredients:
+    "Book: Chione's Fury [II]": 20
+    "Heavenly Crystal": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 35000000
+  skill: "Book"
+  skill_lvl: 79
+
+"Book: Chione's Fury [IV]":
+  ingredients:
+    "Book: Chione's Fury [III]": 20
+    "Heavenly Crystal": 30
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 60000000
+  skill: "Book"
+  skill_lvl: 80
+
+"Book: Tempest Spirit [I]":
+  market_price: 0
+
+"Book: Tempest Spirit [II]":
+  ingredients:
+    "Book: Tempest Spirit [I]": 20
+    "Heavenly Crystal": 10
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 20000000
+  skill: "Book"
+  skill_lvl: 78
+
+"Book: Tempest Spirit [III]":
+  ingredients:
+    "Book: Tempest Spirit [II]": 20
+    "Heavenly Crystal": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 35000000
+  skill: "Book"
+  skill_lvl: 79
+
+"Book: Tempest Spirit [IV]":
+  ingredients:
+    "Book: Tempest Spirit [III]": 20
+    "Heavenly Crystal": 30
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 60000000
+  skill: "Book"
+  skill_lvl: 80
+
+"Book: Gift of Prometheus [I]":
+  market_price: 0
+
+"Book: Gift of Prometheus [II]":
+  ingredients:
+    "Book: Gift of Prometheus [I]": 20
+    "Heavenly Crystal": 10
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 20000000
+  skill: "Book"
+  skill_lvl: 78
+
+"Book: Gift of Prometheus [III]":
+  ingredients:
+    "Book: Gift of Prometheus [II]": 20
+    "Heavenly Crystal": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 35000000
+  skill: "Book"
+  skill_lvl: 79
+
+"Book: Gift of Prometheus [IV]":
+  ingredients:
+    "Book: Gift of Prometheus [III]": 20
+    "Heavenly Crystal": 30
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 60000000
+  skill: "Book"
+  skill_lvl: 80
+
 "Spirit Bow":
   fixed_price: 900
   ingredients:
@@ -12963,6 +13080,26 @@
   skill: "License"
   skill_lvl: 60
 
+"Secrets of Time: Death's Boundary":
+  ingredients:
+    "Earth Essence": 20
+    "Shimmering Opal": 1
+    "Shimmering Sapphire": 1
+    "Anarchy Stone": 50
+  workload: 30000000
+  skill: "License"
+  skill_lvl: 64
+
+"Secrets of Time: Centaur Archer":
+  ingredients:
+    "Earth Essence": 20
+    "Corrupted Unicorn Tear": 1
+    "Oriharukon": 1
+    "Anarchy Stone": 50
+  workload: 40000000
+  skill: "License"
+  skill_lvl: 66
+
 "Machine: Search Robot VC1":
   ingredients:
     "Coral": 20
@@ -14339,7 +14476,7 @@
   skill: "Accessory"
   skill_lvl: 103
 
-"Tough Sapphire Necklace":
+"Sharp Sapphire Necklace":
   ingredients:
     "Necklace Mold": 500
     "Earth Essence": 50
@@ -14350,7 +14487,7 @@
   skill: "Accessory"
   skill_lvl: 105
 
-"Sharp Sapphire Necklace":
+"Tough Sapphire Necklace":
   ingredients:
     "Necklace Mold": 500
     "Earth Essence": 50
@@ -15209,7 +15346,7 @@
   skill: "Pants"
   skill_lvl: 123
 
-"Dark Pegasus Pants":
+"Dark Pegasus Leggings":
   ingredients:
     "Oriharukon": 30
     "Corrupted Unicorn Tear": 10

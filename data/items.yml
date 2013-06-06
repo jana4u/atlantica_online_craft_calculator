@@ -13090,6 +13090,26 @@
   skill: "License"
   skill_lvl: 64
 
+"Secrets of Time: Patriot":
+  ingredients:
+    "Storm Element": 10
+    "Heavenly Crystal": 10
+    "Broken Ammunition": 20
+    "Broken Cannonball": 10
+  workload: 30000000
+  skill: "License"
+  skill_lvl: 62
+
+"Secrets of Time: Mount Huaguo Temple":
+  ingredients:
+    "Earth Essence": 25
+    "Shimmering Opal": 5
+    "Anarchy Stone": 100
+    "Root of Life": 50
+  workload: 45000000
+  skill: "License"
+  skill_lvl: 68
+
 "Secrets of Time: Centaur Archer":
   ingredients:
     "Earth Essence": 20
@@ -14281,6 +14301,12 @@
   market_price: 0
 
 "Deep Sea Pearl":
+  market_price: 0
+
+"Broken Ammunition":
+  market_price: 0
+
+"Broken Cannonball":
   market_price: 0
 
 "Corrupted Unicorn Tear":

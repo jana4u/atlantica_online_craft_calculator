@@ -944,6 +944,42 @@
   skill: "Armor"
   skill_lvl: 129
 
+"Judgment Heavy Armor":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 10
+    "Oriharukon": 30
+    "Anarchy Stone": 250
+  workload: 400000000
+  skill: "Armor"
+  skill_lvl: 134
+
+"Judgment Light Armor":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 10
+    "Oriharukon": 30
+    "Anarchy Stone": 250
+  workload: 400000000
+  skill: "Armor"
+  skill_lvl: 133
+
+"Judgment Robe":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 10
+    "Oriharukon": 30
+    "Anarchy Stone": 250
+  workload: 400000000
+  skill: "Armor"
+  skill_lvl: 132
+
 "Wooden Arrow":
   ingredients:
     "Maple": 4
@@ -1357,6 +1393,18 @@
   workload: 360000000
   skill: "Axe"
   skill_lvl: 127
+
+"Judgment Axe":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 10
+    "Oriharukon": 30
+    "Anarchy Stone": 250
+  workload: 480000000
+  skill: "Axe"
+  skill_lvl: 130
 
 "Artisan Crafting Secrets":
   market_price: 0
@@ -7373,6 +7421,162 @@
   skill: "Book"
   skill_lvl: 80
 
+"Book: Watchful Soul[I]":
+  market_price: 0
+
+"Book: Watchful Soul [II]":
+  ingredients:
+    "Book: Watchful Soul[I]": 20
+    "Heavenly Crystal": 10
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 15000000
+  skill: "Book"
+  skill_lvl: 78
+
+"Book: Watchful Soul [III]":
+  ingredients:
+    "Book: Watchful Soul [II]": 20
+    "Heavenly Crystal": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 30000000
+  skill: "Book"
+  skill_lvl: 79
+
+"Book: Watchful Soul [IV]":
+  ingredients:
+    "Book: Watchful Soul [III]": 20
+    "Heavenly Crystal": 30
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 50000000
+  skill: "Book"
+  skill_lvl: 80
+
+"Book: Blood Curse [I]":
+  market_price: 0
+
+"Book: Blood Curse [II]":
+  ingredients:
+    "Book: Blood Curse [I]": 20
+    "Heavenly Crystal": 10
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 20000000
+  skill: "Book"
+  skill_lvl: 78
+
+"Book: Blood Curse [III]":
+  ingredients:
+    "Book: Blood Curse [II]": 20
+    "Heavenly Crystal": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 35000000
+  skill: "Book"
+  skill_lvl: 79
+
+"Book: Blood Curse [IV]":
+  ingredients:
+    "Book: Blood Curse [III]": 20
+    "Heavenly Crystal": 30
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 60000000
+  skill: "Book"
+  skill_lvl: 80
+
+"Book: Resurrection [I]":
+  market_price: 0
+
+"Book: Resurrection [II]":
+  ingredients:
+    "Book: Resurrection [I]": 20
+    "Heavenly Crystal": 10
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 20000000
+  skill: "Book"
+  skill_lvl: 78
+
+"Book: Resurrection [III]":
+  ingredients:
+    "Book: Resurrection [II]": 20
+    "Heavenly Crystal": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 35000000
+  skill: "Book"
+  skill_lvl: 79
+
+"Book: Resurrection [IV]":
+  ingredients:
+    "Book: Resurrection [III]": 20
+    "Heavenly Crystal": 30
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 60000000
+  skill: "Book"
+  skill_lvl: 80
+
+"Book: Dark Mists [I]":
+  market_price: 0
+
+"Book: Dark Mists [II]":
+  ingredients:
+    "Book: Dark Mists [I]": 20
+    "Heavenly Crystal": 10
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 20000000
+  skill: "Book"
+  skill_lvl: 78
+
+"Book: Dark Mists [III]":
+  ingredients:
+    "Book: Dark Mists [II]": 20
+    "Heavenly Crystal": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 35000000
+  skill: "Book"
+  skill_lvl: 79
+
+"Book: Dark Mists [IV]":
+  ingredients:
+    "Book: Dark Mists [III]": 20
+    "Heavenly Crystal": 30
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+  batch_size: 10
+  workload: 60000000
+  skill: "Book"
+  skill_lvl: 80
+
 "Spirit Bow":
   fixed_price: 900
   ingredients:
@@ -7666,6 +7870,18 @@
   workload: 360000000
   skill: "Bow"
   skill_lvl: 127
+
+"Judgment Bow":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 10
+    "Oriharukon": 30
+    "Anarchy Stone": 250
+  workload: 480000000
+  skill: "Bow"
+  skill_lvl: 130
 
 "Ancient Book Box of Monks":
   market_price: 0
@@ -8837,6 +9053,18 @@
   skill: "Cannon"
   skill_lvl: 127
 
+"Judgment Cannon":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 10
+    "Oriharukon": 30
+    "Anarchy Stone": 250
+  workload: 480000000
+  skill: "Cannon"
+  skill_lvl: 130
+
 "Steel Cannonball":
   ingredients:
     "Iron Sand": 7
@@ -9958,6 +10186,50 @@
   skill: "Food"
   skill_lvl: 75
 
+"Meat Pie":
+  ingredients:
+    "Monster Egg": 1
+    "Honey": 10
+    "Mutton": 30
+    "Fragrant Spice": 50
+  batch_size: 10
+  workload: 80000
+  skill: "Food"
+  skill_lvl: 63
+
+"Lemon, Lime and Bitters":
+  ingredients:
+    "Monster Egg": 1
+    "Honey": 10
+    "Lemon": 15
+    "Fragrant Spice": 50
+  batch_size: 10
+  workload: 85000
+  skill: "Food"
+  skill_lvl: 65
+
+"Fish and Chips":
+  ingredients:
+    "Potato": 10
+    "Carp": 10
+    "Deep Sea Pearl": 25
+    "Fragrant Spice": 100
+  batch_size: 10
+  workload: 240000
+  skill: "Food"
+  skill_lvl: 82
+
+"Strawberry Shortcake":
+  ingredients:
+    "Mushroom": 10
+    "Bean": 10
+    "Deep Sea Pearl": 25
+    "Fragrant Spice": 100
+  batch_size: 10
+  workload: 270000
+  skill: "Food"
+  skill_lvl: 88
+
 "Spirit Gloves":
   fixed_price: 300
   ingredients:
@@ -10801,6 +11073,42 @@
   skill: "Gauntlet"
   skill_lvl: 122
 
+"Judgment Gauntlets":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 7
+    "Oriharukon": 20
+    "Anarchy Stone": 250
+  workload: 200000000
+  skill: "Gauntlet"
+  skill_lvl: 127
+
+"Judgment Chain Gloves":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 7
+    "Oriharukon": 20
+    "Anarchy Stone": 250
+  workload: 200000000
+  skill: "Gauntlet"
+  skill_lvl: 126
+
+"Judgment Gloves":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 7
+    "Oriharukon": 20
+    "Anarchy Stone": 250
+  workload: 200000000
+  skill: "Gauntlet"
+  skill_lvl: 125
+
 "Guardian Stone [I]":
   fixed_price: 1500
   ingredients:
@@ -11173,6 +11481,18 @@
   workload: 360000000
   skill: "Gun"
   skill_lvl: 127
+
+"Judgment Rifle":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 10
+    "Oriharukon": 30
+    "Anarchy Stone": 250
+  workload: 480000000
+  skill: "Gun"
+  skill_lvl: 130
 
 "Spirit Helmet":
   fixed_price: 600
@@ -12021,6 +12341,42 @@
   skill: "Helmet"
   skill_lvl: 122
 
+"Judgment Helmet":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 7
+    "Oriharukon": 20
+    "Anarchy Stone": 250
+  workload: 270000000
+  skill: "Helmet"
+  skill_lvl: 127
+
+"Judgment Chain Helmet":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 7
+    "Oriharukon": 20
+    "Anarchy Stone": 250
+  workload: 270000000
+  skill: "Helmet"
+  skill_lvl: 126
+
+"Judgment Hat":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 7
+    "Oriharukon": 20
+    "Anarchy Stone": 250
+  workload: 270000000
+  skill: "Helmet"
+  skill_lvl: 125
+
 "Spirit Instrument":
   fixed_price: 900
   ingredients:
@@ -12314,6 +12670,18 @@
   workload: 360000000
   skill: "Instrument"
   skill_lvl: 127
+
+"Judgment Instrument":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 10
+    "Oriharukon": 30
+    "Anarchy Stone": 250
+  workload: 480000000
+  skill: "Instrument"
+  skill_lvl: 130
 
 "Secrets of Time: Monk":
   ingredients:
@@ -13119,6 +13487,26 @@
   workload: 40000000
   skill: "License"
   skill_lvl: 66
+
+"Secrets of Time: Katherine Gorge":
+  ingredients:
+    "Earth Element": 50
+    "Evil Imprint": 2
+    "Mysterious Vial: Wisdom": 5
+    "Large Diamond": 1
+  workload: 23000000
+  skill: "License"
+  skill_lvl: 56
+
+"Secrets of Time: Pure Waters":
+  ingredients:
+    "Sea Element": 50
+    "Evil Imprint": 3
+    "Blue Sapphire": 100
+    "Large Diamond": 2
+  workload: 34000000
+  skill: "License"
+  skill_lvl: 59
 
 "Machine: Search Robot VC1":
   ingredients:
@@ -14315,6 +14703,12 @@
 "Anarchy Stone":
   market_price: 0
 
+"Fragrant Spice":
+  market_price: 0
+
+"Light of Judgment":
+  market_price: 0
+
 "Wooden Music Sheet":
   ingredients:
     "Maple": 5
@@ -14815,6 +15209,18 @@
   workload: 85000000
   skill: "Orb"
   skill_lvl: 116
+
+"Judgment Orb":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 7
+    "Oriharukon": 20
+    "Anarchy Stone": 250
+  workload: 125000000
+  skill: "Orb"
+  skill_lvl: 118
 
 "Spirit Leggings":
   fixed_price: 500
@@ -15386,6 +15792,30 @@
   skill: "Pants"
   skill_lvl: 121
 
+"Judgment Greaves":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 7
+    "Oriharukon": 20
+    "Anarchy Stone": 250
+  workload: 270000000
+  skill: "Pants"
+  skill_lvl: 126
+
+"Judgment Leggings":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 7
+    "Oriharukon": 20
+    "Anarchy Stone": 250
+  workload: 270000000
+  skill: "Pants"
+  skill_lvl: 124
+
 "Spirit Power Saw":
   fixed_price: 900
   ingredients:
@@ -15679,6 +16109,18 @@
   workload: 360000000
   skill: "Power Saw"
   skill_lvl: 127
+
+"Judgment Power Saw":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 10
+    "Oriharukon": 30
+    "Anarchy Stone": 250
+  workload: 480000000
+  skill: "Power Saw"
+  skill_lvl: 130
 
 "Ring of Dull Swords":
   ingredients:
@@ -16555,6 +16997,18 @@
   skill: "Shield"
   skill_lvl: 116
 
+"Judgment Shield":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 7
+    "Oriharukon": 20
+    "Anarchy Stone": 250
+  workload: 150000000
+  skill: "Shield"
+  skill_lvl: 118
+
 "Spirit Shoes":
   fixed_price: 300
   ingredients:
@@ -17399,6 +17853,42 @@
   skill: "Shoes"
   skill_lvl: 122
 
+"Judgment Boots":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 7
+    "Oriharukon": 20
+    "Anarchy Stone": 250
+  workload: 200000000
+  skill: "Shoes"
+  skill_lvl: 127
+
+"Judgment Chain Boots":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 7
+    "Oriharukon": 20
+    "Anarchy Stone": 250
+  workload: 200000000
+  skill: "Shoes"
+  skill_lvl: 126
+
+"Judgment Shoes":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 7
+    "Oriharukon": 20
+    "Anarchy Stone": 250
+  workload: 200000000
+  skill: "Shoes"
+  skill_lvl: 125
+
 "Spirit Spear":
   fixed_price: 900
   ingredients:
@@ -17693,6 +18183,18 @@
   skill: "Spear"
   skill_lvl: 127
 
+"Judgment Spear":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 10
+    "Oriharukon": 30
+    "Anarchy Stone": 250
+  workload: 480000000
+  skill: "Spear"
+  skill_lvl: 130
+
 "Spirit Staff":
   fixed_price: 900
   ingredients:
@@ -17986,6 +18488,18 @@
   workload: 360000000
   skill: "Staff"
   skill_lvl: 127
+
+"Judgment Staff":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 10
+    "Oriharukon": 30
+    "Anarchy Stone": 250
+  workload: 480000000
+  skill: "Staff"
+  skill_lvl: 130
 
 "Blue Quill":
   fixed_price: 3000
@@ -18563,6 +19077,18 @@
   workload: 360000000
   skill: "Sword"
   skill_lvl: 127
+
+"Judgment Sword":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 10
+    "Oriharukon": 30
+    "Anarchy Stone": 250
+  workload: 480000000
+  skill: "Sword"
+  skill_lvl: 130
 
 "Hammer [I]":
   fixed_price: 100

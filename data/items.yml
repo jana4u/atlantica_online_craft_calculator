@@ -19156,6 +19156,308 @@
   skill: "Tool"
   skill_lvl: 29
 
+"Spirit Whip":
+  ingredients:
+    "Coral": 5
+    "Maple": 4
+  workload: 450
+  skill: "Whip"
+  skill_lvl: 1
+
+"Deep-Sea Whip":
+  ingredients:
+    "Coral": 2
+    "Pearl": 7
+    "Iron Sand": 2
+    "Earth Element Shard": 8
+  workload: 2800
+  skill: "Whip"
+  skill_lvl: 4
+
+"Ogre Whip":
+  ingredients:
+    "Pine": 3
+    "Iron Sand": 5
+    "Silver Ingot": 5
+    "Coral": 12
+    "Copper Ore": 6
+    "Pearl": 4
+    "Earth Element Shard": 20
+  workload: 9200
+  skill: "Whip"
+  skill_lvl: 9
+
+"Assassin's Whip":
+  ingredients:
+    "Silver Ingot": 9
+    "Copper Ore": 25
+    "Embroidery Thread": 22
+    "Pearl": 10
+    "Thick Tree Branch": 10
+    "Earth Element Shard": 60
+    "Sea Element Shard": 5
+  workload: 25300
+  skill: "Whip"
+  skill_lvl: 15
+
+"Walachia's Whip":
+  ingredients:
+    "Embroidery Thread": 40
+    "Silver Ingot": 20
+    "Copper Ore": 20
+    "Pearl": 15
+    "Sea Element Shard": 15
+  workload: 69600
+  skill: "Whip"
+  skill_lvl: 23
+
+"Blood Knight Whip":
+  ingredients:
+    "Embroidery Thread": 100
+    "Silver Ingot": 8
+    "Copper Ore": 50
+    "Pearl": 50
+    "Earth Element Shard": 30
+    "Sea Element Shard": 15
+    "Fusing Agent": 1
+    "Warrior's Sign": 1
+  workload: 125200
+  skill: "Whip"
+  skill_lvl: 28
+
+"Anu Warrior Whip":
+  ingredients:
+    "Tanzanite": 4
+    "Thick Animal Bone": 10
+    "Pearl": 30
+    "Silver Ingot": 10
+    "Gold Ingot": 3
+    "Pine": 20
+    "Sea Element Shard": 15
+    "Flame Element Shard": 5
+  workload: 191400
+  skill: "Whip"
+  skill_lvl: 32
+
+"Gilgamesh Whip":
+  ingredients:
+    "Tanzanite": 5
+    "Pearl": 100
+    "Silver Ingot": 10
+    "Pine": 20
+    "Sea Element Shard": 15
+    "Flame Element Shard": 5
+    "Gilgamesh's Sword Shard": 1
+    "Warrior's Sign": 1
+  workload: 287100
+  skill: "Whip"
+  skill_lvl: 35
+
+"Amon's Whip":
+  ingredients:
+    "Silver Ingot": 40
+    "Thick Animal Bone": 10
+    "Platinum Ingot": 1
+    "Slab of Lumber": 10
+    "Pearl": 20
+    "Gold Ingot": 35
+    "Sea Element Shard": 20
+    "Flame Element Shard": 25
+  workload: 526400
+  skill: "Whip"
+  skill_lvl: 44
+
+"Ghost Gunner Whip":
+  ingredients:
+    "Opal": 7
+    "Big Slab of Lumber": 20
+    "Ghost Mask": 2
+    "Silver Ingot": 20
+    "Gold Ingot": 10
+    "Large Animal Bone": 5
+    "Earth Element": 2
+    "Storm Element Shard": 15
+    "Thick Animal Bone": 20
+    "Platinum Ingot": 10
+  workload: 1447600
+  skill: "Whip"
+  skill_lvl: 50
+
+"Dragon Slayer Whip":
+  ingredients:
+    "Platinum Ingot": 75
+    "Big Slab of Lumber": 15
+    "Large Animal Bone": 15
+    "Ruby": 8
+    "Opal": 12
+    "Storm Element Shard": 25
+    "Earth Element": 10
+    "Thick Animal Bone": 20
+  workload: 3980900
+  skill: "Whip"
+  skill_lvl: 56
+
+"Gold Dragon Whip":
+  ingredients:
+    "Platinum Ingot": 29
+    "Opal": 15
+    "Adamantium": 8
+    "Gold Ingot": 10
+    "Earth Element": 48
+    "Thick Animal Bone": 20
+    "Gold Dragon Scale": 15
+    "Warrior's Sign": 1
+  workload: 7961800
+  skill: "Whip"
+  skill_lvl: 60
+
+"Conqueror's Whip":
+  ingredients:
+    "Colorful Fabric": 15
+    "Large Animal Bone": 20
+    "Opal": 23
+    "Adamantium": 8
+    "Large Diamond": 1
+    "Earth Element": 30
+    "Sea Element": 40
+    "Ruby": 8
+    "Tanzanite": 5
+    "Crazy Lord's Seal": 2
+  workload: 12000000
+  skill: "Whip"
+  skill_lvl: 65
+
+"Freezing Whip":
+  ingredients:
+    "Large Diamond": 1
+    "Adamantium Ingot": 10
+    "Large Animal Bone": 50
+    "Sea Element": 60
+    "Energy of Wind": 10
+    "Energy of Hail": 10
+    "Opal": 15
+    "Ruby": 8
+    "Frozen Soul": 30
+    "Platinum Ingot": 45
+  workload: 18000000
+  skill: "Whip"
+  skill_lvl: 70
+
+"Divine Whip":
+  ingredients:
+    "Large Diamond": 2
+    "Imitation Oriharukon": 1
+    "Adamantium Ingot": 5
+    "Opal": 45
+    "Animal Replica": 2
+    "Sea Element": 160
+    "Energy of Sky": 10
+    "Ruby": 70
+  workload: 27000000
+  skill: "Whip"
+  skill_lvl: 75
+
+"Depraved Whip":
+  ingredients:
+    "Large Diamond": 1
+    "Imitation Oriharukon": 1
+    "Animal Replica": 3
+    "Sea Element": 280
+    "Revival Plant": 30
+    "Hero's Blood": 4
+    "Depraved Seed": 2
+    "Platinum Ingot": 20
+    "Opal": 200
+  workload: 40000000
+  skill: "Whip"
+  skill_lvl: 80
+
+"Phoenix's Whip":
+  ingredients:
+    "Large Diamond": 4
+    "Imitation Oriharukon": 1
+    "Refined Mithril Ingot": 1
+    "Alchemist's Stone": 1
+    "Enriched Adamantium Ingot": 1
+    "Flame Element": 200
+    "Animal Replica": 5
+    "Oriental Mushroom": 60
+    "Phoenix's Feather": 8
+  workload: 60000000
+  skill: "Whip"
+  skill_lvl: 85
+
+"Dragon God's Whip":
+  ingredients:
+    "Gorgeous Colorful Fabric": 30
+    "Dragon God's Wishstone": 8
+    "Enriched Adamantium Ingot": 1
+    "Titanium Ingot": 50
+    "Flame Element": 380
+    "Animal Replica": 25
+    "Oriental Mushroom": 90
+    "Dragon God's Ire": 50
+    "Weapon & Armor Mold": 50
+  workload: 80000000
+  skill: "Whip"
+  skill_lvl: 101
+
+"Evil Whip":
+  ingredients:
+    "Evil Imprint": 15
+    "Vindictive Soul Imprint": 150
+    "Storm Element": 250
+    "Atlantis Silver Coin": 10
+    "Craftsman's Soul": 100
+    "Imitation Oriharukon": 3
+    "Alchemist's Stone": 1
+    "Monster Egg": 600
+    "Evil Soul Extract": 500
+  workload: 160000000
+  skill: "Whip"
+  skill_lvl: 110
+
+"Pegasus Whip":
+  ingredients:
+    "Oriharukon": 20
+    "Pegasus Tear": 13
+    "Fused Devil Stone": 1
+    "Atlantis Silver Coin": 20
+    "Storm Element": 300
+    "Expert's Soul": 20
+    "Enhanced Titanium Ingot": 1
+    "Sorcerer's Mask": 50
+    "Root of Life": 200
+  workload: 240000000
+  skill: "Whip"
+  skill_lvl: 121
+
+"Dark Pegasus Whip":
+  ingredients:
+    "Oriharukon": 40
+    "Corrupted Unicorn Tear": 15
+    "Fused Devil Stone": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Expert's Soul": 50
+    "Enhanced Titanium Ingot": 1
+    "Anarchy Stone": 500
+  workload: 360000000
+  skill: "Whip"
+  skill_lvl: 127
+
+"Judgment Whip":
+  ingredients:
+    "Light of Judgment": 1
+    "Atlantis Gold Coin": 10
+    "Earth Essence": 100
+    "Corrupted Unicorn Tear": 10
+    "Oriharukon": 30
+    "Anarchy Stone": 250
+  workload: 480000000
+  skill: "Whip"
+  skill_lvl: 130
+
 "Thick Tree Branch":
   fixed_price: 300
 

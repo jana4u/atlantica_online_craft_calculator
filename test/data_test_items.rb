@@ -93,7 +93,8 @@ class DataTestItems < Test::Unit::TestCase
       old_prices[item.name] = item.unit_price
     end
 
-    AtlanticaOnlineCraftCalculator::Item.load_data_from_yaml({ "Ashen Crystal" => 5400 })
+    AtlanticaOnlineCraftCalculator::Item.load_data_from_yaml
+    AtlanticaOnlineCraftCalculator::Item.configure_custom_prices({ 'Ashen Crystal' => 5400 })
 
     item_names.each do |item_name|
       item = AtlanticaOnlineCraftCalculator::Item.find(item_name)
@@ -103,6 +104,24 @@ class DataTestItems < Test::Unit::TestCase
       assert_not_nil item.price_type
       assert item.unit_price < old_prices[item.name]
     end
+  end
+
+  def test_custom_prices_with_crafting_disabled
+    item = AtlanticaOnlineCraftCalculator::Item.find('Ashen Jewel')
+
+    assert_equal :craft_price, item.price_type
+    assert_equal 118000, item.unit_price
+
+    AtlanticaOnlineCraftCalculator::Item.configure_custom_prices({ 'Ashen Jewel' => 115000 })
+    AtlanticaOnlineCraftCalculator::Item.configure_items_with_crafting_disabled(['Ashen Jewel'])
+
+    assert_equal :market_price, item.price_type
+    assert_equal 115000, item.unit_price
+
+    AtlanticaOnlineCraftCalculator::Item.configure_custom_prices({ 'Ashen Jewel' => 120000 })
+
+    assert_equal :market_price, item.price_type
+    assert_equal 120000, item.unit_price
   end
 
   def item_with_raw_craft_tree_assertions(item)

@@ -1,17 +1,27 @@
 module AtlanticaOnlineCraftCalculator
   class Item
-    def self.load_data_from_yaml(custom_prices = {}, data_file = File.join(File.dirname(__FILE__), '../../data', 'items.yml'))
+    def self.load_data_from_yaml(data_file = File.join(File.dirname(__FILE__), '../../data', 'items.yml'))
       require 'yaml'
 
       yaml_data = YAML::load(File.open(data_file))
 
+      self.all = yaml_data
+    end
+
+    def self.configure_custom_prices(custom_prices)
       custom_prices.each do |item_name, price|
-        if yaml_data[item_name]
-          yaml_data[item_name]["market_price"] = price
+        if item = all[item_name]
+          item.market_price = price
         end
       end
+    end
 
-      self.all = yaml_data
+    def self.configure_items_with_crafting_disabled(items_with_crafting_disabled)
+      items_with_crafting_disabled.each do |item_name|
+        if (item = all[item_name]) && (item.fixed_price || item.market_price)
+          item.crafting_disabled = true
+        end
+      end
     end
 
     def self.all=(hash)
@@ -90,9 +100,19 @@ module AtlanticaOnlineCraftCalculator
       :skill_lvl,
       :market_price,
       :fixed_price,
+      :crafting_disabled,
     ].each do |method_name|
       define_method method_name do
         @data[method_name.to_s]
+      end
+    end
+
+    [
+      :market_price,
+      :crafting_disabled,
+    ].each do |method_name|
+      define_method "#{method_name}=" do |value|
+        @data[method_name.to_s] = value
       end
     end
 
@@ -109,7 +129,7 @@ module AtlanticaOnlineCraftCalculator
     end
 
     def craftable?
-      !ingredients.nil?
+      !ingredients.nil? && !crafting_disabled
     end
 
     def crafting_is_cheaper?

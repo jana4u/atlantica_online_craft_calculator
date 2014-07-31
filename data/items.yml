@@ -7958,6 +7958,150 @@
   skill: "Book"
   skill_lvl: 69
 
+"Book: Carnage [I]":
+  market_price: 0
+
+"Book: Carnage [II]":
+  ingredients:
+    "Book: Carnage [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Carnage [III]":
+  ingredients:
+    "Book: Carnage [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 61
+
+"Book: Carnage [IV]":
+  ingredients:
+    "Book: Carnage [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 69
+
+"Book: Morale Boost [I]":
+  market_price: 0
+
+"Book: Morale Boost [II]":
+  ingredients:
+    "Book: Morale Boost [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Morale Boost [III]":
+  ingredients:
+    "Book: Morale Boost [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 61
+
+"Book: Morale Boost [IV]":
+  ingredients:
+    "Book: Morale Boost [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 69
+
+"Book: Blood Vendetta [I]":
+  market_price: 0
+
+"Book: Blood Vendetta [II]":
+  ingredients:
+    "Book: Blood Vendetta [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Blood Vendetta [III]":
+  ingredients:
+    "Book: Blood Vendetta [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 61
+
+"Book: Blood Vendetta [IV]":
+  ingredients:
+    "Book: Blood Vendetta [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 69
+
 "Book: Star Spite [I]":
   market_price: 0
 
@@ -8194,6 +8338,150 @@
   workload: 1000000
   skill: "Book"
   skill_lvl: 45
+
+"Book: Dell'arte [I]":
+  market_price: 0
+
+"Book: Dell'arte [II]":
+  ingredients:
+    "Book: Dell'arte [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Dell'arte [III]":
+  ingredients:
+    "Book: Dell'arte [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 61
+
+"Book: Dell'arte [IV]":
+  ingredients:
+    "Book: Dell'arte [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 69
+
+"Book: Fatal Flourish [I]":
+  market_price: 0
+
+"Book: Fatal Flourish [II]":
+  ingredients:
+    "Book: Fatal Flourish [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Fatal Flourish [III]":
+  ingredients:
+    "Book: Fatal Flourish [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 61
+
+"Book: Fatal Flourish [IV]":
+  ingredients:
+    "Book: Fatal Flourish [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 69
+
+"Book: Masquerade [I]":
+  market_price: 0
+
+"Book: Masquerade [II]":
+  ingredients:
+    "Book: Masquerade [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Masquerade [III]":
+  ingredients:
+    "Book: Masquerade [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 61
+
+"Book: Masquerade [IV]":
+  ingredients:
+    "Book: Masquerade [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 69
 
 "Spirit Bow":
   fixed_price: 900

@@ -8483,6 +8483,150 @@
   skill: "Book"
   skill_lvl: 69
 
+"Book: Red Riding Hood [I]":
+  market_price: 0
+
+"Book: Red Riding Hood [II]":
+  ingredients:
+    "Book: Red Riding Hood [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 20000000
+  skill: "Book"
+  skill_lvl: 78
+
+"Book: Red Riding Hood [III]":
+  ingredients:
+    "Book: Red Riding Hood [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 35000000
+  skill: "Book"
+  skill_lvl: 79
+
+"Book: Red Riding Hood [IV]":
+  ingredients:
+    "Book: Red Riding Hood [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 60000000
+  skill: "Book"
+  skill_lvl: 80
+
+"Book: Musicians of Bremen [I]":
+  market_price: 0
+
+"Book: Musicians of Bremen [II]":
+  ingredients:
+    "Book: Musicians of Bremen [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 20000000
+  skill: "Book"
+  skill_lvl: 78
+
+"Book: Musicians of Bremen [III]":
+  ingredients:
+    "Book: Musicians of Bremen [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 35000000
+  skill: "Book"
+  skill_lvl: 79
+
+"Book: Musicians of Bremen [IV]":
+  ingredients:
+    "Book: Musicians of Bremen [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 60000000
+  skill: "Book"
+  skill_lvl: 80
+
+"Book: Mother Hulda [I]":
+  market_price: 0
+
+"Book: Mother Hulda [II]":
+  ingredients:
+    "Book: Mother Hulda [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 20000000
+  skill: "Book"
+  skill_lvl: 78
+
+"Book: Mother Hulda [III]":
+  ingredients:
+    "Book: Mother Hulda [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 35000000
+  skill: "Book"
+  skill_lvl: 79
+
+"Book: Mother Hulda [IV]":
+  ingredients:
+    "Book: Mother Hulda [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 60000000
+  skill: "Book"
+  skill_lvl: 80
+
 "Spirit Bow":
   fixed_price: 900
   ingredients:
@@ -14763,6 +14907,23 @@
   workload: 3000000
   skill: "Mana Stone"
   skill_lvl: 65
+
+"Purified Enhance Stone":
+  ingredients:
+    "Obsidian Shard": 50
+    "Vulcan's Hammer": 500
+    "Light of Judgment": 5
+    "Flame Element": 1000
+    "Storm Element": 1000
+    "Earth Essence": 200
+    "Anarchy Stone": 1000
+  batch_size: 10
+  workload: 6000000
+  skill: "Mana Stone"
+  skill_lvl: 80
+
+"Obsidian Shard":
+  market_price: 0
 
 "Ginseng":
   fixed_price: 100

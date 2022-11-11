@@ -1,7 +1,5 @@
 # Atlantica Online Craft Calculator
 
-[![Code Climate](https://codeclimate.com/github/jana4u/atlantica_online_craft_calculator.png)](https://codeclimate.com/github/jana4u/atlantica_online_craft_calculator)
-
 Calculates craft prices, gained craft XP, estimated craft times etc.
 
 ## Installation

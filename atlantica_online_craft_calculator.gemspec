@@ -14,6 +14,4 @@ Gem::Specification.new do |gem|
   gem.name          = "atlantica_online_craft_calculator"
   gem.require_paths = ["lib"]
   gem.version       = AtlanticaOnlineCraftCalculator::VERSION
-
-  gem.add_development_dependency 'rake'
 end

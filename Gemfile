@@ -8,5 +8,5 @@ if RUBY_VERSION < '1.9'
 end
 
 group :test do
-  gem 'coveralls', :require => false
+  gem 'simplecov', :require => false
 end

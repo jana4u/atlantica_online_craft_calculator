@@ -1,4 +1,4 @@
-require 'coveralls'
-Coveralls.wear!
+require 'simplecov'
+SimpleCov.start
 
 require 'test/unit'

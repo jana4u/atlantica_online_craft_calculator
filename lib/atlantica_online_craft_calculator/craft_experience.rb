@@ -1,15 +1,9 @@
 module AtlanticaOnlineCraftCalculator
   class CraftExperience
-    if RUBY_VERSION >= "1.9"
-      require 'csv'
-      FasterCSV = CSV
-    else
-      require 'rubygems'
-      require 'fastercsv'
-    end
+    require 'csv'
 
     def self.load_levels_from_csv(data_file = File.join(File.dirname(__FILE__), '../../data', 'craft_experience_levels.csv'))
-      csv_data = FasterCSV.read(data_file, :headers => true)
+      csv_data = CSV.read(data_file, :headers => true)
 
       self.load_levels_from_array(csv_data)
     end

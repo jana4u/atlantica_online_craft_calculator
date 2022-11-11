@@ -1,7 +1,6 @@
 # Atlantica Online Craft Calculator
 
 [![Build Status](https://travis-ci.org/jana4u/atlantica_online_craft_calculator.png)](https://travis-ci.org/jana4u/atlantica_online_craft_calculator)
-[![Dependency Status](https://gemnasium.com/jana4u/atlantica_online_craft_calculator.png)](https://gemnasium.com/jana4u/atlantica_online_craft_calculator)
 [![Code Climate](https://codeclimate.com/github/jana4u/atlantica_online_craft_calculator.png)](https://codeclimate.com/github/jana4u/atlantica_online_craft_calculator)
 
 Calculates craft prices, gained craft XP, estimated craft times etc.

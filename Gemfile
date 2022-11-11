@@ -5,6 +5,8 @@ gemspec
 
 gem 'rake'
 
+gem 'test-unit'
+
 group :test do
   gem 'simplecov', :require => false
 end

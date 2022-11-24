@@ -37,7 +37,7 @@ https://github.com/jana4u/atlantica_online_craft_calculator_web
 Inspired by: http://aop.muwing.com/game-tools/craft-calculator
 (Great tool but missing lots of newer items.)
 
-For more informations about auto-crafting see:
+For more information about auto-crafting see:
 
 * http://www.atlantica-db.com/forum/guides-tutorials-f4/understanding-and-profit-through-auto-craft-t52.html
 * http://www.atlanticaonlinewiki.com/index.php?title=Crafting

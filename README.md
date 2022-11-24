@@ -42,7 +42,7 @@ For more information about auto-crafting see:
 * http://www.atlantica-db.com/forum/guides-tutorials-f4/understanding-and-profit-through-auto-craft-t52.html
 * http://www.atlanticaonlinewiki.com/index.php?title=Crafting
 
-All game information included is from the MMORPG Atlantica Online - http://atlantica.nexon.net/
+All game information included is from the MMORPG Atlantica Online - http://at.valofe.com/
 
 © 2011 NEXON Korea Corp. and NEXON America Inc. & NDOORS Corp. All Rights Reserved.
 

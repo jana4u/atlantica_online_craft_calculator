@@ -18,7 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Check Ruby on Rails engine which uses this gem:
+https://github.com/jana4u/atlantica_online_craft_calculator_engine
+
+Check Ruby on Rails application using that engine:
+https://github.com/jana4u/atlantica_online_craft_calculator_web
 
 ## Contributing
 

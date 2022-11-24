@@ -44,8 +44,6 @@ For more information about auto-crafting see:
 
 All game information included is from the MMORPG Atlantica Online - http://at.valofe.com/
 
-© 2011 NEXON Korea Corp. and NEXON America Inc. & NDOORS Corp. All Rights Reserved.
-
 Source code: https://github.com/jana4u/atlantica_online_craft_calculator
 
 Copyright (c) 2012 Jana Dvořáková (Jana4U) jana4u@seznam.cz, released under the MIT license

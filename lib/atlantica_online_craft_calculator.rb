@@ -1,4 +1,5 @@
 require File.join(File.dirname(__FILE__), 'atlantica_online_craft_calculator/version')
+require File.join(File.dirname(__FILE__), 'atlantica_online_craft_calculator/data')
 require File.join(File.dirname(__FILE__), 'atlantica_online_craft_calculator/craft_experience_level')
 require File.join(File.dirname(__FILE__), 'atlantica_online_craft_calculator/craft_experience')
 require File.join(File.dirname(__FILE__), 'atlantica_online_craft_calculator/list_item')

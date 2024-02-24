@@ -7,7 +7,7 @@ class DataTestItems < Test::Unit::TestCase
   end
 
   def test_lists_of_items
-    assert_equal 2579, AtlanticaOnlineCraftCalculator::Item.all.size
+    assert_equal 2945, AtlanticaOnlineCraftCalculator::Item.all.size
     assert AtlanticaOnlineCraftCalculator::Item.all.size > 0
     assert AtlanticaOnlineCraftCalculator::Item.ordered_items.size > 0
     assert_equal AtlanticaOnlineCraftCalculator::Item.all.size,
@@ -60,7 +60,7 @@ class DataTestItems < Test::Unit::TestCase
   end
 
   def test_item_skills
-    assert_equal 40, AtlanticaOnlineCraftCalculator::Item.ordered_item_skills.size
+    assert_equal 41, AtlanticaOnlineCraftCalculator::Item.ordered_item_skills.size
 
     items_size = 0
     AtlanticaOnlineCraftCalculator::Item.ordered_item_skills.each do |skill|

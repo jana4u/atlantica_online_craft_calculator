@@ -980,6 +980,360 @@
   skill: "Armor"
   skill_lvl: 132
 
+"Twilight Heavy Armor":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 150
+    "Atlantis Gold Coin": 15
+    "Shard of Beginning": 10
+    "Fused Devil Stone": 3
+    "Oriharukon": 50
+  workload: 500000000
+  skill: "Armor"
+  skill_lvl: 137
+
+"Twilight Light Armor":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 150
+    "Atlantis Gold Coin": 15
+    "Shard of Beginning": 10
+    "Fused Devil Stone": 3
+    "Oriharukon": 50
+  workload: 500000000
+  skill: "Armor"
+  skill_lvl: 136
+
+"Twilight Robe":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 150
+    "Atlantis Gold Coin": 15
+    "Shard of Beginning": 10
+    "Fused Devil Stone": 3
+    "Oriharukon": 50
+  workload: 500000000
+  skill: "Armor"
+  skill_lvl: 135
+
+"Riederan's Heavy Armor":
+  ingredients:
+    "Riederan's Soul Shard": 5
+    "Voice of Terror": 100
+    "Oriharukon": 150
+    "Atlantis Gold Coin": 50
+    "Sunset Afterglow": 3
+    "Earth Essence": 300
+  workload: 1200000000
+  skill: "Armor"
+  skill_lvl: 140
+
+"Riederan's Light Armor":
+  ingredients:
+    "Riederan's Soul Shard": 5
+    "Voice of Terror": 100
+    "Oriharukon": 150
+    "Atlantis Gold Coin": 50
+    "Sunset Afterglow": 3
+    "Earth Essence": 300
+  workload: 1200000000
+  skill: "Armor"
+  skill_lvl: 140
+
+"Riederan's Robe":
+  ingredients:
+    "Riederan's Soul Shard": 5
+    "Voice of Terror": 100
+    "Oriharukon": 150
+    "Atlantis Gold Coin": 50
+    "Sunset Afterglow": 3
+    "Earth Essence": 300
+  workload: 1200000000
+  skill: "Armor"
+  skill_lvl: 140
+
+"Abyssal Heavy Armor":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 700000000
+  skill: "Armor"
+  skill_lvl: 140
+
+"Abyssal Light Armor":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 700000000
+  skill: "Armor"
+  skill_lvl: 140
+
+"Abyssal Robe":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 700000000
+  skill: "Armor"
+  skill_lvl: 140
+
+"Apocalyptic Heavy Armor":
+  ingredients:
+    "Riederan's Soul Stone of the Dead": 1
+    "Earth Essence": 400
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 50
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Shard of Beginning": 8
+    "Atlantis Platinum Coin": 50
+    "Hydra's Poisonous Gland": 40
+    "Heavenly Crystal": 200
+    "Van Gogh's Soul Stone": 15
+  workload: 1400000000
+  skill: "Armor"
+  skill_lvl: 160
+
+"Apocalyptic Light Armor":
+  ingredients:
+    "Riederan's Soul Stone of the Dead": 1
+    "Earth Essence": 400
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 50
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Shard of Beginning": 8
+    "Atlantis Platinum Coin": 50
+    "Hydra's Poisonous Gland": 40
+    "Heavenly Crystal": 200
+    "Van Gogh's Soul Stone": 15
+  workload: 1400000000
+  skill: "Armor"
+  skill_lvl: 160
+
+"Apocalyptic Robe":
+  ingredients:
+    "Riederan's Soul Stone of the Dead": 1
+    "Earth Essence": 400
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 50
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Shard of Beginning": 8
+    "Atlantis Platinum Coin": 50
+    "Hydra's Poisonous Gland": 40
+    "Heavenly Crystal": 200
+    "Van Gogh's Soul Stone": 15
+  workload: 1400000000
+  skill: "Armor"
+  skill_lvl: 160
+
+"Spirit's Fist":
+  fixed_price: 12000
+  ingredients:
+    "Coral": 7
+    "Maple": 5
+    "Earth Element Shard": 40
+  workload: 270
+  skill: "Armor Fist"
+  skill_lvl: 1
+
+"Destroyer's Fist":
+  fixed_price: 92500
+  ingredients:
+    "Silver Ingot": 20
+    "Embroidery Thread": 35
+    "Pearl": 20
+    "Earth Element Shard": 120
+    "Sea Element Shard": 40
+  workload: 15660
+  skill: "Armor Fist"
+  skill_lvl: 20
+
+"Anu Warrior's Fist":
+  ingredients:
+    "Tanzanite": 15
+    "Thick Animal Bone": 30
+    "Silver Thread": 40
+    "Sea Element Shard": 80
+    "Flame Element Shard": 40
+  workload: 118260
+  skill: "Armor Fist"
+  skill_lvl: 40
+
+"Ghost Warrior's Fist":
+  ingredients:
+    "Opal": 20
+    "Colorful Fabric": 15
+    "Platinum Ingot": 30
+    "Ghost Mask": 5
+    "Storm Element Shard": 40
+    "Earth Element": 15
+  workload: 894465
+  skill: "Armor Fist"
+  skill_lvl: 52
+
+"Freezing Fist":
+  ingredients:
+    "Adamantium Ingot": 20
+    "Colorful Fabric": 70
+    "Ruby": 20
+    "Frozen Soul": 60
+    "Earth Element": 100
+    "Sea Element": 120
+  workload: 10800000
+  skill: "Armor Fist"
+  skill_lvl: 76
+
+"Divine Fist":
+  ingredients:
+    "Large Diamond": 4
+    "Gorgeous Colorful Fabric": 15
+    "Animal Replica": 4
+    "Energy of Sky": 15
+    "Earth Element": 220
+    "Sea Element": 250
+  workload: 16200000
+  skill: "Armor Fist"
+  skill_lvl: 82
+
+"Phoenix's Fist":
+  ingredients:
+    "Imitation Oriharukon": 2
+    "Gorgeous Colorful Fabric": 30
+    "Refined Mithril Ingot": 2
+    "Phoenix's Feather": 12
+    "Sea Element": 300
+    "Flame Element": 350
+  workload: 36000000
+  skill: "Armor Fist"
+  skill_lvl: 95
+
+"Dragon God's Fist":
+  ingredients:
+    "Enriched Adamantium Ingot": 2
+    "Gorgeous Colorful Fabric": 60
+    "Titanium Ingot": 150
+    "Dragon God's Ire": 150
+    "Dragon God's Wishstone": 15
+    "Flame Element": 500
+    "Weapon & Armor Mold": 50
+  workload: 54000000
+  skill: "Armor Fist"
+  skill_lvl: 109
+
+"Evil Fist":
+  ingredients:
+    "Evil Imprint": 40
+    "Vindictive Soul Imprint": 400
+    "Alchemist's Stone": 3
+    "Imitation Oriharukon": 6
+    "Monster Egg": 600
+    "Evil Soul Extract": 600
+    "Storm Element": 500
+  workload: 108000000
+  skill: "Armor Fist"
+  skill_lvl: 119
+
+"Pegasus' Fist":
+  ingredients:
+    "Oriharukon": 50
+    "Pegasus Tear": 30
+    "Fused Devil Stone": 2
+    "Enhanced Titanium Ingot": 2
+    "Sorcerer's Mask": 150
+    "Root of Life": 500
+    "Storm Element": 600
+  workload: 162000000
+  skill: "Armor Fist"
+  skill_lvl: 123
+
+"Dark Pegasus' Fist":
+  ingredients:
+    "Oriharukon": 70
+    "Corrupted Unicorn Tear": 30
+    "Fused Devil Stone": 3
+    "Enhanced Titanium Ingot": 3
+    "Anarchy Stone": 1000
+    "Storm Element": 800
+    "Earth Essence": 120
+  workload: 261000000
+  skill: "Armor Fist"
+  skill_lvl: 127
+
+"Judgment Fist":
+  ingredients:
+    "Light of Judgment": 2
+    "Oriharukon": 80
+    "Corrupted Unicorn Tear": 70
+    "Anarchy Stone": 2000
+    "Storm Element": 1500
+    "Earth Essence": 140
+  workload: 360000000
+  skill: "Armor Fist"
+  skill_lvl: 130
+
+"Twilight Fist":
+  ingredients:
+    "Sunset Afterglow": 2
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 20
+    "Shard of Beginning": 15
+    "Fused Devil Stone": 5
+    "Oriharukon": 100
+  workload: 550000000
+  skill: "Armor Fist"
+  skill_lvl: 133
+
+"Abyssal Fist":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 705000000
+  skill: "Armor Fist"
+  skill_lvl: 138
+
+"Sloth's Fist [Normal]":
+  ingredients:
+    "Earth Essence": 9999
+    "Light of Judgment": 9999
+    "Sunset Afterglow": 9999
+    "Shard of Beginning": 9999
+    "Darkness Origin": 9999
+    "Enriched Adamantium Ingot": 9999
+    "Frozen Cold Crystal": 1000
+    "Multi-Hued Soul Jewel": 9999
+    "Brilliant Soul Stone": 9999
+  workload: 50000000000
+  skill: "Armor Fist"
+  skill_lvl: 180
+
 "Wooden Arrow":
   ingredients:
     "Maple": 4
@@ -1406,8 +1760,59 @@
   skill: "Axe"
   skill_lvl: 130
 
-"Artisan Crafting Secrets":
-  market_price: 0
+"Merciless Grudge of Grendel":
+  ingredients:
+    "Grendel's Ghost": 999
+    "Black Wood": 13
+    "Oriharukon": 150
+    "Anarchy Stone": 4000
+    "Corrupted Unicorn Tear": 200
+    "Enhanced Titanium Ingot": 50
+    "Grendel's Diary": 3
+  workload: 550000000
+  skill: "Axe"
+  skill_lvl: 131
+
+"Twilight Axe":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 150
+    "Atlantis Gold Coin": 15
+    "Shard of Beginning": 10
+    "Fused Devil Stone": 3
+    "Oriharukon": 50
+  workload: 550000000
+  skill: "Axe"
+  skill_lvl: 133
+
+"Abyssal Axe":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 705000000
+  skill: "Axe"
+  skill_lvl: 138
+
+"Sloth's Axe [Normal]":
+  ingredients:
+    "Earth Essence": 9999
+    "Light of Judgment": 9999
+    "Sunset Afterglow": 9999
+    "Shard of Beginning": 9999
+    "Darkness Origin": 9999
+    "Enriched Adamantium Ingot": 9999
+    "Frozen Cold Crystal": 1000
+    "Multi-Hued Soul Jewel": 9999
+    "Brilliant Soul Stone": 9999
+  workload: 50000000000
+  skill: "Axe"
+  skill_lvl: 180
 
 "Book of Anguish":
   fixed_price: 20000
@@ -6686,12 +7091,6 @@
   skill: "Book"
   skill_lvl: 61
 
-"Book of Craftsmanship":
-  market_price: 0
-
-"Normal Crafting Secrets":
-  market_price: 0
-
 "Book of Knowledge":
   fixed_price: 5000
 
@@ -8627,6 +9026,2205 @@
   skill: "Book"
   skill_lvl: 80
 
+"Book: Evergreen Grace [I]":
+  market_price: 0
+
+"Book: Evergreen Grace [II]":
+  ingredients:
+    "Book: Evergreen Grace [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Evergreen Grace [III]":
+  ingredients:
+    "Book: Evergreen Grace [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 61
+
+"Book: Evergreen Grace [IV]":
+  ingredients:
+    "Book: Evergreen Grace [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 69
+
+"Book: Shackles of the Thicket [I]":
+  market_price: 0
+
+"Book: Shackles of the Thicket [II]":
+  ingredients:
+    "Book: Shackles of the Thicket [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Shackles of the Thicket [III]":
+  ingredients:
+    "Book: Shackles of the Thicket [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 61
+
+"Book: Shackles of the Thicket [IV]":
+  ingredients:
+    "Book: Shackles of the Thicket [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 69
+
+"Book: Wildwood Regeneration [I]":
+  market_price: 0
+
+"Book: Wildwood Regeneration [II]":
+  ingredients:
+    "Book: Wildwood Regeneration [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Wildwood Regeneration [III]":
+  ingredients:
+    "Book: Wildwood Regeneration [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 61
+
+"Book: Wildwood Regeneration [IV]":
+  ingredients:
+    "Book: Wildwood Regeneration [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 69
+
+"Book: Counterattack [I]":
+  market_price: 0
+
+"Book: Counterattack [II]":
+  ingredients:
+    "Book: Counterattack [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Counterattack [III]":
+  ingredients:
+    "Book: Counterattack [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Counterattack [IV]":
+  ingredients:
+    "Book: Counterattack [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Echo [I]":
+  market_price: 0
+
+"Book: Echo [II]":
+  ingredients:
+    "Book: Echo [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Echo [III]":
+  ingredients:
+    "Book: Echo [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Echo [IV]":
+  ingredients:
+    "Book: Echo [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Vessel of Wrath [I]":
+  market_price: 0
+
+"Book: Vessel of Wrath [II]":
+  ingredients:
+    "Book: Vessel of Wrath [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Vessel of Wrath [III]":
+  ingredients:
+    "Book: Vessel of Wrath [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Vessel of Wrath [IV]":
+  ingredients:
+    "Book: Vessel of Wrath [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Aggravated Assault [I]":
+  market_price: 0
+
+"Book: Aggravated Assault [II]":
+  ingredients:
+    "Book: Aggravated Assault [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Aggravated Assault [III]":
+  ingredients:
+    "Book: Aggravated Assault [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Aggravated Assault [IV]":
+  ingredients:
+    "Book: Aggravated Assault [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Burning Faith [I]":
+  market_price: 0
+
+"Book: Burning Faith [II]":
+  ingredients:
+    "Book: Burning Faith [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Burning Faith [III]":
+  ingredients:
+    "Book: Burning Faith [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Burning Faith [IV]":
+  ingredients:
+    "Book: Burning Faith [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Retaliation [I]":
+  market_price: 0
+
+"Book: Retaliation [II]":
+  ingredients:
+    "Book: Retaliation [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Retaliation [III]":
+  ingredients:
+    "Book: Retaliation [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Retaliation [IV]":
+  ingredients:
+    "Book: Retaliation [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Know Thy Enemy [I]":
+  market_price: 0
+
+"Book: Know Thy Enemy [II]":
+  ingredients:
+    "Book: Know Thy Enemy [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Know Thy Enemy [III]":
+  ingredients:
+    "Book: Know Thy Enemy [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Know Thy Enemy [IV]":
+  ingredients:
+    "Book: Know Thy Enemy [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Savage Arrow [I]":
+  market_price: 0
+
+"Book: Savage Arrow [II]":
+  ingredients:
+    "Book: Savage Arrow [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Savage Arrow [III]":
+  ingredients:
+    "Book: Savage Arrow [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Savage Arrow [IV]":
+  ingredients:
+    "Book: Savage Arrow [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Deadeye [I]":
+  market_price: 0
+
+"Book: Deadeye [II]":
+  ingredients:
+    "Book: Deadeye [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Deadeye [III]":
+  ingredients:
+    "Book: Deadeye [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Deadeye [IV]":
+  ingredients:
+    "Book: Deadeye [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Aftershock [I]":
+  market_price: 0
+
+"Book: Aftershock [II]":
+  ingredients:
+    "Book: Aftershock [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Aftershock [III]":
+  ingredients:
+    "Book: Aftershock [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Aftershock [IV]":
+  ingredients:
+    "Book: Aftershock [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Blitzkrieg [I]":
+  market_price: 0
+
+"Book: Blitzkrieg [II]":
+  ingredients:
+    "Book: Blitzkrieg [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Blitzkrieg [III]":
+  ingredients:
+    "Book: Blitzkrieg [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Blitzkrieg [IV]":
+  ingredients:
+    "Book: Blitzkrieg [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Elegy of Reprisal [I]":
+  market_price: 0
+
+"Book: Elegy of Reprisal [II]":
+  ingredients:
+    "Book: Elegy of Reprisal [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Elegy of Reprisal [III]":
+  ingredients:
+    "Book: Elegy of Reprisal [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Elegy of Reprisal [IV]":
+  ingredients:
+    "Book: Elegy of Reprisal [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Up Tempo [I]":
+  market_price: 0
+
+"Book: Up Tempo [II]":
+  ingredients:
+    "Book: Up Tempo [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Up Tempo [III]":
+  ingredients:
+    "Book: Up Tempo [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Up Tempo [IV]":
+  ingredients:
+    "Book: Up Tempo [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Meditation [I]":
+  market_price: 0
+
+"Book: Meditation [II]":
+  ingredients:
+    "Book: Meditation [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Meditation [III]":
+  ingredients:
+    "Book: Meditation [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Meditation [IV]":
+  ingredients:
+    "Book: Meditation [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Quantum Leap [I]":
+  market_price: 0
+
+"Book: Quantum Leap [II]":
+  ingredients:
+    "Book: Quantum Leap [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Quantum Leap [III]":
+  ingredients:
+    "Book: Quantum Leap [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Quantum Leap [IV]":
+  ingredients:
+    "Book: Quantum Leap [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Mantle of Death [I]":
+  market_price: 0
+
+"Book: Mantle of Death [II]":
+  ingredients:
+    "Book: Mantle of Death [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Mantle of Death [III]":
+  ingredients:
+    "Book: Mantle of Death [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 61
+
+"Book: Mantle of Death [IV]":
+  ingredients:
+    "Book: Mantle of Death [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 69
+
+"Book: Demon's Sickle [I]":
+  market_price: 0
+
+"Book: Demon's Sickle [II]":
+  ingredients:
+    "Book: Demon's Sickle [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Demon's Sickle [III]":
+  ingredients:
+    "Book: Demon's Sickle [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 61
+
+"Book: Demon's Sickle [IV]":
+  ingredients:
+    "Book: Demon's Sickle [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 69
+
+"Book: Silence of the Grave [I]":
+  market_price: 0
+
+"Book: Silence of the Grave [II]":
+  ingredients:
+    "Book: Silence of the Grave [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Silence of the Grave [III]":
+  ingredients:
+    "Book: Silence of the Grave [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 61
+
+"Book: Silence of the Grave [IV]":
+  ingredients:
+    "Book: Silence of the Grave [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 69
+
+"Book: Sage Sword Excalibur [I]":
+  market_price: 0
+
+"Book: Sage Sword Excalibur [II]":
+  ingredients:
+    "Book: Sage Sword Excalibur [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Sage Sword Excalibur [III]":
+  ingredients:
+    "Book: Sage Sword Excalibur [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 61
+
+"Book: Sage Sword Excalibur [IV]":
+  ingredients:
+    "Book: Sage Sword Excalibur [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 69
+
+"Book: King's Command [I]":
+  market_price: 0
+
+"Book: King's Command [II]":
+  ingredients:
+    "Book: King's Command [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: King's Command [III]":
+  ingredients:
+    "Book: King's Command [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 61
+
+"Book: King's Command [IV]":
+  ingredients:
+    "Book: King's Command [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 69
+
+"Book: Guardian Sheath [I]":
+  market_price: 0
+
+"Book: Guardian Sheath [II]":
+  ingredients:
+    "Book: Guardian Sheath [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Guardian Sheath [III]":
+  ingredients:
+    "Book: Guardian Sheath [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 61
+
+"Book: Guardian Sheath [IV]":
+  ingredients:
+    "Book: Guardian Sheath [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 69
+
+"Book: Sage King's Dignity [I]":
+  market_price: 0
+
+"Book: Sage King's Dignity [II]":
+  ingredients:
+    "Book: Sage King's Dignity [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Sage King's Dignity [III]":
+  ingredients:
+    "Book: Sage King's Dignity [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 61
+
+"Book: Sage King's Dignity [IV]":
+  ingredients:
+    "Book: Sage King's Dignity [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 69
+
+"Book: Dark Legacy [I]":
+  market_price: 0
+
+"Book: Dark Legacy [II]":
+  ingredients:
+    "Book: Dark Legacy [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 60
+
+"Book: Dark Legacy [III]":
+  ingredients:
+    "Book: Dark Legacy [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 5200000
+  skill: "Book"
+  skill_lvl: 61
+
+"Book: Dark Legacy [IV]":
+  ingredients:
+    "Book: Dark Legacy [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 13500000
+  skill: "Book"
+  skill_lvl: 69
+
+"Book: Absolute Resolve [I]":
+  market_price: 0
+
+"Book: Absolute Resolve [II]":
+  ingredients:
+    "Book: Absolute Resolve [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Absolute Resolve [III]":
+  ingredients:
+    "Book: Absolute Resolve [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Absolute Resolve [IV]":
+  ingredients:
+    "Book: Absolute Resolve [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Revenge [I]":
+  market_price: 0
+
+"Book: Revenge [II]":
+  ingredients:
+    "Book: Revenge [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Revenge [III]":
+  ingredients:
+    "Book: Revenge [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Revenge [IV]":
+  ingredients:
+    "Book: Revenge [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Soul Fortitude [I]":
+  market_price: 0
+
+"Book: Soul Fortitude [II]":
+  ingredients:
+    "Book: Soul Fortitude [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Soul Fortitude [III]":
+  ingredients:
+    "Book: Soul Fortitude [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Soul Fortitude [IV]":
+  ingredients:
+    "Book: Soul Fortitude [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Crushing Blow [I]":
+  market_price: 0
+
+"Book: Crushing Blow [II]":
+  ingredients:
+    "Book: Crushing Blow [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Crushing Blow [III]":
+  ingredients:
+    "Book: Crushing Blow [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Crushing Blow [IV]":
+  ingredients:
+    "Book: Crushing Blow [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Queen's Command [Lv.1]":
+  market_price: 0
+
+"Book: Queen's Command [Lv.2]":
+  ingredients:
+    "Book: Queen's Command [Lv.1]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Queen's Command [Lv.3]":
+  ingredients:
+    "Book: Queen's Command [Lv.2]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Queen's Command [Lv.4]":
+  ingredients:
+    "Book: Queen's Command [Lv.3]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Arrow of Curse [Lv.1]":
+  market_price: 0
+
+"Book: Arrow of Curse [Lv.2]":
+  ingredients:
+    "Book: Arrow of Curse [Lv.1]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Arrow of Curse [Lv.3]":
+  ingredients:
+    "Book: Arrow of Curse [Lv.2]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Arrow of Curse [Lv.4]":
+  ingredients:
+    "Book: Arrow of Curse [Lv.3]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Will of the Queen [Lv.1]":
+  market_price: 0
+
+"Book: Will of the Queen [Lv.2]":
+  ingredients:
+    "Book: Will of the Queen [Lv.1]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Will of the Queen [Lv.3]":
+  ingredients:
+    "Book: Will of the Queen [Lv.2]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Will of the Queen [Lv.4]":
+  ingredients:
+    "Book: Will of the Queen [Lv.3]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Spell of Amazoness [Lv.1]":
+  market_price: 0
+
+"Book: Spell of Amazoness [Lv.2]":
+  ingredients:
+    "Book: Spell of Amazoness [Lv.1]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Spell of Amazoness [Lv.3]":
+  ingredients:
+    "Book: Spell of Amazoness [Lv.2]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Spell of Amazoness [Lv.4]":
+  ingredients:
+    "Book: Spell of Amazoness [Lv.3]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Camelot's Grimoire [I]":
+  market_price: 0
+
+"Book: Camelot's Grimoire [II]":
+  ingredients:
+    "Book: Camelot's Grimoire [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Camelot's Grimoire [III]":
+  ingredients:
+    "Book: Camelot's Grimoire [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Camelot's Grimoire [IV]":
+  ingredients:
+    "Book: Camelot's Grimoire [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Gwendolen's Touch [I]":
+  market_price: 0
+
+"Book: Gwendolen's Touch [II]":
+  ingredients:
+    "Book: Gwendolen's Touch [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Gwendolen's Touch [III]":
+  ingredients:
+    "Book: Gwendolen's Touch [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Gwendolen's Touch [IV]":
+  ingredients:
+    "Book: Gwendolen's Touch [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Mystic Rune [I]":
+  market_price: 0
+
+"Book: Mystic Rune [II]":
+  ingredients:
+    "Book: Mystic Rune [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Mystic Rune [III]":
+  ingredients:
+    "Book: Mystic Rune [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Mystic Rune [IV]":
+  ingredients:
+    "Book: Mystic Rune [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Omniscient Sanctuary [I]":
+  market_price: 0
+
+"Book: Omniscient Sanctuary [II]":
+  ingredients:
+    "Book: Omniscient Sanctuary [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Omniscient Sanctuary [III]":
+  ingredients:
+    "Book: Omniscient Sanctuary [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Omniscient Sanctuary [IV]":
+  ingredients:
+    "Book: Omniscient Sanctuary [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Magic Book: Dark Destiny [Lv.1]":
+  market_price: 0
+
+"Magic Book: Dark Destiny [Lv.2]":
+  ingredients:
+    "Magic Book: Dark Destiny [Lv.1]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Magic Book: Dark Destiny [Lv.3]":
+  ingredients:
+    "Magic Book: Dark Destiny [Lv.2]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Magic Book: Dark Destiny [Lv.4]":
+  ingredients:
+    "Magic Book: Dark Destiny [Lv.3]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Chorus [I]":
+  market_price: 0
+
+"Book: Chorus [II]":
+  ingredients:
+    "Book: Chorus [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Chorus [III]":
+  ingredients:
+    "Book: Chorus [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Chorus [IV]":
+  ingredients:
+    "Book: Chorus [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Encore! Encore! [I]":
+  market_price: 0
+
+"Book: Encore! Encore! [II]":
+  ingredients:
+    "Book: Encore! Encore! [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Encore! Encore! [III]":
+  ingredients:
+    "Book: Encore! Encore! [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Encore! Encore! [IV]":
+  ingredients:
+    "Book: Encore! Encore! [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Anthem of Peace [I]":
+  market_price: 0
+
+"Book: Anthem of Peace [II]":
+  ingredients:
+    "Book: Anthem of Peace [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Anthem of Peace [III]":
+  ingredients:
+    "Book: Anthem of Peace [II]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+    "Book of Anguish": 50
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Anthem of Peace [IV]":
+  ingredients:
+    "Book: Anthem of Peace [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+    "Book of Anguish": 100
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Amp Up [I]":
+  market_price: 0
+
+"Book: Amp Up [II]":
+  ingredients:
+    "Book: Amp Up [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Amp Up [III]":
+  ingredients:
+    "Book: Amp Up [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Amp Up [IV]":
+  ingredients:
+    "Book: Amp Up [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Apprentice Craftsman's Manual":
+  ingredients:
+    "Papyrus": 1
+    "Fusain": 1
+    "Small Ink Bottle": 1
+  workload: 100
+  skill: "Book"
+  skill_lvl: 1
+
+"Standard Craftsman's Manual":
+  ingredients:
+    "Apprentice Craftsman's Manual": 10
+  workload: 1000
+  skill: "Book"
+  skill_lvl: 10
+
+"Master Craftsman's Manual":
+  ingredients:
+    "Standard Craftsman's Manual": 10
+  workload: 10000
+  skill: "Book"
+  skill_lvl: 30
+
+"Artisan's Book of Craftsmanship":
+  ingredients:
+    "Master Craftsman's Manual": 10
+  workload: 100000
+  skill: "Book"
+  skill_lvl: 50
+
+"Master Craftsman's Book of Techniques":
+  ingredients:
+    "Artisan's Book of Craftsmanship": 10
+  workload: 1000000
+  skill: "Book"
+  skill_lvl: 70
+
+"Master Craftsman's Book of Secrets":
+  ingredients:
+    "Master Craftsman's Book of Techniques": 5
+  workload: 5000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Master Craftsman's Book of Knowledge":
+  ingredients:
+    "Master Craftsman's Book of Secrets": 5
+  workload: 10000000
+  skill: "Book"
+  skill_lvl: 110
+
+"Book: Blessing of Music [I]":
+  market_price: 0
+
+"Book: Blessing of Music [II]":
+  ingredients:
+    "Book: Blessing of Music [I]": 20
+    "Wiseman's Golden Pen": 4
+    "Wiseman's Golden Parchment": 4
+    "Wiseman's Golden Ink Bottle": 15
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Blessing of Music [III]":
+  ingredients:
+    "Book: Blessing of Music [II]": 20
+    "Wiseman's Golden Pen": 7
+    "Wiseman's Golden Parchment": 7
+    "Wiseman's Golden Ink Bottle": 20
+    "Colorful Thread": 150
+    "Colorful Fabric": 30
+    "Crystal of Anguish": 5
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Blessing of Music [IV]":
+  ingredients:
+    "Book: Blessing of Music [III]": 20
+    "Multi-Hued Pen": 4
+    "Multi-Hued Parchment": 4
+    "Multi-Hued Ink Bottle": 15
+    "Colorful Thread": 150
+    "Gorgeous Colorful Fabric": 50
+    "Crystal of Anguish": 50
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Unyielding [I]":
+  market_price: 0
+
+"Book: Unyielding [II]":
+  ingredients:
+    "Book: Unyielding [I]": 10
+    "Heavenly Crystal": 80
+    "Darkness Origin": 1
+    "Frozen Cold Crystal": 1
+    "Shard of Beginning": 1
+  batch_size: 10
+  workload: 450000000
+  skill: "Book"
+  skill_lvl: 110
+
+"Book: Unyielding [III]":
+  ingredients:
+    "Book: Unyielding [II]": 20
+    "Heavenly Crystal": 80
+    "Darkness Origin": 2
+    "Frozen Cold Crystal": 2
+    "Shard of Beginning": 2
+  batch_size: 10
+  workload: 900000000
+  skill: "Book"
+  skill_lvl: 115
+
+"Book: Unyielding [IV]":
+  ingredients:
+    "Book: Unyielding [III]": 30
+    "Heavenly Crystal": 150
+    "Darkness Origin": 3
+    "Frozen Cold Crystal": 3
+    "Shard of Beginning": 3
+  batch_size: 10
+  workload: 3000000000
+  skill: "Book"
+  skill_lvl: 120
+
+"Book: Shadow Strike [I]":
+  market_price: 0
+
+"Book: Shadow Strike [II]":
+  ingredients:
+    "Book: Shadow Strike [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Shadow Strike [III]":
+  ingredients:
+    "Book: Shadow Strike [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Shadow Strike [IV]":
+  ingredients:
+    "Book: Shadow Strike [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Blood Oath [I]":
+  market_price: 0
+
+"Book: Blood Oath [II]":
+  ingredients:
+    "Book: Blood Oath [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Blood Oath [III]":
+  ingredients:
+    "Book: Blood Oath [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Blood Oath [IV]":
+  ingredients:
+    "Book: Blood Oath [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Shadow's Mark [I]":
+  market_price: 0
+
+"Book: Shadow's Mark [II]":
+  ingredients:
+    "Book: Shadow's Mark [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Shadow's Mark [III]":
+  ingredients:
+    "Book: Shadow's Mark [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Shadow's Mark [IV]":
+  ingredients:
+    "Book: Shadow's Mark [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Avenger [I]":
+  market_price: 0
+
+"Book: Avenger [II]":
+  ingredients:
+    "Book: Avenger [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: Avenger [III]":
+  ingredients:
+    "Book: Avenger [II]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Book: Avenger [IV]":
+  ingredients:
+    "Book: Avenger [III]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Book: Beast Claw [I]":
+  market_price: 0
+
+"Book: Beast Claw [II]":
+  ingredients:
+    "Book: Beast Claw [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 90000000
+  skill: "Book"
+  skill_lvl: 75
+
+"Book: Beast Claw [III]":
+  ingredients:
+    "Book: Beast Claw [II]": 20
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 120000000
+  skill: "Book"
+  skill_lvl: 80
+
+"Book: Beast Claw [IV]":
+  ingredients:
+    "Book: Beast Claw [III]": 20
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Book: All Out [I]":
+  market_price: 0
+
+"Book: All Out [II]":
+  ingredients:
+    "Book: All Out [I]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 90000000
+  skill: "Book"
+  skill_lvl: 75
+
+"Book: All Out [III]":
+  ingredients:
+    "Book: All Out [II]": 20
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 120000000
+  skill: "Book"
+  skill_lvl: 80
+
+"Book: All Out [IV]":
+  ingredients:
+    "Book: All Out [III]": 20
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
 "Spirit Bow":
   fixed_price: 900
   ingredients:
@@ -8933,8 +11531,64 @@
   skill: "Bow"
   skill_lvl: 130
 
+"Twilight Bow":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 150
+    "Atlantis Gold Coin": 15
+    "Shard of Beginning": 10
+    "Fused Devil Stone": 3
+    "Oriharukon": 50
+  workload: 550000000
+  skill: "Bow"
+  skill_lvl: 133
+
+"Abyssal Bow":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 705000000
+  skill: "Bow"
+  skill_lvl: 138
+
+"Sloth's Bow [Normal]":
+  ingredients:
+    "Earth Essence": 9999
+    "Light of Judgment": 9999
+    "Sunset Afterglow": 9999
+    "Shard of Beginning": 9999
+    "Darkness Origin": 9999
+    "Enriched Adamantium Ingot": 9999
+    "Frozen Cold Crystal": 1000
+    "Multi-Hued Soul Jewel": 9999
+    "Brilliant Soul Stone": 9999
+  workload: 50000000000
+  skill: "Bow"
+  skill_lvl: 180
+
 "Ancient Book Box of Monks":
   market_price: 0
+
+"Merlin's Bracelet":
+  ingredients:
+    "Mystic Gem": 1000
+    "Platinum Ingot": 9000
+    "Ruby": 9000
+    "Enriched Adamantium Ingot": 9000
+    "Refined Mithril Ingot": 9000
+    "Shimmering Sapphire": 300
+    "Large Diamond": 300
+    "Atlantis Platinum Coin": 1200
+    "Seer's Stone": 1000
+  workload: 5000000000
+  skill: "Accessory"
+  skill_lvl: 135
 
 "Small Tree":
   ingredients:
@@ -10115,6 +12769,47 @@
   skill: "Cannon"
   skill_lvl: 130
 
+"Twilight Cannon":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 150
+    "Atlantis Gold Coin": 15
+    "Shard of Beginning": 10
+    "Fused Devil Stone": 3
+    "Oriharukon": 50
+  workload: 550000000
+  skill: "Cannon"
+  skill_lvl: 133
+
+"Abyssal Cannon":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 705000000
+  skill: "Cannon"
+  skill_lvl: 138
+
+"Sloth's Cannon [Normal]":
+  ingredients:
+    "Earth Essence": 9999
+    "Light of Judgment": 9999
+    "Sunset Afterglow": 9999
+    "Shard of Beginning": 9999
+    "Darkness Origin": 9999
+    "Enriched Adamantium Ingot": 9999
+    "Frozen Cold Crystal": 1000
+    "Multi-Hued Soul Jewel": 9999
+    "Brilliant Soul Stone": 9999
+  workload: 50000000000
+  skill: "Cannon"
+  skill_lvl: 180
+
 "Steel Cannonball":
   ingredients:
     "Iron Sand": 7
@@ -10633,6 +13328,19 @@
   skill: "Crystal"
   skill_lvl: 50
 
+"Soul Jewel of the Lake":
+  ingredients:
+    "Dragon Soul Jewel": 10
+    "Giant Soul Jewel": 10
+    "Phoenix Soul Jewel": 10
+    "Redemption Soul Jewel": 10
+    "Mysterious Vial: Wisdom": 50
+    "Barrier Fragment of the Lake": 50
+  batch_size: 5
+  workload: 30000000
+  skill: "Crystal"
+  skill_lvl: 55
+
 "Earth Element Shard":
   fixed_price: 100
 
@@ -10942,14 +13650,6 @@
   workload: 71600
   skill: "Fishing"
   skill_lvl: 46
-
-"Shining Bait":
-  ingredients:
-    "Atlas Ore": 1
-  batch_size: 3
-  workload: 100
-  skill: "Fishing"
-  skill_lvl: 1
 
 "Mushroom":
   fixed_price: 200
@@ -11279,6 +13979,14 @@
   workload: 270000
   skill: "Food"
   skill_lvl: 88
+
+"[Common] Christmas Feast":
+  ingredients:
+    "Raw Meat": 15
+    "Holiday Secret Sauce": 15
+  workload: 5000000
+  skill: "Food"
+  skill_lvl: 1
 
 "Spirit Gloves":
   fixed_price: 300
@@ -12159,6 +14867,174 @@
   skill: "Gauntlet"
   skill_lvl: 125
 
+"Twilight Gauntlets":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 120
+    "Atlantis Gold Coin": 10
+    "Shard of Beginning": 5
+    "Fused Devil Stone": 1
+    "Oriharukon": 30
+  workload: 250000000
+  skill: "Gauntlet"
+  skill_lvl: 133
+
+"Twilight Chain Gauntlets":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 120
+    "Atlantis Gold Coin": 10
+    "Shard of Beginning": 5
+    "Fused Devil Stone": 1
+    "Oriharukon": 30
+  workload: 250000000
+  skill: "Gauntlet"
+  skill_lvl: 132
+
+"Twilight Gloves":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 120
+    "Atlantis Gold Coin": 10
+    "Shard of Beginning": 5
+    "Fused Devil Stone": 1
+    "Oriharukon": 30
+  workload: 250000000
+  skill: "Gauntlet"
+  skill_lvl: 131
+
+"Riederan's Gauntlets":
+  ingredients:
+    "Riederan's Soul Shard": 5
+    "Voice of Terror": 100
+    "Oriharukon": 150
+    "Atlantis Gold Coin": 50
+    "Sunset Afterglow": 3
+    "Earth Essence": 300
+  workload: 900000000
+  skill: "Gauntlet"
+  skill_lvl: 135
+
+"Riederan's Chain Gauntlets":
+  ingredients:
+    "Riederan's Soul Shard": 5
+    "Voice of Terror": 100
+    "Oriharukon": 150
+    "Atlantis Gold Coin": 50
+    "Sunset Afterglow": 3
+    "Earth Essence": 300
+  workload: 900000000
+  skill: "Gauntlet"
+  skill_lvl: 135
+
+"Riederan's Gloves":
+  ingredients:
+    "Riederan's Soul Shard": 5
+    "Voice of Terror": 100
+    "Oriharukon": 150
+    "Atlantis Gold Coin": 50
+    "Sunset Afterglow": 3
+    "Earth Essence": 300
+  workload: 900000000
+  skill: "Gauntlet"
+  skill_lvl: 135
+
+"Abyssal Gauntlets":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 330000000
+  skill: "Gauntlet"
+  skill_lvl: 138
+
+"Abyssal Chain Gauntlets":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 330000000
+  skill: "Gauntlet"
+  skill_lvl: 138
+
+"Abyssal Gloves":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 330000000
+  skill: "Gauntlet"
+  skill_lvl: 138
+
+"Apocalyptic Gauntlets":
+  ingredients:
+    "Riederan's Soul Stone of the Dead": 1
+    "Earth Essence": 400
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 50
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Shard of Beginning": 8
+    "Atlantis Platinum Coin": 50
+    "Hydra's Poisonous Gland": 40
+    "Heavenly Crystal": 200
+    "Van Gogh's Soul Stone": 15
+  workload: 660000000
+  skill: "Gauntlet"
+  skill_lvl: 160
+
+"Apocalyptic Chain Gauntlets":
+  ingredients:
+    "Riederan's Soul Stone of the Dead": 1
+    "Earth Essence": 400
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 50
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Shard of Beginning": 8
+    "Atlantis Platinum Coin": 50
+    "Hydra's Poisonous Gland": 40
+    "Heavenly Crystal": 200
+    "Van Gogh's Soul Stone": 15
+  workload: 660000000
+  skill: "Gauntlet"
+  skill_lvl: 160
+
+"Apocalyptic Gloves":
+  ingredients:
+    "Riederan's Soul Stone of the Dead": 1
+    "Earth Essence": 400
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 50
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Shard of Beginning": 8
+    "Atlantis Platinum Coin": 50
+    "Hydra's Poisonous Gland": 40
+    "Heavenly Crystal": 200
+    "Van Gogh's Soul Stone": 15
+  workload: 660000000
+  skill: "Gauntlet"
+  skill_lvl: 160
+
 "Guardian Stone [I]":
   fixed_price: 1500
   ingredients:
@@ -12201,6 +15077,18 @@
   skill: "Mana Stone"
   skill_lvl: 63
 
+"Guardian Stone [V]":
+  ingredients:
+    "Guardian Stone [IV]": 500
+    "Blue Sapphire": 100
+    "Shimmering Sapphire": 100
+    "Crystal of Darkness": 1
+    "Brilliant Soul Stone": 10
+  batch_size: 500
+  workload: 7000000
+  skill: "Mana Stone"
+  skill_lvl: 70
+
 "Guardian Stone of Recovery":
   ingredients:
     "Guardian Stone [III]": 300
@@ -12209,6 +15097,18 @@
   workload: 1000000
   skill: "Mana Stone"
   skill_lvl: 45
+
+"Brilliant Guardian Stone of Restoration":
+  ingredients:
+    "Guardian Stone [III]": 500
+    "Guardian Stone of Recovery": 10
+    "Crystal of Temptation": 1
+    "Crystal of Darkness": 1
+    "Brilliant Soul Stone": 10
+  batch_size: 300
+  workload: 2000000
+  skill: "Mana Stone"
+  skill_lvl: 55
 
 "Guardian Stone of Bravery":
   ingredients:
@@ -12219,6 +15119,18 @@
   skill: "Mana Stone"
   skill_lvl: 45
 
+"Brilliant Guardian Stone of Valor":
+  ingredients:
+    "Guardian Stone [III]": 500
+    "Guardian Stone of Bravery": 10
+    "Crystal of Temptation": 1
+    "Crystal of Darkness": 1
+    "Brilliant Soul Stone": 10
+  batch_size: 300
+  workload: 2000000
+  skill: "Mana Stone"
+  skill_lvl: 55
+
 "Guardian Stone of Celerity":
   ingredients:
     "Guardian Stone [III]": 300
@@ -12227,6 +15139,18 @@
   workload: 1000000
   skill: "Mana Stone"
   skill_lvl: 45
+
+"Brilliant Guardian Stone of Swiftness":
+  ingredients:
+    "Guardian Stone [III]": 500
+    "Guardian Stone of Celerity": 10
+    "Crystal of Temptation": 1
+    "Crystal of Darkness": 1
+    "Brilliant Soul Stone": 10
+  batch_size: 300
+  workload: 2000000
+  skill: "Mana Stone"
+  skill_lvl: 55
 
 "Guardian Stone of Awakening":
   ingredients:
@@ -12237,6 +15161,18 @@
   workload: 1000000
   skill: "Mana Stone"
   skill_lvl: 45
+
+"Brilliant Guardian Stone of Awakening":
+  ingredients:
+    "Guardian Stone [III]": 500
+    "Guardian Stone of Awakening": 10
+    "Crystal of Temptation": 1
+    "Crystal of Darkness": 1
+    "Brilliant Soul Stone": 10
+  batch_size: 300
+  workload: 2000000
+  skill: "Mana Stone"
+  skill_lvl: 55
 
 "Spirit Rifle":
   fixed_price: 900
@@ -12543,6 +15479,47 @@
   workload: 480000000
   skill: "Gun"
   skill_lvl: 130
+
+"Twilight Gun":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 150
+    "Atlantis Gold Coin": 15
+    "Shard of Beginning": 10
+    "Fused Devil Stone": 3
+    "Oriharukon": 50
+  workload: 550000000
+  skill: "Gun"
+  skill_lvl: 133
+
+"Abyssal Rifle":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 705000000
+  skill: "Gun"
+  skill_lvl: 138
+
+"Sloth's Rifle [Normal]":
+  ingredients:
+    "Earth Essence": 9999
+    "Light of Judgment": 9999
+    "Sunset Afterglow": 9999
+    "Shard of Beginning": 9999
+    "Darkness Origin": 9999
+    "Enriched Adamantium Ingot": 9999
+    "Frozen Cold Crystal": 1000
+    "Multi-Hued Soul Jewel": 9999
+    "Brilliant Soul Stone": 9999
+  workload: 50000000000
+  skill: "Gun"
+  skill_lvl: 180
 
 "Spirit Helmet":
   fixed_price: 600
@@ -13427,6 +16404,174 @@
   skill: "Helmet"
   skill_lvl: 125
 
+"Twilight Helmet":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 120
+    "Atlantis Gold Coin": 10
+    "Shard of Beginning": 5
+    "Fused Devil Stone": 1
+    "Oriharukon": 30
+  workload: 350000000
+  skill: "Helmet"
+  skill_lvl: 130
+
+"Twilight Chain Helm":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 120
+    "Atlantis Gold Coin": 10
+    "Shard of Beginning": 5
+    "Fused Devil Stone": 1
+    "Oriharukon": 30
+  workload: 350000000
+  skill: "Helmet"
+  skill_lvl: 129
+
+"Twilight Hat":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 120
+    "Atlantis Gold Coin": 10
+    "Shard of Beginning": 5
+    "Fused Devil Stone": 1
+    "Oriharukon": 30
+  workload: 350000000
+  skill: "Helmet"
+  skill_lvl: 128
+
+"Riederan's Helmet":
+  ingredients:
+    "Riederan's Soul Shard": 5
+    "Voice of Terror": 100
+    "Oriharukon": 150
+    "Atlantis Gold Coin": 50
+    "Sunset Afterglow": 3
+    "Earth Essence": 300
+  workload: 900000000
+  skill: "Helmet"
+  skill_lvl: 135
+
+"Riederan's Chain Helm":
+  ingredients:
+    "Riederan's Soul Shard": 5
+    "Voice of Terror": 100
+    "Oriharukon": 150
+    "Atlantis Gold Coin": 50
+    "Sunset Afterglow": 3
+    "Earth Essence": 300
+  workload: 900000000
+  skill: "Helmet"
+  skill_lvl: 135
+
+"Riederan's Hat":
+  ingredients:
+    "Riederan's Soul Shard": 5
+    "Voice of Terror": 100
+    "Oriharukon": 150
+    "Atlantis Gold Coin": 50
+    "Sunset Afterglow": 3
+    "Earth Essence": 300
+  workload: 900000000
+  skill: "Helmet"
+  skill_lvl: 135
+
+"Abyssal Helmet":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 460000000
+  skill: "Helmet"
+  skill_lvl: 138
+
+"Abyssal Chain Helm":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 460000000
+  skill: "Helmet"
+  skill_lvl: 138
+
+"Abyssal Hat":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 460000000
+  skill: "Helmet"
+  skill_lvl: 138
+
+"Apocalyptic Helmet":
+  ingredients:
+    "Riederan's Soul Stone of the Dead": 1
+    "Earth Essence": 400
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 50
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Shard of Beginning": 8
+    "Atlantis Platinum Coin": 50
+    "Hydra's Poisonous Gland": 40
+    "Heavenly Crystal": 200
+    "Van Gogh's Soul Stone": 15
+  workload: 920000000
+  skill: "Helmet"
+  skill_lvl: 160
+
+"Apocalyptic Chain Helm":
+  ingredients:
+    "Riederan's Soul Stone of the Dead": 1
+    "Earth Essence": 400
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 50
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Shard of Beginning": 8
+    "Atlantis Platinum Coin": 50
+    "Hydra's Poisonous Gland": 40
+    "Heavenly Crystal": 200
+    "Van Gogh's Soul Stone": 15
+  workload: 920000000
+  skill: "Helmet"
+  skill_lvl: 160
+
+"Apocalyptic Hat":
+  ingredients:
+    "Riederan's Soul Stone of the Dead": 1
+    "Earth Essence": 400
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 50
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Shard of Beginning": 8
+    "Atlantis Platinum Coin": 50
+    "Hydra's Poisonous Gland": 40
+    "Heavenly Crystal": 200
+    "Van Gogh's Soul Stone": 15
+  workload: 920000000
+  skill: "Helmet"
+  skill_lvl: 160
+
 "Spirit Instrument":
   fixed_price: 900
   ingredients:
@@ -13732,6 +16877,47 @@
   workload: 480000000
   skill: "Instrument"
   skill_lvl: 130
+
+"Twilight Instrument":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 150
+    "Atlantis Gold Coin": 15
+    "Shard of Beginning": 10
+    "Fused Devil Stone": 3
+    "Oriharukon": 50
+  workload: 550000000
+  skill: "Instrument"
+  skill_lvl: 133
+
+"Abyssal Instrument":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 705000000
+  skill: "Instrument"
+  skill_lvl: 138
+
+"Sloth's Instrument [Normal]":
+  ingredients:
+    "Earth Essence": 9999
+    "Light of Judgment": 9999
+    "Sunset Afterglow": 9999
+    "Shard of Beginning": 9999
+    "Darkness Origin": 9999
+    "Enriched Adamantium Ingot": 9999
+    "Frozen Cold Crystal": 1000
+    "Multi-Hued Soul Jewel": 9999
+    "Brilliant Soul Stone": 9999
+  workload: 50000000000
+  skill: "Instrument"
+  skill_lvl: 180
 
 "Secrets of Time: Monk":
   ingredients:
@@ -14579,6 +17765,89 @@
   skill: "License"
   skill_lvl: 48
 
+"Secrets of Time: Shaolin Sect 1":
+  ingredients:
+    "Ghost Mask": 10
+    "Mysterious Vial: Death": 1
+    "Chinese Paper": 2
+    "Brush": 1
+  workload: 1500000
+  skill: "License"
+  skill_lvl: 30
+
+"Secrets of Time: Shaolin Sect 2":
+  ingredients:
+    "Alchemist's Stone": 1
+    "Chinese Paper": 2
+    "Brush": 1
+  workload: 8000000
+  skill: "License"
+  skill_lvl: 55
+
+"Secrets of Time: Guangmo":
+  ingredients:
+    "Evil Soul Extract": 2
+    "Dragon God's Wishstone": 2
+    "Ashen Crystal": 20
+    "Ashen Jewel": 15
+    "Mysterious Vial: Valor": 1
+    "Dim Light": 30
+  workload: 10000000
+  skill: "License"
+  skill_lvl: 55
+
+"Secrets of Time: White Witch":
+  ingredients:
+    "Monster Egg": 10
+    "Redemption Soul Crystal": 3
+    "Redemption Soul Jewel": 1
+    "Mysterious Vial: Wisdom": 1
+    "Dim Light": 30
+  workload: 15000000
+  skill: "License"
+  skill_lvl: 60
+
+"Secrets of Time: Shen Hong":
+  ingredients:
+    "Phoenix Soul Crystal": 3
+    "Phoenix Soul Jewel": 1
+    "Mysterious Vial: Death": 1
+    "Anarchy Stone": 10
+    "Dragon God's Wishstone": 1
+  workload: 15000000
+  skill: "License"
+  skill_lvl: 64
+
+"Secrets of Time: Arthur":
+  ingredients:
+    "Storm Element": 10
+    "Heavenly Crystal": 10
+    "Mysterious Vial: Valor": 1
+    "Barrier Fragment of the Lake": 20
+  workload: 55000000
+  skill: "License"
+  skill_lvl: 70
+
+"Secrets of Time: Arthur Specialization":
+  ingredients:
+    "Sea Element": 10
+    "Heavenly Crystal": 10
+    "Mysterious Vial: Wisdom": 1
+    "Barrier Fragment of the Lake": 40
+  workload: 65000000
+  skill: "License"
+  skill_lvl: 72
+
+"Secrets of Time: Id":
+  ingredients:
+    "Earth Essence": 30
+    "Shimmering Opal": 10
+    "Anarchy Stone": 100
+    "Root of Life": 50
+  workload: 55000000
+  skill: "License"
+  skill_lvl: 70
+
 "Machine: Search Robot VC1":
   ingredients:
     "Coral": 20
@@ -14651,7 +17920,7 @@
     "Small Marionette": 1
     "Mysterious Vial: Wisdom": 1
     "Earth Element Shard": 300
-    "Normal Crafting Secrets": 100
+    "Standard Craftsman's Manual": 100
     "Polish": 10
     "Pearl": 150
     "Oil": 15
@@ -14666,7 +17935,7 @@
     "Small Marionette": 1
     "Mysterious Vial: Wisdom": 2
     "Sea Element Shard": 200
-    "Artisan Crafting Secrets": 50
+    "Master Craftsman's Manual": 50
     "Polish": 10
     "Platinum Ingot": 5
     "Oil": 30
@@ -14681,7 +17950,7 @@
     "Small Marionette": 1
     "Mysterious Vial: Wisdom": 2
     "Sea Element": 50
-    "Book of Craftsmanship": 20
+    "Artisan's Book of Craftsmanship": 20
     "Polish": 10
     "Platinum Ingot": 10
     "Oil": 30
@@ -14824,106 +18093,135 @@
 
 "Enchant Stone [II]":
   fixed_price: 15000
+  ingredients:
+    "Enchant Stone [I]": 10
+  workload: 70000
+  skill: "Mana Stone"
+  skill_lvl: 10
 
 "Enchant Stone [III]":
   fixed_price: 50000
+  ingredients:
+    "Enchant Stone [II]": 10
+  workload: 150000
+  skill: "Mana Stone"
+  skill_lvl: 20
 
 "Enchant Stone [IV]":
-  market_price: 0
+  ingredients:
+    "Enchant Stone [III]": 10
+  workload: 800000
+  skill: "Mana Stone"
+  skill_lvl: 30
 
 "Enchant Stone [V]":
-  market_price: 0
+  ingredients:
+    "Enchant Stone [IV]": 10
+  workload: 1500000
+  skill: "Mana Stone"
+  skill_lvl: 45
 
 "Enchant Stone [VI]":
-  market_price: 0
+  ingredients:
+    "Enchant Stone [V]": 10
+  workload: 4500000
+  skill: "Mana Stone"
+  skill_lvl: 60
 
 "Enhance Stone [I]":
   ingredients:
-    "Enchant Stone [I]": 5
-    "Vulcan's Hammer": 1
-    "Earth Element Shard": 50
-    "Multi-Hued Crystal Shard": 1
-    "Hammer [I]": 10
-    "Broken Animal Bones": 200
-  batch_size: 20
-  workload: 11000
+    "Enchant Stone [I]": 3
+  workload: 5000
   skill: "Mana Stone"
   skill_lvl: 1
 
 "Enhance Stone [II]":
   ingredients:
-    "Enchant Stone [II]": 5
-    "Vulcan's Hammer": 10
-    "Sea Element Shard": 50
-    "Multi-Hued Crystal": 1
-    "Hammer [II]": 10
-    "Common Gunpowder": 200
-  batch_size: 10
-  workload: 75000
+    "Enhance Stone [I]": 10
+  workload: 70000
   skill: "Mana Stone"
-  skill_lvl: 16
+  skill_lvl: 10
 
 "Enhance Stone [III]":
   ingredients:
-    "Enchant Stone [III]": 5
-    "Vulcan's Hammer": 30
-    "Flame Element Shard": 30
-    "Multi-Hued Crystal": 1
-    "Hammer [III]": 10
-    "Thick Animal Bone": 200
-  batch_size: 10
-  workload: 170000
+    "Enhance Stone [II]": 10
+  workload: 150000
   skill: "Mana Stone"
-  skill_lvl: 25
+  skill_lvl: 20
 
 "Enhance Stone [IV]":
   ingredients:
-    "Enchant Stone [IV]": 5
-    "Vulcan's Hammer": 100
-    "Revival Plant": 40
-    "Hero's Blood": 2
-  batch_size: 10
-  workload: 390000
+    "Enhance Stone [III]": 10
+  workload: 800000
   skill: "Mana Stone"
-  skill_lvl: 35
+  skill_lvl: 30
 
 "Enhance Stone [V]":
   ingredients:
-    "Enchant Stone [V]": 5
-    "Vulcan's Hammer": 100
-    "Flame Element": 10
-  batch_size: 10
-  workload: 1900000
+    "Enhance Stone [IV]": 10
+  workload: 1500000
   skill: "Mana Stone"
-  skill_lvl: 53
+  skill_lvl: 45
 
 "Enhance Stone [VI]":
   ingredients:
-    "Enchant Stone [VI]": 5
-    "Vulcan's Hammer": 200
-    "Storm Element": 10
-    "Mystic Gem": 5
-  batch_size: 10
-  workload: 3000000
+    "Enhance Stone [V]": 10
+  workload: 4500000
   skill: "Mana Stone"
-  skill_lvl: 65
+  skill_lvl: 60
 
 "Purified Enhance Stone":
   ingredients:
-    "Obsidian Shard": 50
-    "Vulcan's Hammer": 500
-    "Light of Judgment": 5
-    "Flame Element": 1000
-    "Storm Element": 1000
-    "Earth Essence": 200
-    "Anarchy Stone": 1000
-  batch_size: 10
-  workload: 6000000
+    "Enhance Stone [VI]": 100
+  workload: 9000000
+  skill: "Mana Stone"
+  skill_lvl: 80
+
+"Purified Enchant Stone":
+  ingredients:
+    "Enchant Stone [VI]": 100
+  workload: 9000000
   skill: "Mana Stone"
   skill_lvl: 80
 
 "Obsidian Shard":
   market_price: 0
+
+"Thanatos' Enchantment Stone":
+  ingredients:
+    "Darkness Origin": 1
+    "Purified Enchant Stone": 100
+  batch_size: 50
+  workload: 10000000
+  skill: "Mana Stone"
+  skill_lvl: 100
+
+"Thanatos' Enhancement Stone":
+  ingredients:
+    "Darkness Origin": 1
+    "Purified Enhance Stone": 100
+  batch_size: 50
+  workload: 10000000
+  skill: "Mana Stone"
+  skill_lvl: 100
+
+"Abyssal Obsidian":
+  ingredients:
+    "Darkness Origin": 1
+    "Obsidian Shard": 100
+  batch_size: 50
+  workload: 10000000
+  skill: "Mana Stone"
+  skill_lvl: 100
+
+"Abyssal Oriharukon":
+  ingredients:
+    "Darkness Origin": 1
+    "Oriharukon": 1000
+  batch_size: 500
+  workload: 10000000
+  skill: "Mana Stone"
+  skill_lvl: 100
 
 "Ginseng":
   fixed_price: 100
@@ -15385,6 +18683,9 @@
 "Secret Vial of Potential [I]":
   market_price: 0
 
+"Water of Life":
+  market_price: 0
+
 "Mysterious Vial: Valor":
   fixed_price: 500000
   ingredients:
@@ -15429,6 +18730,52 @@
   skill: "Medicine"
   skill_lvl: 30
 
+"Strength Refund Vial":
+  ingredients:
+    "Mysterious Vial: Valor": 2
+    "Mysterious Vial: Wisdom": 2
+    "Giant Jewel": 10
+    "Brilliant Soul Stone": 5
+  batch_size: 5
+  workload: 400000
+  skill: "Medicine"
+  skill_lvl: 40
+
+"Intelligence Refund Vial":
+  ingredients:
+    "Mysterious Vial: Valor": 30
+    "Mysterious Vial: Wisdom": 30
+    "Mysterious Vial: Death": 40
+    "Redemption Jewel": 10
+    "Brilliant Soul Stone": 5
+  batch_size: 5
+  workload: 18000000
+  skill: "Medicine"
+  skill_lvl: 100
+
+"Dexterity Refund Vial":
+  ingredients:
+    "Mysterious Vial: Valor": 4
+    "Mysterious Vial: Wisdom": 5
+    "Mysterious Vial: Death": 1
+    "Dragon Jewel": 1
+    "Brilliant Soul Stone": 5
+  batch_size: 5
+  workload: 450000
+  skill: "Medicine"
+  skill_lvl: 50
+
+"Vitality Refund Vial":
+  ingredients:
+    "Mysterious Vial: Valor": 6
+    "Mysterious Vial: Wisdom": 7
+    "Phoenix Jewel": 1
+    "Brilliant Soul Stone": 5
+  batch_size: 5
+  workload: 500000
+  skill: "Medicine"
+  skill_lvl: 60
+
 "Polish":
   fixed_price: 4000
 
@@ -15463,6 +18810,26 @@
   workload: 7000000
   skill: "Medicine"
   skill_lvl: 70
+
+"Growth Vial [VII]":
+  ingredients:
+    "Growth Vial [VI]": 10
+    "Sorcerer's Mask": 10
+    "Root of Life": 30
+    "Heavenly Crystal": 2
+  batch_size: 10
+  workload: 30000000
+  skill: "Medicine"
+  skill_lvl: 100
+
+"Shining Water of Life":
+  ingredients:
+    "Water of Life": 500
+    "Atlas Ore": 1
+  batch_size: 100
+  workload: 10000
+  skill: "Medicine"
+  skill_lvl: 1
 
 "Refined Mithril Ingot":
   ingredients:
@@ -15602,6 +18969,36 @@
 "Shimmering Sapphire":
   market_price: 0
 
+"Shard of Beginning":
+  ingredients:
+    "Sea Element": 300
+    "Flame Element": 300
+    "Storm Element": 300
+  workload: 18000000
+  skill: "Tool"
+  skill_lvl: 60
+
+"Essence of Sloth":
+  ingredients:
+    "Large Diamond": 100
+    "Darkness Origin": 100
+    "Shimmering Opal": 500
+    "Oriharukon": 100
+    "Anarchy Stone": 500
+    "Storm Element": 100
+    "Frozen Cold Crystal": 10
+  workload: 100000000
+  skill: "Tool"
+  skill_lvl: 140
+
+"Shadow Energy":
+  ingredients:
+    "Abyssal Steel": 2
+    "Vengeful Catalyst": 4
+  workload: 15000000
+  skill: "Tool"
+  skill_lvl: 55
+
 "Weak Gunpowder":
   fixed_price: 100
 
@@ -15671,13 +19068,16 @@
 "Atlantis Gold Coin":
   market_price: 0
 
+"Atlantis Platinum Coin":
+  market_price: 0
+
 "Crystal of Temptation":
   market_price: 0
 
 "Crystal of Darkness":
   market_price: 0
 
-"Necklace Mold":
+"Accessory Mold":
   fixed_price: 200000
 
 "Dragon God's Ire":
@@ -15795,6 +19195,57 @@
   market_price: 0
 
 "Light of Judgment":
+  market_price: 0
+
+"Grendel's Ghost":
+  market_price: 0
+
+"Grendel's Diary":
+  market_price: 0
+
+"Sunset Afterglow":
+  market_price: 0
+
+"Dim Light":
+  market_price: 0
+
+"Riederan's Soul Shard":
+  market_price: 0
+
+"Voice of Terror":
+  market_price: 0
+
+"Historical Essence":
+  market_price: 0
+
+"Barrier Fragment of the Lake":
+  market_price: 0
+
+"Darkness Origin":
+  market_price: 0
+
+"Frozen Cold Crystal":
+  market_price: 0
+
+"Raw Meat":
+  market_price: 0
+
+"Holiday Secret Sauce":
+  market_price: 0
+
+"Riederan's Soul Stone of the Dead":
+  market_price: 0
+
+"Seer's Stone":
+  market_price: 0
+
+"Brilliant Soul Stone":
+  market_price: 0
+
+"Abyssal Steel":
+  market_price: 0
+
+"Vengeful Catalyst":
   market_price: 0
 
 "Wooden Music Sheet":
@@ -15918,7 +19369,7 @@
 
 "Shimmering Opal Necklace":
   ingredients:
-    "Necklace Mold": 150
+    "Accessory Mold": 150
     "Sea Element": 330
     "Opal": 800
   workload: 8000000
@@ -15927,7 +19378,7 @@
 
 "Sharp Opal Necklace":
   ingredients:
-    "Necklace Mold": 150
+    "Accessory Mold": 150
     "Sea Element": 330
     "Opal": 800
   workload: 8000000
@@ -15936,7 +19387,7 @@
 
 "Tough Opal Necklace":
   ingredients:
-    "Necklace Mold": 150
+    "Accessory Mold": 150
     "Sea Element": 330
     "Opal": 800
   workload: 8000000
@@ -15945,7 +19396,7 @@
 
 "Shimmering Ruby Necklace":
   ingredients:
-    "Necklace Mold": 400
+    "Accessory Mold": 400
     "Flame Element": 330
     "Van Gogh's Soul Stone": 2
     "Ruby": 400
@@ -15955,7 +19406,7 @@
 
 "Sharp Ruby Necklace":
   ingredients:
-    "Necklace Mold": 400
+    "Accessory Mold": 400
     "Flame Element": 330
     "Van Gogh's Soul Stone": 2
     "Ruby": 400
@@ -15965,7 +19416,7 @@
 
 "Tough Ruby Necklace":
   ingredients:
-    "Necklace Mold": 400
+    "Accessory Mold": 400
     "Flame Element": 330
     "Van Gogh's Soul Stone": 2
     "Ruby": 400
@@ -15975,7 +19426,7 @@
 
 "Shimmering Sapphire Necklace":
   ingredients:
-    "Necklace Mold": 500
+    "Accessory Mold": 500
     "Earth Essence": 50
     "Corrupted Unicorn Tear": 3
     "Shimmering Opal": 120
@@ -15986,7 +19437,7 @@
 
 "Sharp Sapphire Necklace":
   ingredients:
-    "Necklace Mold": 500
+    "Accessory Mold": 500
     "Earth Essence": 50
     "Corrupted Unicorn Tear": 3
     "Shimmering Opal": 120
@@ -15997,7 +19448,7 @@
 
 "Tough Sapphire Necklace":
   ingredients:
-    "Necklace Mold": 500
+    "Accessory Mold": 500
     "Earth Essence": 50
     "Corrupted Unicorn Tear": 3
     "Shimmering Opal": 120
@@ -16005,6 +19456,35 @@
   workload: 80000000
   skill: "Accessory"
   skill_lvl: 107
+
+"Riederan's Necklace":
+  ingredients:
+    "Riederan's Soul Shard": 25
+    "Historical Essence": 100
+    "Accessory Mold": 500
+    "Shimmering Opal": 500
+    "Shimmering Sapphire": 300
+    "Large Diamond": 30
+    "Atlantis Gold Coin": 100
+    "Sunset Afterglow": 10
+  workload: 1500000000
+  skill: "Accessory"
+  skill_lvl: 120
+
+"Merlin's Necklace":
+  ingredients:
+    "Mystic Gem": 1000
+    "Accessory Mold": 8000
+    "Flame Element": 7000
+    "Van Gogh's Soul Stone": 40
+    "Ruby": 8000
+    "Shimmering Sapphire": 300
+    "Large Diamond": 300
+    "Atlantis Platinum Coin": 1000
+    "Seer's Stone": 1000
+  workload: 5000000000
+  skill: "Accessory"
+  skill_lvl: 145
 
 "Spirit Orb":
   fixed_price: 900
@@ -16309,6 +19789,32 @@
   workload: 125000000
   skill: "Orb"
   skill_lvl: 118
+
+"Twilight Orb":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 120
+    "Atlantis Gold Coin": 10
+    "Shard of Beginning": 5
+    "Fused Devil Stone": 1
+    "Oriharukon": 30
+  workload: 160000000
+  skill: "Orb"
+  skill_lvl: 120
+
+"Abyssal Orb":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 246250000
+  skill: "Orb"
+  skill_lvl: 120
 
 "Spirit Leggings":
   fixed_price: 500
@@ -16904,6 +20410,118 @@
   skill: "Pants"
   skill_lvl: 124
 
+"Twilight Greaves":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 120
+    "Atlantis Gold Coin": 10
+    "Shard of Beginning": 5
+    "Fused Devil Stone": 1
+    "Oriharukon": 30
+  workload: 350000000
+  skill: "Pants"
+  skill_lvl: 130
+
+"Twilight Pants":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 120
+    "Atlantis Gold Coin": 10
+    "Shard of Beginning": 5
+    "Fused Devil Stone": 1
+    "Oriharukon": 30
+  workload: 350000000
+  skill: "Pants"
+  skill_lvl: 128
+
+"Riederan's Greaves":
+  ingredients:
+    "Riederan's Soul Shard": 5
+    "Voice of Terror": 100
+    "Oriharukon": 150
+    "Atlantis Gold Coin": 50
+    "Sunset Afterglow": 3
+    "Earth Essence": 300
+  workload: 900000000
+  skill: "Pants"
+  skill_lvl: 135
+
+"Riederan's Leggings":
+  ingredients:
+    "Riederan's Soul Shard": 5
+    "Voice of Terror": 100
+    "Oriharukon": 150
+    "Atlantis Gold Coin": 50
+    "Sunset Afterglow": 3
+    "Earth Essence": 300
+  workload: 900000000
+  skill: "Pants"
+  skill_lvl: 135
+
+"Abyssal Greaves":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 350020000
+  skill: "Pants"
+  skill_lvl: 138
+
+"Abyssal Leggings":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 350020000
+  skill: "Pants"
+  skill_lvl: 138
+
+"Apocalyptic Greaves":
+  ingredients:
+    "Riederan's Soul Stone of the Dead": 1
+    "Earth Essence": 400
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 50
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Shard of Beginning": 8
+    "Atlantis Platinum Coin": 50
+    "Hydra's Poisonous Gland": 40
+    "Heavenly Crystal": 200
+    "Van Gogh's Soul Stone": 15
+  workload: 700040000
+  skill: "Pants"
+  skill_lvl: 160
+
+"Apocalyptic Leggings":
+  ingredients:
+    "Riederan's Soul Stone of the Dead": 1
+    "Earth Essence": 400
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 50
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Shard of Beginning": 8
+    "Atlantis Platinum Coin": 50
+    "Hydra's Poisonous Gland": 40
+    "Heavenly Crystal": 200
+    "Van Gogh's Soul Stone": 15
+  workload: 700040000
+  skill: "Pants"
+  skill_lvl: 160
+
 "Spirit Power Saw":
   fixed_price: 900
   ingredients:
@@ -17209,6 +20827,47 @@
   workload: 480000000
   skill: "Power Saw"
   skill_lvl: 130
+
+"Twilight Power Saw":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 150
+    "Atlantis Gold Coin": 15
+    "Shard of Beginning": 10
+    "Fused Devil Stone": 3
+    "Oriharukon": 50
+  workload: 550000000
+  skill: "Power Saw"
+  skill_lvl: 133
+
+"Abyssal Power Saw":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 705000000
+  skill: "Power Saw"
+  skill_lvl: 138
+
+"Sloth's Power Saw [Normal]":
+  ingredients:
+    "Earth Essence": 9999
+    "Light of Judgment": 9999
+    "Sunset Afterglow": 9999
+    "Shard of Beginning": 9999
+    "Darkness Origin": 9999
+    "Enriched Adamantium Ingot": 9999
+    "Frozen Cold Crystal": 1000
+    "Multi-Hued Soul Jewel": 9999
+    "Brilliant Soul Stone": 9999
+  workload: 50000000000
+  skill: "Power Saw"
+  skill_lvl: 180
 
 "Ring of Dull Swords":
   ingredients:
@@ -17639,6 +21298,20 @@
   workload: 150000000
   skill: "Accessory"
   skill_lvl: 113
+
+"Merlin's Ring":
+  ingredients:
+    "Mystic Gem": 2000
+    "Crystal of Temptation": 6000
+    "Hydra's Poisonous Gland": 1000
+    "Blue Sapphire": 2000
+    "Shimmering Sapphire": 300
+    "Large Diamond": 300
+    "Atlantis Platinum Coin": 500
+    "Seer's Stone": 1000
+  workload: 5000000000
+  skill: "Accessory"
+  skill_lvl: 155
 
 "Scroll of Purification [III]":
   ingredients:
@@ -18096,6 +21769,32 @@
   workload: 150000000
   skill: "Shield"
   skill_lvl: 118
+
+"Twilight Shield":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 120
+    "Atlantis Gold Coin": 10
+    "Shard of Beginning": 5
+    "Fused Devil Stone": 1
+    "Oriharukon": 30
+  workload: 200000000
+  skill: "Shield"
+  skill_lvl: 120
+
+"Abyssal Shield":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 275000000
+  skill: "Shield"
+  skill_lvl: 120
 
 "Spirit Shoes":
   fixed_price: 300
@@ -18977,6 +22676,174 @@
   skill: "Shoes"
   skill_lvl: 125
 
+"Twilight Boots":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 120
+    "Atlantis Gold Coin": 10
+    "Shard of Beginning": 5
+    "Fused Devil Stone": 1
+    "Oriharukon": 30
+  workload: 250000000
+  skill: "Shoes"
+  skill_lvl: 130
+
+"Twilight Chain Boots":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 120
+    "Atlantis Gold Coin": 10
+    "Shard of Beginning": 5
+    "Fused Devil Stone": 1
+    "Oriharukon": 30
+  workload: 250000000
+  skill: "Shoes"
+  skill_lvl: 129
+
+"Twilight Shoes":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 120
+    "Atlantis Gold Coin": 10
+    "Shard of Beginning": 5
+    "Fused Devil Stone": 1
+    "Oriharukon": 30
+  workload: 250000000
+  skill: "Shoes"
+  skill_lvl: 128
+
+"Riederan's Boots":
+  ingredients:
+    "Riederan's Soul Shard": 5
+    "Voice of Terror": 100
+    "Oriharukon": 150
+    "Atlantis Gold Coin": 50
+    "Sunset Afterglow": 3
+    "Earth Essence": 300
+  workload: 900000000
+  skill: "Shoes"
+  skill_lvl: 135
+
+"Riederan's Chain Boots":
+  ingredients:
+    "Riederan's Soul Shard": 5
+    "Voice of Terror": 100
+    "Oriharukon": 150
+    "Atlantis Gold Coin": 50
+    "Sunset Afterglow": 3
+    "Earth Essence": 300
+  workload: 900000000
+  skill: "Shoes"
+  skill_lvl: 135
+
+"Riederan's Shoes":
+  ingredients:
+    "Riederan's Soul Shard": 5
+    "Voice of Terror": 100
+    "Oriharukon": 150
+    "Atlantis Gold Coin": 50
+    "Sunset Afterglow": 3
+    "Earth Essence": 300
+  workload: 900000000
+  skill: "Shoes"
+  skill_lvl: 135
+
+"Abyssal Boots":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 330000000
+  skill: "Shoes"
+  skill_lvl: 138
+
+"Abyssal Chain Boots":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 330000000
+  skill: "Shoes"
+  skill_lvl: 138
+
+"Abyssal Shoes":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 330000000
+  skill: "Shoes"
+  skill_lvl: 138
+
+"Apocalyptic Boots":
+  ingredients:
+    "Riederan's Soul Stone of the Dead": 1
+    "Earth Essence": 400
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 50
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Shard of Beginning": 8
+    "Atlantis Platinum Coin": 50
+    "Hydra's Poisonous Gland": 40
+    "Heavenly Crystal": 200
+    "Van Gogh's Soul Stone": 15
+  workload: 660000000
+  skill: "Shoes"
+  skill_lvl: 160
+
+"Apocalyptic Chain Boots":
+  ingredients:
+    "Riederan's Soul Stone of the Dead": 1
+    "Earth Essence": 400
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 50
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Shard of Beginning": 8
+    "Atlantis Platinum Coin": 50
+    "Hydra's Poisonous Gland": 40
+    "Heavenly Crystal": 200
+    "Van Gogh's Soul Stone": 15
+  workload: 660000000
+  skill: "Shoes"
+  skill_lvl: 160
+
+"Apocalyptic Shoes":
+  ingredients:
+    "Riederan's Soul Stone of the Dead": 1
+    "Earth Essence": 400
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 50
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Shard of Beginning": 8
+    "Atlantis Platinum Coin": 50
+    "Hydra's Poisonous Gland": 40
+    "Heavenly Crystal": 200
+    "Van Gogh's Soul Stone": 15
+  workload: 660000000
+  skill: "Shoes"
+  skill_lvl: 160
+
 "Spirit Spear":
   fixed_price: 900
   ingredients:
@@ -19283,6 +23150,47 @@
   skill: "Spear"
   skill_lvl: 130
 
+"Twilight Lance":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 150
+    "Atlantis Gold Coin": 15
+    "Shard of Beginning": 10
+    "Fused Devil Stone": 3
+    "Oriharukon": 50
+  workload: 550000000
+  skill: "Spear"
+  skill_lvl: 133
+
+"Abyssal Lance":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 705000000
+  skill: "Spear"
+  skill_lvl: 138
+
+"Sloth's Spear [Normal]":
+  ingredients:
+    "Earth Essence": 9999
+    "Light of Judgment": 9999
+    "Sunset Afterglow": 9999
+    "Shard of Beginning": 9999
+    "Darkness Origin": 9999
+    "Enriched Adamantium Ingot": 9999
+    "Frozen Cold Crystal": 1000
+    "Multi-Hued Soul Jewel": 9999
+    "Brilliant Soul Stone": 9999
+  workload: 50000000000
+  skill: "Spear"
+  skill_lvl: 180
+
 "Spirit Staff":
   fixed_price: 900
   ingredients:
@@ -19588,6 +23496,47 @@
   workload: 480000000
   skill: "Staff"
   skill_lvl: 130
+
+"Twilight Staff":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 150
+    "Atlantis Gold Coin": 15
+    "Shard of Beginning": 10
+    "Fused Devil Stone": 3
+    "Oriharukon": 50
+  workload: 550000000
+  skill: "Staff"
+  skill_lvl: 133
+
+"Abyssal Staff":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 705000000
+  skill: "Staff"
+  skill_lvl: 138
+
+"Sloth's Staff [Normal]":
+  ingredients:
+    "Earth Essence": 9999
+    "Light of Judgment": 9999
+    "Sunset Afterglow": 9999
+    "Shard of Beginning": 9999
+    "Darkness Origin": 9999
+    "Enriched Adamantium Ingot": 9999
+    "Frozen Cold Crystal": 1000
+    "Multi-Hued Soul Jewel": 9999
+    "Brilliant Soul Stone": 9999
+  workload: 50000000000
+  skill: "Staff"
+  skill_lvl: 180
 
 "Blue Quill":
   fixed_price: 3000
@@ -20178,6 +24127,61 @@
   skill: "Sword"
   skill_lvl: 130
 
+"Twilight Sword":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 150
+    "Atlantis Gold Coin": 15
+    "Shard of Beginning": 10
+    "Fused Devil Stone": 3
+    "Oriharukon": 50
+  workload: 550000000
+  skill: "Sword"
+  skill_lvl: 133
+
+"Abyssal Sword":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 705000000
+  skill: "Sword"
+  skill_lvl: 138
+
+"Sloth's Sword [Normal]":
+  ingredients:
+    "Earth Essence": 9999
+    "Light of Judgment": 9999
+    "Sunset Afterglow": 9999
+    "Shard of Beginning": 9999
+    "Darkness Origin": 9999
+    "Enriched Adamantium Ingot": 9999
+    "Frozen Cold Crystal": 1000
+    "Multi-Hued Soul Jewel": 9999
+    "Brilliant Soul Stone": 9999
+  workload: 50000000000
+  skill: "Sword"
+  skill_lvl: 180
+
+"Shadow Blade":
+  ingredients:
+    "Abyssal Steel": 9
+    "Vengeful Catalyst": 3
+    "Large Animal Bone": 1000
+    "Ashen Crystal": 1000
+    "Titanium Ingot": 1000
+    "Enhanced Titanium Ingot": 150
+    "Adamantium Ingot": 1000
+    "Enriched Adamantium Ingot": 150
+  workload: 550000000
+  skill: "Sword"
+  skill_lvl: 133
+
 "Hammer [I]":
   fixed_price: 100
 
@@ -20230,9 +24234,6 @@
   workload: 15450
   skill: "Tool"
   skill_lvl: 15
-
-"Vulcan's Hammer":
-  market_price: 0
 
 "Animal Replica":
   ingredients:
@@ -20550,6 +24551,47 @@
   skill: "Whip"
   skill_lvl: 130
 
+"Twilight Whip":
+  ingredients:
+    "Sunset Afterglow": 1
+    "Earth Essence": 150
+    "Atlantis Gold Coin": 15
+    "Shard of Beginning": 10
+    "Fused Devil Stone": 3
+    "Oriharukon": 50
+  workload: 550000000
+  skill: "Whip"
+  skill_lvl: 133
+
+"Abyssal Whip":
+  ingredients:
+    "Darkness Origin": 1
+    "Earth Essence": 200
+    "Atlantis Gold Coin": 15
+    "Voice of Terror": 80
+    "Historical Essence": 40
+    "Oriharukon": 150
+    "Shard of Beginning": 4
+    "Obsidian Shard": 50
+  workload: 705000000
+  skill: "Whip"
+  skill_lvl: 138
+
+"Sloth's Whip [Normal]":
+  ingredients:
+    "Earth Essence": 9999
+    "Light of Judgment": 9999
+    "Sunset Afterglow": 9999
+    "Shard of Beginning": 9999
+    "Darkness Origin": 9999
+    "Enriched Adamantium Ingot": 9999
+    "Frozen Cold Crystal": 1000
+    "Multi-Hued Soul Jewel": 9999
+    "Brilliant Soul Stone": 9999
+  workload: 50000000000
+  skill: "Whip"
+  skill_lvl: 180
+
 "Thick Tree Branch":
   fixed_price: 300
 
@@ -20564,6 +24606,9 @@
 
 "Big Slab of Lumber":
   fixed_price: 5000
+
+"Black Wood":
+  market_price: 0
 
 "Green Decorative Curtain":
   fixed_price: 2940000

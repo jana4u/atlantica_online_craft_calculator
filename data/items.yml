@@ -1334,6 +1334,22 @@
   skill: "Armor Fist"
   skill_lvl: 180
 
+"Apocalypse Gauntlet":
+  ingredients:
+    "Essence of the Lich Riederan": 1
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 200
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Atlantis Gold Coin": 50
+    "Atlantis Platinum Coin": 5
+    "Dragon's Talisman": 20
+    "Luminance of Magic": 20
+  workload: 920000000
+  skill: "Armor Fist"
+  skill_lvl: 160
+
 "Wooden Arrow":
   ingredients:
     "Maple": 4
@@ -1813,6 +1829,22 @@
   workload: 50000000000
   skill: "Axe"
   skill_lvl: 180
+
+"Apocalypse Axe":
+  ingredients:
+    "Essence of the Lich Riederan": 1
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 200
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Atlantis Gold Coin": 50
+    "Atlantis Platinum Coin": 5
+    "Dragon's Talisman": 20
+    "Luminance of Magic": 20
+  workload: 920000000
+  skill: "Axe"
+  skill_lvl: 160
 
 "Book of Anguish":
   fixed_price: 20000
@@ -4964,12 +4996,12 @@
   skill: "Book"
   skill_lvl: 61
 
-"Book: Seal Power Saw [I]":
+"Magic Book: Melodic Seal [Lv.1]":
   market_price: 0
 
-"Book: Seal Power Saw [II]":
+"Magic Book: Melodic Seal [Lv.2]":
   ingredients:
-    "Book: Seal Power Saw [I]": 20
+    "Magic Book: Melodic Seal [Lv.1]": 20
     "Quill": 5
     "Parchment": 20
     "Deluxe Ink Bottle": 15
@@ -4981,9 +5013,9 @@
   skill: "Book"
   skill_lvl: 38
 
-"Book: Seal Power Saw [III]":
+"Magic Book: Melodic Seal [Lv.3]":
   ingredients:
-    "Book: Seal Power Saw [II]": 20
+    "Magic Book: Melodic Seal [Lv.2]": 20
     "Magic Pen": 4
     "Magic Parchment": 5
     "Magical Ink Bottle": 15
@@ -4995,9 +5027,9 @@
   skill: "Book"
   skill_lvl: 52
 
-"Book: Seal Power Saw [IV]":
+"Magic Book: Melodic Seal [Lv.4]":
   ingredients:
-    "Book: Seal Power Saw [III]": 20
+    "Magic Book: Melodic Seal [Lv.3]": 20
     "Magic Pen": 4
     "Magic Parchment": 5
     "Magical Ink Bottle": 15
@@ -11225,6 +11257,84 @@
   skill: "Book"
   skill_lvl: 85
 
+"Magic Book: Phalanx [Lv.1]":
+  market_price: 0
+
+"Magic Book: Phalanx [Lv.2]":
+  ingredients:
+    "Magic Book: Phalanx [Lv.1]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 90000000
+  skill: "Book"
+  skill_lvl: 75
+
+"Magic Book: Phalanx [Lv.3]":
+  ingredients:
+    "Magic Book: Phalanx [Lv.2]": 20
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 120000000
+  skill: "Book"
+  skill_lvl: 80
+
+"Magic Book: Phalanx [Lv.4]":
+  ingredients:
+    "Magic Book: Phalanx [Lv.3]": 20
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Magic Book: Desperate Resistance [Lv.1]":
+  market_price: 0
+
+"Magic Book: Desperate Resistance [Lv.2]":
+  ingredients:
+    "Magic Book: Desperate Resistance [Lv.1]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 90000000
+  skill: "Book"
+  skill_lvl: 75
+
+"Magic Book: Desperate Resistance [Lv.3]":
+  ingredients:
+    "Magic Book: Desperate Resistance [Lv.2]": 20
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 120000000
+  skill: "Book"
+  skill_lvl: 80
+
+"Magic Book: Desperate Resistance [Lv.4]":
+  ingredients:
+    "Magic Book: Desperate Resistance [Lv.3]": 20
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
 "Spirit Bow":
   fixed_price: 900
   ingredients:
@@ -11571,6 +11681,22 @@
   workload: 50000000000
   skill: "Bow"
   skill_lvl: 180
+
+"Apocalypse Bow":
+  ingredients:
+    "Essence of the Lich Riederan": 1
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 200
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Atlantis Gold Coin": 50
+    "Atlantis Platinum Coin": 5
+    "Dragon's Talisman": 20
+    "Luminance of Magic": 20
+  workload: 920000000
+  skill: "Bow"
+  skill_lvl: 160
 
 "Ancient Book Box of Monks":
   market_price: 0
@@ -12809,6 +12935,22 @@
   workload: 50000000000
   skill: "Cannon"
   skill_lvl: 180
+
+"Apocalypse Cannon":
+  ingredients:
+    "Essence of the Lich Riederan": 1
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 200
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Atlantis Gold Coin": 50
+    "Atlantis Platinum Coin": 5
+    "Dragon's Talisman": 20
+    "Luminance of Magic": 20
+  workload: 920000000
+  skill: "Cannon"
+  skill_lvl: 160
 
 "Steel Cannonball":
   ingredients:
@@ -15521,6 +15663,22 @@
   skill: "Gun"
   skill_lvl: 180
 
+"Apocalypse Rifle":
+  ingredients:
+    "Essence of the Lich Riederan": 1
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 200
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Atlantis Gold Coin": 50
+    "Atlantis Platinum Coin": 5
+    "Dragon's Talisman": 20
+    "Luminance of Magic": 20
+  workload: 920000000
+  skill: "Gun"
+  skill_lvl: 160
+
 "Spirit Helmet":
   fixed_price: 600
   ingredients:
@@ -16919,6 +17077,22 @@
   skill: "Instrument"
   skill_lvl: 180
 
+"Apocalypse Instrument":
+  ingredients:
+    "Essence of the Lich Riederan": 1
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 200
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Atlantis Gold Coin": 50
+    "Atlantis Platinum Coin": 5
+    "Dragon's Talisman": 20
+    "Luminance of Magic": 20
+  workload: 920000000
+  skill: "Instrument"
+  skill_lvl: 160
+
 "Secrets of Time: Monk":
   ingredients:
     "Book: Holy Guard [I]": 1
@@ -17417,7 +17591,7 @@
 
 "Secrets of Time: Minstrel":
   ingredients:
-    "Book: Seal Power Saw [III]": 1
+    "Magic Book: Melodic Seal [Lv.3]": 1
     "Flame Element": 15
     "Dragon Jewel": 10
     "Dragon Crystal": 20
@@ -19248,6 +19422,15 @@
 "Vengeful Catalyst":
   market_price: 0
 
+"Essence of the Lich Riederan":
+  market_price: 0
+
+"Dragon's Talisman":
+  market_price: 0
+
+"Luminance of Magic":
+  market_price: 0
+
 "Wooden Music Sheet":
   ingredients:
     "Maple": 5
@@ -19815,6 +19998,22 @@
   workload: 246250000
   skill: "Orb"
   skill_lvl: 120
+
+"Apocalypse Orb":
+  ingredients:
+    "Essence of the Lich Riederan": 1
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 200
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Atlantis Gold Coin": 50
+    "Atlantis Platinum Coin": 5
+    "Dragon's Talisman": 20
+    "Luminance of Magic": 20
+  workload: 920000000
+  skill: "Orb"
+  skill_lvl: 160
 
 "Spirit Leggings":
   fixed_price: 500
@@ -20869,6 +21068,22 @@
   skill: "Power Saw"
   skill_lvl: 180
 
+"Apocalypse Chainsaw":
+  ingredients:
+    "Essence of the Lich Riederan": 1
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 200
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Atlantis Gold Coin": 50
+    "Atlantis Platinum Coin": 5
+    "Dragon's Talisman": 20
+    "Luminance of Magic": 20
+  workload: 920000000
+  skill: "Power Saw"
+  skill_lvl: 160
+
 "Ring of Dull Swords":
   ingredients:
     "Ashen Crystal": 10
@@ -21795,6 +22010,22 @@
   workload: 275000000
   skill: "Shield"
   skill_lvl: 120
+
+"Apocalypse Shield":
+  ingredients:
+    "Essence of the Lich Riederan": 1
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 200
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Atlantis Gold Coin": 50
+    "Atlantis Platinum Coin": 5
+    "Dragon's Talisman": 20
+    "Luminance of Magic": 20
+  workload: 920000000
+  skill: "Shield"
+  skill_lvl: 160
 
 "Spirit Shoes":
   fixed_price: 300
@@ -23191,6 +23422,22 @@
   skill: "Spear"
   skill_lvl: 180
 
+"Apocalypse Spear":
+  ingredients:
+    "Essence of the Lich Riederan": 1
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 200
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Atlantis Gold Coin": 50
+    "Atlantis Platinum Coin": 5
+    "Dragon's Talisman": 20
+    "Luminance of Magic": 20
+  workload: 920000000
+  skill: "Spear"
+  skill_lvl: 160
+
 "Spirit Staff":
   fixed_price: 900
   ingredients:
@@ -23537,6 +23784,22 @@
   workload: 50000000000
   skill: "Staff"
   skill_lvl: 180
+
+"Apocalypse Staff":
+  ingredients:
+    "Essence of the Lich Riederan": 1
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 200
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Atlantis Gold Coin": 50
+    "Atlantis Platinum Coin": 5
+    "Dragon's Talisman": 20
+    "Luminance of Magic": 20
+  workload: 920000000
+  skill: "Staff"
+  skill_lvl: 160
 
 "Blue Quill":
   fixed_price: 3000
@@ -24182,6 +24445,22 @@
   skill: "Sword"
   skill_lvl: 133
 
+"Apocalypse Sword":
+  ingredients:
+    "Essence of the Lich Riederan": 1
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 200
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Atlantis Gold Coin": 50
+    "Atlantis Platinum Coin": 5
+    "Dragon's Talisman": 20
+    "Luminance of Magic": 20
+  workload: 920000000
+  skill: "Sword"
+  skill_lvl: 160
+
 "Hammer [I]":
   fixed_price: 100
 
@@ -24591,6 +24870,22 @@
   workload: 50000000000
   skill: "Whip"
   skill_lvl: 180
+
+"Apocalypse Whip":
+  ingredients:
+    "Essence of the Lich Riederan": 1
+    "Abyssal Oriharukon": 200
+    "Abyssal Obsidian": 200
+    "Riederan's Soul Shard": 40
+    "Voice of Terror": 40
+    "Historical Essence": 40
+    "Atlantis Gold Coin": 50
+    "Atlantis Platinum Coin": 5
+    "Dragon's Talisman": 20
+    "Luminance of Magic": 20
+  workload: 920000000
+  skill: "Whip"
+  skill_lvl: 160
 
 "Thick Tree Branch":
   fixed_price: 300

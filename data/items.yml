@@ -11335,6 +11335,519 @@
   skill: "Book"
   skill_lvl: 85
 
+"Magic Book: Blessing of the Black Moon [Lv.1]":
+  market_price: 0
+
+"Magic Book: Blessing of the Black Moon [Lv.2]":
+  ingredients:
+    "Magic Book: Blessing of the Black Moon [Lv.1]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 90000000
+  skill: "Book"
+  skill_lvl: 75
+
+"Magic Book: Blessing of the Black Moon [Lv.3]":
+  ingredients:
+    "Magic Book: Blessing of the Black Moon [Lv.2]": 20
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 120000000
+  skill: "Book"
+  skill_lvl: 80
+
+"Magic Book: Blessing of the Black Moon [Lv.4]":
+  ingredients:
+    "Magic Book: Blessing of the Black Moon [Lv.3]": 20
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Magic Book: Splitting Starlight [Lv.1]":
+  market_price: 0
+
+"Magic Book: Splitting Starlight [Lv.2]":
+  ingredients:
+    "Magic Book: Splitting Starlight [Lv.1]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Magic Book: Splitting Starlight [Lv.3]":
+  ingredients:
+    "Magic Book: Splitting Starlight [Lv.2]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Magic Book: Splitting Starlight [Lv.4]":
+  ingredients:
+    "Magic Book: Splitting Starlight [Lv.3]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Magic Book: Starlight Dash [Lv.1]":
+  market_price: 0
+
+"Magic Book: Starlight Dash [Lv.2]":
+  ingredients:
+    "Magic Book: Starlight Dash [Lv.1]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Magic Book: Starlight Dash [Lv.3]":
+  ingredients:
+    "Magic Book: Starlight Dash [Lv.2]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Magic Book: Starlight Dash [Lv.4]":
+  ingredients:
+    "Magic Book: Starlight Dash [Lv.3]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Magic Book: Starlight Boost [Lv.1]":
+  market_price: 0
+
+"Magic Book: Starlight Boost [Lv.2]":
+  ingredients:
+    "Magic Book: Starlight Boost [Lv.1]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Magic Book: Starlight Boost [Lv.3]":
+  ingredients:
+    "Magic Book: Starlight Boost [Lv.2]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Magic Book: Starlight Boost [Lv.4]":
+  ingredients:
+    "Magic Book: Starlight Boost [Lv.3]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Magic Book: Ann's Rush [Lv.1]":
+  market_price: 0
+
+"Magic Book: Ann's Rush [Lv.2]":
+  ingredients:
+    "Magic Book: Ann's Rush [Lv.1]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Magic Book: Ann's Rush [Lv.3]":
+  ingredients:
+    "Magic Book: Ann's Rush [Lv.2]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Magic Book: Ann's Rush [Lv.4]":
+  ingredients:
+    "Magic Book: Ann's Rush [Lv.3]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Magic Book: Protection of Galaxy [Lv.1]":
+  market_price: 0
+
+"Magic Book: Protection of Galaxy [Lv.2]":
+  ingredients:
+    "Magic Book: Protection of Galaxy [Lv.1]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Magic Book: Protection of Galaxy [Lv.3]":
+  ingredients:
+    "Magic Book: Protection of Galaxy [Lv.2]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Magic Book: Protection of Galaxy [Lv.4]":
+  ingredients:
+    "Magic Book: Protection of Galaxy [Lv.3]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Magic Book: Flash of Galaxy [Lv.1]":
+  market_price: 0
+
+"Magic Book: Flash of Galaxy [Lv.2]":
+  ingredients:
+    "Magic Book: Flash of Galaxy [Lv.1]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Magic Book: Flash of Galaxy [Lv.3]":
+  ingredients:
+    "Magic Book: Flash of Galaxy [Lv.2]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Magic Book: Flash of Galaxy [Lv.4]":
+  ingredients:
+    "Magic Book: Flash of Galaxy [Lv.3]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Magic Book: Blessing of Galaxy [Lv.1]":
+  market_price: 0
+
+"Magic Book: Blessing of Galaxy [Lv.2]":
+  ingredients:
+    "Magic Book: Blessing of Galaxy [Lv.1]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Magic Book: Blessing of Galaxy [Lv.3]":
+  ingredients:
+    "Magic Book: Blessing of Galaxy [Lv.2]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Magic Book: Blessing of Galaxy [Lv.4]":
+  ingredients:
+    "Magic Book: Blessing of Galaxy [Lv.3]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Magic Book: Ari's Patience [Lv.1]":
+  market_price: 0
+
+"Magic Book: Ari's Patience [Lv.2]":
+  ingredients:
+    "Magic Book: Ari's Patience [Lv.1]": 20
+    "Heavenly Crystal": 50
+    "Wiseman's Golden Pen": 10
+    "Wiseman's Golden Parchment": 10
+    "Wiseman's Golden Ink Bottle": 50
+  batch_size: 10
+  workload: 150000000
+  skill: "Book"
+  skill_lvl: 85
+
+"Magic Book: Ari's Patience [Lv.3]":
+  ingredients:
+    "Magic Book: Ari's Patience [Lv.2]": 30
+    "Heavenly Crystal": 80
+    "Wiseman's Golden Pen": 20
+    "Wiseman's Golden Parchment": 20
+    "Wiseman's Golden Ink Bottle": 100
+  batch_size: 10
+  workload: 300000000
+  skill: "Book"
+  skill_lvl: 90
+
+"Magic Book: Ari's Patience [Lv.4]":
+  ingredients:
+    "Magic Book: Ari's Patience [Lv.3]": 50
+    "Heavenly Crystal": 150
+    "Wiseman's Golden Pen": 50
+    "Wiseman's Golden Parchment": 50
+    "Wiseman's Golden Ink Bottle": 200
+  batch_size: 10
+  workload: 1000000000
+  skill: "Book"
+  skill_lvl: 100
+
+"Spellbook: Resolute Will [Lv.1]  ":
+  market_price: 0
+
+"Spellbook: Resolute Will [Lv.2]  ":
+  ingredients:
+    "Spellbook: Resolute Will [Lv.1]  ": 20
+  batch_size: 10
+  workload: 400000
+  skill: "Book"
+  skill_lvl: 27
+
+"Spellbook: Resolute Will [Lv.3]  ":
+  ingredients:
+    "Spellbook: Resolute Will [Lv.2]  ": 20
+  batch_size: 10
+  workload: 2400000
+  skill: "Book"
+  skill_lvl: 45
+
+"Spellbook: Resolute Will [Lv.4]  ":
+  ingredients:
+    "Spellbook: Resolute Will [Lv.3]  ": 20
+  batch_size: 10
+  workload: 3380000
+  skill: "Book"
+  skill_lvl: 63
+
+"Spellbook: General's Command [Lv.1]  ":
+  market_price: 0
+
+"Spellbook: General's Command [Lv.2]  ":
+  ingredients:
+    "Spellbook: General's Command [Lv.1]  ": 20
+  batch_size: 10
+  workload: 400000
+  skill: "Book"
+  skill_lvl: 27
+
+"Spellbook: General's Command [Lv.3]  ":
+  ingredients:
+    "Spellbook: General's Command [Lv.2]  ": 20
+  batch_size: 10
+  workload: 2400000
+  skill: "Book"
+  skill_lvl: 45
+
+"Spellbook: General's Command [Lv.4]  ":
+  ingredients:
+    "Spellbook: General's Command [Lv.3]  ": 20
+  batch_size: 10
+  workload: 3380000
+  skill: "Book"
+  skill_lvl: 63
+
+"Spellbook: Goddess's Wrath [Lv.1]  ":
+  market_price: 0
+
+"Spellbook: Goddess's Wrath [Lv.2]  ":
+  ingredients:
+    "Spellbook: Goddess's Wrath [Lv.1]  ": 20
+  batch_size: 10
+  workload: 400000
+  skill: "Book"
+  skill_lvl: 27
+
+"Spellbook: Goddess's Wrath [Lv.3]":
+  ingredients:
+    "Spellbook: Goddess's Wrath [Lv.2]  ": 20
+  batch_size: 10
+  workload: 2400000
+  skill: "Book"
+  skill_lvl: 45
+
+"Spellbook: Goddess's Wrath [Lv.4]  ":
+  ingredients:
+    "Spellbook: Goddess's Wrath [Lv.3]": 20
+  batch_size: 10
+  workload: 3380000
+  skill: "Book"
+  skill_lvl: 63
+
+"Book: Holy Restraint [Lv.1]":
+  market_price: 0
+
+"Book: Holy Restraint [Lv.2]":
+  ingredients:
+    "Book: Holy Restraint [Lv.1]": 20
+  batch_size: 10
+  workload: 400000
+  skill: "Book"
+  skill_lvl: 27
+
+"Book: Holy Restraint [Lv.3]":
+  ingredients:
+    "Book: Holy Restraint [Lv.2]": 20
+  batch_size: 10
+  workload: 2400000
+  skill: "Book"
+  skill_lvl: 45
+
+"Book: Holy Restraint [Lv.4]":
+  ingredients:
+    "Book: Holy Restraint [Lv.3]": 20
+  batch_size: 10
+  workload: 3380000
+  skill: "Book"
+  skill_lvl: 63
+
+"Book: Judgment of the Forest [Lv.1]":
+  market_price: 0
+
+"Book: Judgment of the Forest [Lv.2]":
+  ingredients:
+    "Book: Judgment of the Forest [Lv.1]": 20
+  batch_size: 10
+  workload: 400000
+  skill: "Book"
+  skill_lvl: 27
+
+"Book: Judgment of the Forest [Lv.3]":
+  ingredients:
+    "Book: Judgment of the Forest [Lv.2]": 20
+  batch_size: 10
+  workload: 2400000
+  skill: "Book"
+  skill_lvl: 45
+
+"Book: Judgment of the Forest [Lv.4]":
+  ingredients:
+    "Book: Judgment of the Forest [Lv.3]": 20
+  batch_size: 10
+  workload: 3380000
+  skill: "Book"
+  skill_lvl: 63
+
+"Book: Summon Great Tree [Lv.1]":
+  market_price: 0
+
+"Book: Summon Great Tree [Lv.2]":
+  ingredients:
+    "Book: Summon Great Tree [Lv.1]": 20
+  batch_size: 10
+  workload: 400000
+  skill: "Book"
+  skill_lvl: 27
+
+"Book: Summon Great Tree [Lv.3]":
+  ingredients:
+    "Book: Summon Great Tree [Lv.2]": 20
+  batch_size: 10
+  workload: 2400000
+  skill: "Book"
+  skill_lvl: 45
+
+"Book: Summon Great Tree [Lv.4]":
+  ingredients:
+    "Book: Summon Great Tree [Lv.3]": 20
+  batch_size: 10
+  workload: 3380000
+  skill: "Book"
+  skill_lvl: 63
+
 "Spirit Bow":
   fixed_price: 900
   ingredients:
@@ -18397,6 +18910,27 @@
   skill: "Mana Stone"
   skill_lvl: 100
 
+"Artifact Low-Grade Enhancement Stone":
+  market_price: 0
+
+"Artifact Mid-Grade Enhancement Stone":
+  ingredients:
+    "Artifact Low-Grade Enhancement Stone": 10
+    "Atlas Ore": 1
+  batch_size: 5
+  workload: 2500000
+  skill: "Mana Stone"
+  skill_lvl: 60
+
+"Artifact High-Grade Enhancement Stone":
+  ingredients:
+    "Artifact Mid-Grade Enhancement Stone": 10
+    "Atlas Ore": 1
+  batch_size: 5
+  workload: 2500000
+  skill: "Mana Stone"
+  skill_lvl: 60
+
 "Ginseng":
   fixed_price: 100
 
@@ -18854,9 +19388,6 @@
   skill: "Medicine"
   skill_lvl: 95
 
-"Secret Vial of Potential [I]":
-  market_price: 0
-
 "Water of Life":
   market_price: 0
 
@@ -18972,19 +19503,6 @@
   skill: "Medicine"
   skill_lvl: 60
 
-"Secret Vial of Potential [II]":
-  ingredients:
-    "Secret Vial of Potential [I]": 20
-    "Mysterious Vial: Valor": 5
-    "Mysterious Vial: Wisdom": 5
-    "Mysterious Vial: Death": 5
-    "Monster Egg": 1000
-    "Oriental Mushroom": 200
-  batch_size: 10
-  workload: 7000000
-  skill: "Medicine"
-  skill_lvl: 70
-
 "Growth Vial [VII]":
   ingredients:
     "Growth Vial [VI]": 10
@@ -19004,6 +19522,22 @@
   workload: 10000
   skill: "Medicine"
   skill_lvl: 1
+
+"Secret Vial of Potential [I]":
+  market_price: 0
+
+"Secret Vial of Potential [II]":
+  ingredients:
+    "Secret Vial of Potential [I]": 20
+    "Mysterious Vial: Valor": 5
+    "Mysterious Vial: Wisdom": 5
+    "Mysterious Vial: Death": 5
+    "Monster Egg": 1000
+    "Oriental Mushroom": 200
+  batch_size: 10
+  workload: 7000000
+  skill: "Medicine"
+  skill_lvl: 70
 
 "Refined Mithril Ingot":
   ingredients:
@@ -33430,7 +33964,7 @@
   skill: "н Furniture"
   skill_lvl: 42
 
-"White Clover Dinner Table":
+"White Clover Banquet Table":
   fixed_price: 126000000
   ingredients:
     "Quality Ginkgo Wood": 100
@@ -33442,7 +33976,7 @@
   skill: "н Furniture"
   skill_lvl: 52
 
-"Green Clover Dinner Table":
+"Green Clover Banquet Table":
   fixed_price: 126000000
   ingredients:
     "Quality Ginkgo Wood": 100
@@ -33454,7 +33988,7 @@
   skill: "н Furniture"
   skill_lvl: 52
 
-"Four-Leaf Clover Dinner Table":
+"Green Four-Leaf Clover Banquet Table":
   fixed_price: 126000000
   ingredients:
     "Quality Ginkgo Wood": 100

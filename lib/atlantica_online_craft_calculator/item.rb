@@ -3,7 +3,7 @@ module AtlanticaOnlineCraftCalculator
     def self.load_data_from_yaml(data_file = File.join(File.dirname(__FILE__), '../../data', 'items.yml'))
       require 'yaml'
 
-      yaml_data = YAML::load(File.open(data_file))
+      yaml_data = YAML.safe_load_file(data_file, freeze: true)
 
       self.all = yaml_data
     end

@@ -1,8 +1,8 @@
+require 'yaml'
+
 module AtlanticaOnlineCraftCalculator
   class Item
     def self.load_data_from_yaml(data_file = File.join(File.dirname(__FILE__), '../../data', 'items.yml'))
-      require 'yaml'
-
       yaml_data = YAML.safe_load_file(data_file, freeze: true)
 
       self.all = yaml_data

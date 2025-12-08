@@ -1,7 +1,7 @@
+require 'csv'
+
 module AtlanticaOnlineCraftCalculator
   class CraftExperience
-    require 'csv'
-
     def self.load_levels_from_csv(data_file = File.join(File.dirname(__FILE__), '../../data', 'craft_experience_levels.csv'))
       csv_data = CSV.read(data_file, :headers => true)
 

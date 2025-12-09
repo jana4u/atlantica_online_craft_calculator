@@ -2,12 +2,14 @@ require File.join(File.dirname(__FILE__), 'testing_helper')
 require File.join(File.dirname(__FILE__), '../lib/atlantica_online_craft_calculator')
 
 class DataTestItems < Test::Unit::TestCase
+  DATA_HASH = AtlanticaOnlineCraftCalculator::Item.read_data_from_yaml_file(AtlanticaOnlineCraftCalculator::Item::DEFAULT_DATA_FILE_PATH)
+
   def setup
-    AtlanticaOnlineCraftCalculator::Item.load_data_from_yaml
+    AtlanticaOnlineCraftCalculator::Item.all = DATA_HASH
   end
 
   def test_lists_of_items
-    assert_equal 3032, AtlanticaOnlineCraftCalculator::Item.all.size
+    assert_equal items_count, AtlanticaOnlineCraftCalculator::Item.all.size
     assert AtlanticaOnlineCraftCalculator::Item.all.size > 0
     assert AtlanticaOnlineCraftCalculator::Item.ordered_items.size > 0
     assert_equal AtlanticaOnlineCraftCalculator::Item.all.size,
@@ -18,6 +20,16 @@ class DataTestItems < Test::Unit::TestCase
 
     assert AtlanticaOnlineCraftCalculator::Item.ordered_ingredient_items.size > 0
     assert AtlanticaOnlineCraftCalculator::Item.ordered_ingredient_items.size < AtlanticaOnlineCraftCalculator::Item.all.size
+  end
+
+  def test_lists_of_items_yaml_loading
+    AtlanticaOnlineCraftCalculator::Item.all = {}
+
+    assert_equal 0, AtlanticaOnlineCraftCalculator::Item.all.size
+
+    AtlanticaOnlineCraftCalculator::Item.load_data_from_yaml
+
+    assert_equal items_count, AtlanticaOnlineCraftCalculator::Item.all.size
   end
 
   def test_items_return_basic_data
@@ -93,7 +105,7 @@ class DataTestItems < Test::Unit::TestCase
       old_prices[item.name] = item.unit_price
     end
 
-    AtlanticaOnlineCraftCalculator::Item.load_data_from_yaml
+    AtlanticaOnlineCraftCalculator::Item.all = DATA_HASH
     AtlanticaOnlineCraftCalculator::Item.configure_custom_prices({ 'Ashen Crystal' => 5400 })
 
     item_names.each do |item_name|
@@ -197,5 +209,11 @@ class DataTestItems < Test::Unit::TestCase
       end
 
     end
+  end
+
+  private
+
+  def items_count
+    3032
   end
 end

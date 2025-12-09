@@ -2,10 +2,14 @@ require 'yaml'
 
 module AtlanticaOnlineCraftCalculator
   class Item
-    def self.load_data_from_yaml(data_file = File.join(File.dirname(__FILE__), '../../data', 'items.yml'))
-      yaml_data = YAML.safe_load_file(data_file, freeze: true)
+    DEFAULT_DATA_FILE_PATH = File.join(__dir__, "../../data/items.yml")
 
-      self.all = yaml_data
+    def self.load_data_from_yaml(data_file_path = DEFAULT_DATA_FILE_PATH)
+      self.all = read_data_from_yaml_file(data_file_path)
+    end
+
+    def self.read_data_from_yaml_file(data_file_path)
+      YAML.safe_load_file(data_file_path, freeze: true)
     end
 
     def self.configure_custom_prices(custom_prices)

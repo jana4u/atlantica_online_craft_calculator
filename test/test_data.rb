@@ -1,7 +1,7 @@
 require_relative 'testing_helper'
 require_relative '../lib/atlantica_online_craft_calculator/data'
 
-class TestCrafter < Minitest::Test
+class TestData < Minitest::Test
   def test_game_version
     assert AtlanticaOnlineCraftCalculator::Data.game_version
     assert AtlanticaOnlineCraftCalculator::Data.game_version > 0

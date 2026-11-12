@@ -2,7 +2,7 @@ require File.join(File.dirname(__FILE__), 'testing_helper')
 require File.join(File.dirname(__FILE__), '../lib/atlantica_online_craft_calculator', 'craft_experience_level')
 require File.join(File.dirname(__FILE__), '../lib/atlantica_online_craft_calculator', 'craft_experience')
 
-class DataTestCraftExperienceLevels < Minitest::Test
+class CraftExperienceLevelsDataTest < Minitest::Test
   def setup
     AtlanticaOnlineCraftCalculator::CraftExperience.load_levels_from_csv
   end

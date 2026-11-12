@@ -2,7 +2,7 @@ require File.join(File.dirname(__FILE__), 'testing_helper')
 require File.join(File.dirname(__FILE__), '../lib/atlantica_online_craft_calculator', 'craft_experience')
 require File.join(File.dirname(__FILE__), '../lib/atlantica_online_craft_calculator', 'skill_list')
 
-class TestSkillList < Minitest::Test
+class SkillListTest < Minitest::Test
   def test_item_creating
     [
       [1, 100],

@@ -1,13 +1,8 @@
 #!/usr/bin/env rake
 require "bundler/gem_tasks"
 
-require 'rake/testtask'
+require "minitest/test_task"
 
-Rake::TestTask.new(:test) do |t|
-  t.libs << 'lib'
-  t.libs << 'test'
-  t.pattern = 'test/suite_*.rb'
-  t.verbose = false
-end
+Minitest::TestTask.create
 
 task :default => :test

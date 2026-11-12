@@ -1,5 +1,7 @@
 require 'simplecov'
-SimpleCov.start
+SimpleCov.start do
+  skip '/test/'
+end
 
 require 'minitest/autorun'
 

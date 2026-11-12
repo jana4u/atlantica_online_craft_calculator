@@ -5,6 +5,6 @@ gemspec
 
 gem 'rake'
 
-gem 'test-unit'
+gem 'minitest'
 
 gem 'simplecov'

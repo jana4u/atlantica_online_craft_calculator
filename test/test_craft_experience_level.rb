@@ -1,7 +1,7 @@
 require File.join(File.dirname(__FILE__), 'testing_helper')
 require File.join(File.dirname(__FILE__), '../lib/atlantica_online_craft_calculator', 'craft_experience_level')
 
-class TestCraftExperienceLevel < Test::Unit::TestCase
+class TestCraftExperienceLevel < Minitest::Test
   def test_level_and_xp
     [
       [1, 0],

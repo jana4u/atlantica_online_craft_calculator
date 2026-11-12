@@ -1,7 +1,7 @@
 require File.join(File.dirname(__FILE__), 'testing_helper')
 require File.join(File.dirname(__FILE__), '../lib/atlantica_online_craft_calculator', 'crafter')
 
-class TestCrafter < Test::Unit::TestCase
+class TestCrafter < Minitest::Test
   def test_auto_craft_lvl_range
     {
       "" => 1,

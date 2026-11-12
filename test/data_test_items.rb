@@ -1,7 +1,7 @@
 require File.join(File.dirname(__FILE__), 'testing_helper')
 require File.join(File.dirname(__FILE__), '../lib/atlantica_online_craft_calculator')
 
-class DataTestItems < Test::Unit::TestCase
+class DataTestItems < Minitest::Test
   DATA_HASH = AtlanticaOnlineCraftCalculator::Item.read_data_from_yaml_file(AtlanticaOnlineCraftCalculator::Item::DEFAULT_DATA_FILE_PATH)
 
   def setup
